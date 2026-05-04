@@ -68,7 +68,7 @@ layout: base.njk
 
   <div class="hymn-nav-row">
     {% if prevHymn and prevHymn.languages[lang] %}
-      <a href="{{ prevHymn.languages[lang].url }}" class="nav-arrow" aria-label="Föregående sång ({{ prevHymn.number }})" title="Föregående">
+      <a href="{{ prevHymn.languages[lang].url | url }}" class="nav-arrow" aria-label="Föregående sång ({{ prevHymn.number }})" title="Föregående">
         <svg viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <path d="M12 4l-6 6 6 6"/>
         </svg>
@@ -88,7 +88,7 @@ layout: base.njk
     </nav>
 
     {% if nextHymn and nextHymn.languages[lang] %}
-      <a href="{{ nextHymn.languages[lang].url }}" class="nav-arrow" aria-label="Nästa sång ({{ nextHymn.number }})" title="Nästa">
+      <a href="{{ nextHymn.languages[lang].url | url }}" class="nav-arrow" aria-label="Nästa sång ({{ nextHymn.number }})" title="Nästa">
         <svg viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <path d="M8 4l6 6-6 6"/>
         </svg>

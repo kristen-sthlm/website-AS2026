@@ -90,7 +90,7 @@ permalink: /
                 data-title-sort="{{ hymn.verses[0].firstLine | lower }}"
                 data-search-text="{{ verse.searchText }}">
               <td class="line">
-                <a href="{{ sv.url }}">
+                <a href="{{ sv.url | url }}">
                   {% if loop.first %}
                     <strong>{{ verse.firstLine }}</strong>
                   {% else %}
@@ -99,10 +99,10 @@ permalink: /
                 </a>
               </td>
               <td class="verse">
-                <a href="{{ sv.url }}">v.{{ verse.number }}</a>
+                <a href="{{ sv.url | url }}">v.{{ verse.number }}</a>
               </td>
               <td class="num">
-                <a href="{{ sv.url }}">{{ hymn.number }}</a>
+                <a href="{{ sv.url | url }}">{{ hymn.number }}</a>
               </td>
             </tr>
           {% endfor %}
