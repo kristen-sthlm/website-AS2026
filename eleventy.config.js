@@ -77,6 +77,7 @@ export default function (eleventyConfig) {
   });
 
   return {
+    pathPrefix: "/website-AS2026/",
     dir: {
       input: "src",
       output: "_site",

@@ -6,7 +6,7 @@ permalink: /
 
 <div class="index-page">
   <header class="index-masthead">
-    <a href="/" class="index-masthead-title">{{ site.title }}</a>
+    <a href="{{ '/' | url }}" class="index-masthead-title">{{ site.title }}</a>
 
     <details class="menu" id="index-menu">
       <summary class="menu-trigger" aria-label="Mer information">
@@ -17,7 +17,7 @@ permalink: /
         </svg>
       </summary>
       <div class="menu-panel" role="menu">
-        <a href="/preface/" class="menu-item" role="menuitem">
+        <a href="{{ '/preface/' | url }}" class="menu-item" role="menuitem">
           <span class="menu-item-label">Förord</span>
           <span class="menu-item-meta">Bokens inledning</span>
         </a>
@@ -33,19 +33,15 @@ permalink: /
           <span class="menu-item-label">Källkod</span>
           <span class="menu-item-meta">LilyPond-noter på GitHub</span>
         </a>
-        <a href="/about/" class="menu-item" role="menuitem">
+        <a href="{{ '/about/' | url }}" class="menu-item" role="menuitem">
           <span class="menu-item-label">Om projektet</span>
           <span class="menu-item-meta">Bakgrund och syfte</span>
-        </a>
-        <a href="https://tally.so/r/7R4MZz" class="menu-item" role="menuitem">
-          <span class="menu-item-label">Kontakta oss</span>
-          <span class="menu-item-meta">Extern webbplats — Tally</span>
         </a>
       </div>
     </details>
   </header>
 
-  <p class="intro">Den digitala utgåvan av sångboken <em>Andliga Sånger</em>, 2026.</p>
+  <p class="intro">Den digitala utgåvan av sångboken <em>Andliga Sånger</em>, utgiven av Kristen Vandring.</p>
 
   <blockquote class="epigraph">
     <p>Är någon glad, skall han sjunga lovsånger.</p>
@@ -122,4 +118,4 @@ permalink: /
   </button>
 </div>
 
-<script type="module" src="/assets/index.js"></script>
+<script type="module" src="{{ '/assets/index.js' | url }}"></script>
