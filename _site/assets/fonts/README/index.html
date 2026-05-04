@@ -1,0 +1,75 @@
+<h1>Self-hosted fonts — instructions</h1>
+<p>The site uses two fonts:</p>
+<ul>
+<li><strong>Noto Serif</strong> — body text (humanist serif, native on Android)</li>
+<li><strong>Source Sans 3</strong> — UI labels (humanist sans-serif)</li>
+</ul>
+<p>Loading them from Google's CDN would violate GDPR (Munich ruling).
+We self-host them. Android users automatically use the system-installed
+copy of Noto Serif (no download needed) thanks to the <code>local()</code> declaration.</p>
+<h2>How to download</h2>
+<p>Use the Google Webfonts Helper at https://gwfh.mranftl.com/fonts</p>
+<h3>Noto Serif</h3>
+<ol>
+<li>Search &quot;Noto Serif&quot;</li>
+<li>Charset: <strong>latin</strong> (and <strong>latin-ext</strong> if you want fuller European coverage — Polish, Czech, etc.)</li>
+<li>Styles to select:
+<ul>
+<li>regular (400)</li>
+<li>regular italic (400 italic)</li>
+<li>semi-bold (600)</li>
+<li>semi-bold italic (600 italic)</li>
+</ul>
+</li>
+<li>Format: <strong>Modern Browsers (.woff2 only)</strong></li>
+<li>Download the .zip and extract</li>
+<li>Rename the files and place them in this folder:
+<ul>
+<li><code>noto-serif-v##-latin-regular.woff2</code> → <code>noto-serif-latin-400-normal.woff2</code></li>
+<li><code>noto-serif-v##-latin-italic.woff2</code> → <code>noto-serif-latin-400-italic.woff2</code></li>
+<li><code>noto-serif-v##-latin-600.woff2</code> → <code>noto-serif-latin-600-normal.woff2</code></li>
+<li><code>noto-serif-v##-latin-600italic.woff2</code> → <code>noto-serif-latin-600-italic.woff2</code></li>
+</ul>
+</li>
+</ol>
+<h3>Source Sans 3</h3>
+<ol>
+<li>Search &quot;Source Sans 3&quot;</li>
+<li>Charset: <strong>latin</strong></li>
+<li>Styles to select:
+<ul>
+<li>regular (400) + italic</li>
+<li>medium (500) + italic</li>
+<li>semi-bold (600) + italic</li>
+</ul>
+</li>
+<li>Format: <strong>Modern Browsers (.woff2 only)</strong></li>
+<li>Download, extract, rename:
+<ul>
+<li><code>source-sans-3-v##-latin-regular.woff2</code> → <code>source-sans-3-latin-400-normal.woff2</code></li>
+<li><code>source-sans-3-v##-latin-italic.woff2</code> → <code>source-sans-3-latin-400-italic.woff2</code></li>
+<li><code>source-sans-3-v##-latin-500.woff2</code> → <code>source-sans-3-latin-500-normal.woff2</code></li>
+<li><code>source-sans-3-v##-latin-500italic.woff2</code> → <code>source-sans-3-latin-500-italic.woff2</code></li>
+<li><code>source-sans-3-v##-latin-600.woff2</code> → <code>source-sans-3-latin-600-normal.woff2</code></li>
+<li><code>source-sans-3-v##-latin-600italic.woff2</code> → <code>source-sans-3-latin-600-italic.woff2</code></li>
+</ul>
+</li>
+</ol>
+<h2>Final file list in this folder</h2>
+<pre><code>src/assets/fonts/
+├── fonts.css
+├── README.md
+├── noto-serif-latin-400-normal.woff2
+├── noto-serif-latin-400-italic.woff2
+├── noto-serif-latin-600-normal.woff2
+├── noto-serif-latin-600-italic.woff2
+├── source-sans-3-latin-400-normal.woff2
+├── source-sans-3-latin-400-italic.woff2
+├── source-sans-3-latin-500-normal.woff2
+├── source-sans-3-latin-500-italic.woff2
+├── source-sans-3-latin-600-normal.woff2
+└── source-sans-3-latin-600-italic.woff2
+</code></pre>
+<h2>Total size</h2>
+<p>Roughly 350–450 KB across all 10 files. On Android, only the 6 Source Sans
+files are actually fetched (~220 KB) since Noto Serif is local.</p>

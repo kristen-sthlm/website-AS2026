@@ -1,0 +1,6 @@
+node_modules/
+_site/
+proofread/
+src/hymns.backup-*/
+.DS_Store
+*.log

@@ -1,0 +1,1824 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="133.00mm" height="210.00mm" viewBox="0.0000 -0.0000 89.0404 140.5901">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(20.0676, 13.4718)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="58.8749" y2="0"/>
+</g>
+<g transform="translate(20.0676, 12.4718)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="58.8749" y2="0"/>
+</g>
+<g transform="translate(20.0676, 11.4718)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="58.8749" y2="0"/>
+</g>
+<g transform="translate(20.0676, 10.4718)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="58.8749" y2="0"/>
+</g>
+<g transform="translate(20.0676, 9.4718)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="58.8749" y2="0"/>
+</g>
+<g transform="translate(59.9400, 11.4718)">
+<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(37.3737, 11.4718)">
+<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(59.9400, 32.8497)">
+<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(37.3737, 32.8497)">
+<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(20.0676, 34.8497)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="58.8749" y2="0"/>
+</g>
+<g transform="translate(20.0676, 33.8497)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="58.8749" y2="0"/>
+</g>
+<g transform="translate(20.0676, 32.8497)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="58.8749" y2="0"/>
+</g>
+<g transform="translate(20.0676, 31.8497)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="58.8749" y2="0"/>
+</g>
+<g transform="translate(20.0676, 30.8497)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="58.8749" y2="0"/>
+</g>
+<g transform="translate(62.9065, 13.9718)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(61.2303, 32.8497)">
+<rect x="-0.0725" y="1.2530" width="0.1451" height="2.7470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(62.4658, 32.8497)">
+<rect x="-0.0725" y="-5.0000" width="0.1451" height="2.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(68.0497, 26.8143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>att</tspan>
+</text>
+</g>
+<g transform="translate(61.2303, 11.4718)">
+<rect x="-0.0725" y="2.6794" width="0.1451" height="2.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(66.0696, 11.4718)">
+<rect x="-0.0725" y="2.1794" width="0.1451" height="2.8206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(68.1502, 24.0143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>na</tspan>
+</text>
+</g>
+<g transform="translate(67.8891, 21.2143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>jag</tspan>
+</text>
+</g>
+<g transform="translate(68.0698, 18.4143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>ett</tspan>
+</text>
+</g>
+<g transform="translate(68.7239, 12.9718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(68.7239, 11.9718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(66.1421, 16.4247)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-18v250h18v-250zM0 0v250c96 59 222 149 222 259c0 57 -15 111 -40 162c-3 17 10 29 24 29c8 0 16 -5 21 -13c25 -56 40 -116 40 -178c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<g transform="translate(67.2998, 9.0188)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 -197 207 -335 207 -532c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -21 -12c-14 0 -27 11 -24 28c26 60 42 125 42 191c0 103 -93 207 -163 282h-18v250h18z" fill="currentColor"/>
+</g>
+<g transform="translate(67.2273, 11.4718)">
+<rect x="-0.0725" y="-2.5000" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(65.9970, 13.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(65.9970, 12.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(57.1224, 11.4718)">
+<rect x="-0.0725" y="-2.5000" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(57.1224, 32.8497)">
+<rect x="-0.0725" y="-5.0000" width="0.1451" height="2.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(55.9646, 11.4718)">
+<rect x="-0.0725" y="2.1794" width="0.1451" height="2.4873" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(55.8921, 32.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(55.8921, 30.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(55.0372, 26.8143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>Du</tspan>
+</text>
+</g>
+<g transform="translate(56.2021, 24.0143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>i</tspan>
+</text>
+</g>
+<g transform="translate(54.6154, 21.2143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>förr</tspan>
+</text>
+</g>
+<g transform="translate(55.6598, 18.4143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>ej</tspan>
+</text>
+</g>
+<g transform="translate(55.8921, 13.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(55.8921, 12.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(61.1578, 21.2143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>än</tspan>
+</text>
+</g>
+<g transform="translate(62.3880, 11.4718)">
+<rect x="-0.0725" y="-2.0000" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(62.9065, 12.9718)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(61.1578, 33.8497)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(61.1578, 30.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(61.1578, 26.8143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>gläds</tspan>
+</text>
+</g>
+<g transform="translate(61.1578, 24.0143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>den</tspan>
+</text>
+</g>
+<g transform="translate(61.1578, 18.4143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>med</tspan>
+</text>
+</g>
+<g transform="translate(61.1578, 13.9718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(61.1578, 12.9718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(55.9646, 32.8497)">
+<rect x="-0.0725" y="-0.3206" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(33.0710, 28.6655)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0941" fill="currentColor" stroke="currentColor" points="2.7689 -0.5087 2.7689 -0.1229 0.0471 0.1929 0.0471 -0.1929"/>
+</g>
+<g transform="translate(33.0710, 10.4718)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0941" fill="currentColor" stroke="currentColor" points="2.7689 -0.3771 2.7689 0.0087 0.0471 0.1929 0.0471 -0.1929"/>
+</g>
+<g transform="translate(66.1717, 24.0143)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(61.1578, 11.4718)">
+<path stroke-width="0.0893" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.4451 3.5486C1.5493 4.3544 3.6614 4.0965 4.5393 3.0486L4.5393 3.0486C3.6452 3.9635 1.5331 4.2215 0.4451 3.5486z"/>
+</g>
+<g transform="translate(61.1578, 11.4718)">
+<path stroke-width="0.0893" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.6028 0.4514C2.4457 -0.6310 4.5603 -0.9667 5.6970 -0.1986L5.6970 -0.1986C4.5813 -0.8345 2.4667 -0.4987 1.6028 0.4514z"/>
+</g>
+<g transform="translate(59.4847, 21.2143)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(48.3259, 11.4718)">
+<path stroke-width="0.0893" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.4451 2.1986C1.3577 3.2114 3.4680 3.3918 4.5393 2.5486L4.5393 2.5486C3.4794 3.2583 1.3691 3.0780 0.4451 2.1986z"/>
+</g>
+<g transform="translate(48.3259, 11.4718)">
+<path stroke-width="0.0893" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.6028 -1.1986C2.7395 -1.9667 4.8541 -1.6310 5.6970 -0.5486L5.6970 -0.5486C4.8331 -1.4987 2.7185 -1.8345 1.6028 -1.1986z"/>
+</g>
+<g transform="translate(69.9542, 32.8497)">
+<rect x="-0.0725" y="-5.0000" width="0.1451" height="2.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(72.3158, 18.4143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>strå</tspan>
+</text>
+</g>
+<g transform="translate(73.5134, 13.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(73.5134, 12.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(68.7964, 32.8497)">
+<rect x="-0.0725" y="1.1794" width="0.1451" height="2.8206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(72.5367, 21.2143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>har</tspan>
+</text>
+</g>
+<g transform="translate(68.7964, 11.4718)">
+<rect x="-0.0725" y="1.6794" width="0.1451" height="2.6540" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(69.9542, 11.4718)">
+<rect x="-0.0725" y="-3.0000" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(68.7239, 33.8497)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(73.5859, 32.8497)">
+<rect x="-0.0725" y="-0.2470" width="0.1451" height="3.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(74.8214, 32.8497)">
+<rect x="-0.0725" y="-5.0000" width="0.1451" height="2.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(68.7239, 30.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(73.5859, 11.4718)">
+<rect x="-0.0725" y="2.2530" width="0.1451" height="2.4137" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(74.8214, 11.4718)">
+<rect x="-0.0725" y="-2.5000" width="0.1451" height="3.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(73.5134, 32.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(73.5134, 30.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(73.1794, 26.8143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>se</tspan>
+</text>
+</g>
+<g transform="translate(71.0504, 24.0143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>stund,</tspan>
+</text>
+</g>
+<g transform="translate(35.8144, 11.4718)">
+<rect x="-0.0725" y="-1.1795" width="0.1451" height="2.5001" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(34.5842, 30.8497)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(34.5842, 12.9718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(35.8144, 32.8497)">
+<rect x="-0.0725" y="-4.4919" width="0.1451" height="2.3125" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(31.9858, 32.8497)">
+<rect x="-0.0725" y="-0.3206" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(37.2987, 24.0143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>som</tspan>
+</text>
+</g>
+<g transform="translate(38.7497, 11.4718)">
+<rect x="-0.0725" y="2.2530" width="0.1451" height="2.4137" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(39.9852, 11.4718)">
+<rect x="-0.0725" y="-2.5000" width="0.1451" height="3.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(38.6771, 32.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(38.6771, 30.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(37.2987, 26.8143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>som</tspan>
+</text>
+</g>
+<g transform="translate(33.1435, 32.8497)">
+<rect x="-0.0725" y="-4.1923" width="0.1451" height="2.5130" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(37.2987, 21.2143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>som</tspan>
+</text>
+</g>
+<g transform="translate(37.2987, 18.4143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>som</tspan>
+</text>
+</g>
+<g transform="translate(38.6771, 13.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(38.6771, 12.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(31.9133, 18.4143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>Just</tspan>
+</text>
+</g>
+<g transform="translate(28.4270, 11.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M172 259c-49 0 -52 -40 -52 -93v-24v-24c0 -53 3 -93 52 -93c57 0 59 51 59 117s-2 117 -59 117zM120 268c15 10 33 15 52 15c102 0 171 -45 171 -141s-69 -142 -171 -142c-112 0 -172 124 -172 250c0 129 74 250 192 250c71 0 137 -40 137 -105c0 -36 -29 -65 -65 -65
+s-65 29 -65 65c0 23 39 26 39 49c0 21 -23 31 -46 31c-64 0 -74 -62 -74 -134c0 -24 2 -49 2 -73z" fill="currentColor"/>
+</g>
+<g transform="translate(28.3065, 13.4837)">
+<path transform="scale(0.0040, -0.0040)" d="M194 120h120c0 -49 29 -95 75 -95c8 0 12 -7 12 -13s-4 -12 -12 -12c-45 0 -90 13 -135 13s-90 -13 -135 -13c-8 0 -12 6 -12 12s4 13 12 13c46 0 75 46 75 95zM224 487c37 0 70 14 78 14c9 0 14 -7 14 -13c0 -2 0 -3 -2 -5l-283 -327h163v122c0 35 36 28 70 74
+c23 30 22 57 36 57c6 0 14 -6 14 -15v-238h74c10 0 16 -8 16 -16s-6 -15 -16 -15h-74v-5h-120v5h-163c-24 0 -33 15 -33 24c0 12 136 140 136 334c0 11 8 20 17 17c24 -7 48 -13 73 -13z" fill="currentColor"/>
+</g>
+<g transform="translate(24.4972, 11.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(25.4269, 9.9718)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(26.3565, 11.9718)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(20.8676, 12.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M646 2c0 -113 -74 -213 -180 -247c3 -34 5 -68 5 -102c0 -20 -1 -40 -2 -60c-7 -121 -91 -228 -209 -228c-108 0 -196 87 -196 196c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-10 0 -20 2 -29 6c26 -38 68 -63 116 -63h3c93 2 153 92 159 190
+c1 19 2 37 2 56c0 30 -2 60 -4 90c-5 -1 -43 -8 -88 -8c-194 0 -333 180 -333 375c0 177 130 307 246 442c-31 98 -53 170 -53 347c0 115 55 223 148 290c7 5 16 4 22 -1c68 -80 134 -243 134 -357c0 -143 -85 -255 -178 -364c21 -68 40 -137 57 -206c1 0 5 1 11 1
+c156 0 257 -129 257 -262zM462 -202c66 24 111 88 111 162c0 89 -65 178 -170 190c28 -135 50 -272 59 -352zM75 26c0 -145 141 -245 263 -245c1 0 46 0 81 6c-7 65 -27 206 -61 363c-79 -8 -124 -61 -124 -119c0 -43 25 -89 80 -121c5 -5 7 -11 7 -16
+c0 -12 -10 -23 -22 -23c-16 0 -127 63 -127 188c0 89 58 175 161 198c-14 58 -29 116 -46 173c-106 -122 -212 -244 -212 -404zM406 1042c-99 -47 -162 -148 -162 -257c0 -49 13 -111 38 -191c79 97 144 199 144 324c0 33 0 63 -20 124z" fill="currentColor"/>
+</g>
+<g transform="translate(31.9133, 13.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(31.9133, 13.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(28.9450, 18.4143)">
+<text font-family="Georgia Pro Cond" font-weight="bold" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>1.</tspan>
+</text>
+</g>
+<g transform="translate(19.9890, 22.1607)">
+<rect x="0.0000" y="-12.7447" width="0.1786" height="25.4895" ry="0.0558" fill="currentColor"/>
+</g>
+<g transform="translate(18.7390, 9.1910)">
+<path transform="scale(0.0040, -0.0040)" d="M0 -56v85c0 15 12 27 27 27h54c157 0 265 136 353 268c12 18 40 0 28 -18c-96 -144 -210 -362 -381 -362h-81z" fill="currentColor"/>
+</g>
+<g transform="translate(18.7390, 35.1305)">
+<path transform="scale(0.0040, -0.0040)" d="M0 56h81c171 0 285 -218 381 -362c12 -18 -16 -36 -28 -18c-88 132 -196 268 -353 268h-54c-15 0 -27 12 -27 27v85z" fill="currentColor"/>
+</g>
+<g transform="translate(18.7390, 22.1607)">
+<rect x="0.0000" y="-12.7897" width="0.4500" height="25.5795" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(7.5332, 22.4364)">
+<text font-family="Georgia Pro Cond" font-weight="bold" font-size="5.5439" text-anchor="start" fill="currentColor">
+<tspan>160</tspan>
+</text>
+</g>
+<g transform="translate(9.6421, 25.4364)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>(238)</tspan>
+</text>
+</g>
+<g transform="translate(28.4270, 32.8497)">
+<path transform="scale(0.0040, -0.0040)" d="M172 259c-49 0 -52 -40 -52 -93v-24v-24c0 -53 3 -93 52 -93c57 0 59 51 59 117s-2 117 -59 117zM120 268c15 10 33 15 52 15c102 0 171 -45 171 -141s-69 -142 -171 -142c-112 0 -172 124 -172 250c0 129 74 250 192 250c71 0 137 -40 137 -105c0 -36 -29 -65 -65 -65
+s-65 29 -65 65c0 23 39 26 39 49c0 21 -23 31 -46 31c-64 0 -74 -62 -74 -134c0 -24 2 -49 2 -73z" fill="currentColor"/>
+</g>
+<g transform="translate(28.3065, 34.8616)">
+<path transform="scale(0.0040, -0.0040)" d="M194 120h120c0 -49 29 -95 75 -95c8 0 12 -7 12 -13s-4 -12 -12 -12c-45 0 -90 13 -135 13s-90 -13 -135 -13c-8 0 -12 6 -12 12s4 13 12 13c46 0 75 46 75 95zM224 487c37 0 70 14 78 14c9 0 14 -7 14 -13c0 -2 0 -3 -2 -5l-283 -327h163v122c0 35 36 28 70 74
+c23 30 22 57 36 57c6 0 14 -6 14 -15v-238h74c10 0 16 -8 16 -16s-6 -15 -16 -15h-74v-5h-120v5h-163c-24 0 -33 15 -33 24c0 12 136 140 136 334c0 11 8 20 17 17c24 -7 48 -13 73 -13z" fill="currentColor"/>
+</g>
+<g transform="translate(31.9858, 11.4718)">
+<rect x="-0.0725" y="2.1794" width="0.1451" height="2.4873" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(33.1435, 11.4718)">
+<rect x="-0.0725" y="-1.0047" width="0.1451" height="2.8254" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(24.4972, 33.8497)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(25.4269, 32.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(26.3565, 34.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(20.8676, 31.8497)">
+<path transform="scale(0.0040, -0.0040)" d="M558 -125c0 28 22 51 50 51s51 -23 51 -51s-23 -51 -51 -51s-50 23 -50 51zM558 125c0 28 22 51 50 51s51 -23 51 -51s-23 -51 -51 -51s-50 23 -50 51zM231 264c172 0 294 -88 294 -251c0 -263 -262 -416 -515 -523c-3 -3 -7 -4 -10 -4c-7 0 -14 7 -14 14c0 3 1 7 4 10
+c201 118 410 265 410 492c0 119 -61 234 -169 234c-72 0 -124 -53 -148 -123c10 4 19 6 29 6c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 101 245 231 245z" fill="currentColor"/>
+</g>
+<g transform="translate(31.9133, 32.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(31.9133, 31.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(28.9450, 26.8143)">
+<text font-family="Georgia Pro Cond" font-weight="bold" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>4.</tspan>
+</text>
+</g>
+<g transform="translate(31.9133, 26.8143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>Just</tspan>
+</text>
+</g>
+<g transform="translate(28.9450, 24.0143)">
+<text font-family="Georgia Pro Cond" font-weight="bold" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>3.</tspan>
+</text>
+</g>
+<g transform="translate(31.9133, 24.0143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>Just</tspan>
+</text>
+</g>
+<g transform="translate(28.9450, 21.2143)">
+<text font-family="Georgia Pro Cond" font-weight="bold" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>2.</tspan>
+</text>
+</g>
+<g transform="translate(31.9133, 21.2143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>Just</tspan>
+</text>
+</g>
+<g transform="translate(48.3259, 24.0143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>är</tspan>
+</text>
+</g>
+<g transform="translate(48.3985, 11.4718)">
+<rect x="-0.0725" y="1.1794" width="0.1451" height="2.8206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(50.0747, 12.9718)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(49.5562, 11.4718)">
+<rect x="-0.0725" y="-3.3333" width="0.1451" height="3.1540" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(50.0747, 10.9718)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(48.3259, 32.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(48.3259, 30.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(48.3259, 26.8143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>är,</tspan>
+</text>
+</g>
+<g transform="translate(48.3259, 21.2143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>är,</tspan>
+</text>
+</g>
+<g transform="translate(48.3259, 18.4143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>är,</tspan>
+</text>
+</g>
+<g transform="translate(48.3259, 12.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(48.3259, 11.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(44.2345, 32.8497)">
+<rect x="-0.0725" y="-0.3206" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(53.3103, 15.9247)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-18v250h18v-250zM0 0v250c96 59 222 149 222 259c0 57 -15 111 -40 162c-3 17 10 29 24 29c8 0 16 -5 21 -13c25 -56 40 -116 40 -178c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<g transform="translate(53.2378, 11.4718)">
+<rect x="-0.0725" y="1.6794" width="0.1451" height="2.8206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(54.4680, 8.5188)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 -197 207 -335 207 -532c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -21 -12c-14 0 -27 11 -24 28c26 60 42 125 42 191c0 103 -93 207 -163 282h-18v250h18z" fill="currentColor"/>
+</g>
+<g transform="translate(54.3955, 11.4718)">
+<rect x="-0.0725" y="-3.0000" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(53.1652, 12.9718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(53.1652, 11.9718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(48.3985, 32.8497)">
+<rect x="-0.0725" y="-0.2470" width="0.1451" height="3.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(49.6340, 32.8497)">
+<rect x="-0.0725" y="-5.0000" width="0.1451" height="2.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(44.1620, 13.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(44.1620, 12.4718)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(38.7497, 32.8497)">
+<rect x="-0.0725" y="-0.2470" width="0.1451" height="3.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(39.9852, 32.8497)">
+<rect x="-0.0725" y="-5.0000" width="0.1451" height="2.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(45.3922, 11.4718)">
+<rect x="-0.0725" y="-2.5000" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(45.3922, 32.8497)">
+<rect x="-0.0725" y="-5.0000" width="0.1451" height="2.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(44.2345, 11.4718)">
+<rect x="-0.0725" y="2.1794" width="0.1451" height="2.4873" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(44.1620, 32.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(43.3271, 18.4143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>jag</tspan>
+</text>
+</g>
+<g transform="translate(44.1620, 30.3497)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(43.3271, 26.8143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>jag</tspan>
+</text>
+</g>
+<g transform="translate(43.3271, 21.2143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>jag</tspan>
+</text>
+</g>
+<g transform="translate(43.3271, 24.0143)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>jag</tspan>
+</text>
+</g>
+<g transform="translate(8.0170, 56.7401)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 55.7401)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 54.7401)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 53.7401)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 52.7401)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(23.3137, 54.7401)">
+<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(55.7868, 54.7401)">
+<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(23.3137, 77.0647)">
+<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(55.7868, 77.0647)">
+<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 79.0647)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 78.0647)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 77.0647)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 76.0647)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 75.0647)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 73.0647)">
+<rect x="57.0883" y="-0.1058" width="1.9542" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 74.0647)">
+<rect x="57.0883" y="-0.1058" width="1.9542" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 73.0647)">
+<rect x="49.0454" y="-0.1058" width="2.0709" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 74.0647)">
+<rect x="49.0454" y="-0.1058" width="2.0709" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 74.0647)">
+<rect x="41.7274" y="-0.1058" width="1.9542" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 74.0647)">
+<rect x="16.6154" y="-0.1058" width="2.0709" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 73.0647)">
+<rect x="9.2633" y="-0.1058" width="1.9542" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 74.0647)">
+<rect x="9.2633" y="-0.1058" width="1.9542" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(57.4801, 77.0647)">
+<rect x="-0.0725" y="-0.2470" width="0.1451" height="3.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(58.7156, 77.0647)">
+<rect x="-0.0725" y="-6.5000" width="0.1451" height="2.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(57.4801, 54.7401)">
+<rect x="-0.0725" y="0.7530" width="0.1451" height="2.9137" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(65.4310, 55.7401)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(50.0700, 54.2401)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(66.6612, 54.7401)">
+<rect x="-0.0725" y="-3.3333" width="0.1451" height="3.1540" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(65.4310, 76.5647)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(65.4310, 73.0647)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(65.1384, 69.5293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>få</tspan>
+</text>
+</g>
+<g transform="translate(65.7409, 66.7293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>i</tspan>
+</text>
+</g>
+<g transform="translate(64.2748, 63.9293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>löst</tspan>
+</text>
+</g>
+<g transform="translate(64.9376, 61.1293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>ga</tspan>
+</text>
+</g>
+<g transform="translate(65.4310, 54.7401)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(51.3003, 77.0647)">
+<rect x="-0.0725" y="-6.0000" width="0.1451" height="2.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(50.1426, 54.7401)">
+<rect x="-0.0725" y="0.6794" width="0.1451" height="2.9873" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(51.3003, 54.7401)">
+<rect x="-0.0725" y="-3.6667" width="0.1451" height="2.9873" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(50.0700, 78.0647)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(50.0700, 73.5647)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(48.8335, 69.5293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>mig</tspan>
+</text>
+</g>
+<g transform="translate(48.9540, 66.7293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>och</tspan>
+</text>
+</g>
+<g transform="translate(48.8536, 63.9293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>vigt</tspan>
+</text>
+</g>
+<g transform="translate(49.3959, 61.1293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>att</tspan>
+</text>
+</g>
+<g transform="translate(50.0700, 55.2401)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(57.4075, 76.5647)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(57.4075, 73.0647)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(56.5112, 69.5293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>allt</tspan>
+</text>
+</g>
+<g transform="translate(56.1697, 66.7293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>ond</tspan>
+</text>
+</g>
+<g transform="translate(55.6275, 63.9293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>frukt</tspan>
+</text>
+</g>
+<g transform="translate(56.3103, 61.1293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>byg</tspan>
+</text>
+</g>
+<g transform="translate(58.7156, 54.7401)">
+<rect x="-0.0725" y="-3.6667" width="0.1451" height="2.9137" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(57.4075, 55.2401)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(57.4075, 54.2401)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(50.1426, 77.0647)">
+<rect x="-0.0725" y="1.1794" width="0.1451" height="2.8206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(32.0056, 69.5293)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(31.0817, 66.7293)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(30.2281, 61.1293)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(24.9775, 54.7401)">
+<path stroke-width="0.0893" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.6028 -1.1986C3.0384 -1.8180 5.5991 -0.9259 6.3391 0.4514L6.3391 0.4514C5.5550 -0.7995 2.9944 -1.6915 1.6028 -1.1986z"/>
+</g>
+<g transform="translate(22.0205, 63.9293)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(62.0915, 63.9293)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(62.0814, 61.1293)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(45.6739, 63.9293)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(70.1990, 69.5293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>ge,</tspan>
+</text>
+</g>
+<g transform="translate(68.3311, 66.7293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>grund,</tspan>
+</text>
+</g>
+<g transform="translate(70.0785, 63.9293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>var</tspan>
+</text>
+</g>
+<g transform="translate(70.1186, 61.1293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>på,</tspan>
+</text>
+</g>
+<g transform="translate(70.9748, 56.7401)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(70.9748, 55.7401)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(70.9748, 74.5647)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(65.5035, 77.0647)">
+<rect x="-0.0725" y="-0.3206" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(66.6612, 77.0647)">
+<rect x="-0.0725" y="-6.5000" width="0.1451" height="2.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(71.0474, 77.0647)">
+<rect x="-0.0725" y="-0.2470" width="0.1451" height="3.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(72.2829, 77.0647)">
+<rect x="-0.0725" y="-5.0000" width="0.1451" height="2.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(65.5035, 54.7401)">
+<rect x="-0.0725" y="1.1794" width="0.1451" height="2.8206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(71.0474, 54.7401)">
+<rect x="-0.0725" y="2.2530" width="0.1451" height="2.4137" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(72.2829, 54.7401)">
+<rect x="-0.0725" y="-2.5000" width="0.1451" height="3.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(70.9748, 76.5647)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(24.9775, 54.7401)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(17.6785, 77.0647)">
+<rect x="-0.0725" y="-0.3206" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(18.8362, 77.0647)">
+<rect x="-0.0725" y="-6.5000" width="0.1451" height="2.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(24.9775, 56.2401)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(17.6785, 54.7401)">
+<rect x="-0.0725" y="1.1794" width="0.1451" height="2.8206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(18.8362, 54.7401)">
+<rect x="-0.0725" y="-3.3333" width="0.1451" height="3.1540" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(17.6059, 76.5647)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(25.0501, 54.7401)">
+<rect x="-0.0725" y="1.7530" width="0.1451" height="2.5804" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(26.2078, 54.7401)">
+<rect x="-0.0725" y="-3.3333" width="0.1451" height="3.1540" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(17.6059, 73.0647)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(24.9775, 74.5647)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(24.9775, 73.5647)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(24.9775, 69.5293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>kom</tspan>
+</text>
+</g>
+<g transform="translate(24.9775, 66.7293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>fat</tspan>
+</text>
+</g>
+<g transform="translate(24.9775, 63.9293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>mått</tspan>
+</text>
+</g>
+<g transform="translate(24.9775, 61.1293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>e</tspan>
+</text>
+</g>
+<g transform="translate(7.9384, 65.9024)">
+<rect x="0.0000" y="-13.2181" width="0.1786" height="26.4362" ry="0.0558" fill="currentColor"/>
+</g>
+<g transform="translate(6.6884, 52.4593)">
+<path transform="scale(0.0040, -0.0040)" d="M0 -56v85c0 15 12 27 27 27h54c157 0 265 136 353 268c12 18 40 0 28 -18c-96 -144 -210 -362 -381 -362h-81z" fill="currentColor"/>
+</g>
+<g transform="translate(6.6884, 79.3455)">
+<path transform="scale(0.0040, -0.0040)" d="M0 56h81c171 0 285 -218 381 -362c12 -18 -16 -36 -28 -18c-88 132 -196 268 -353 268h-54c-15 0 -27 12 -27 27v85z" fill="currentColor"/>
+</g>
+<g transform="translate(6.6884, 65.9024)">
+<rect x="0.0000" y="-13.2631" width="0.4500" height="26.5262" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(16.3694, 69.5293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>mig</tspan>
+</text>
+</g>
+<g transform="translate(17.2130, 66.7293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>så</tspan>
+</text>
+</g>
+<g transform="translate(16.7912, 63.9293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>för</tspan>
+</text>
+</g>
+<g transform="translate(17.1326, 61.1293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>av</tspan>
+</text>
+</g>
+<g transform="translate(17.6059, 55.7401)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(17.6059, 54.7401)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(12.4466, 78.0647)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(13.3763, 76.5647)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(14.3059, 78.5647)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(8.8170, 76.0647)">
+<path transform="scale(0.0040, -0.0040)" d="M558 -125c0 28 22 51 50 51s51 -23 51 -51s-23 -51 -51 -51s-50 23 -50 51zM558 125c0 28 22 51 50 51s51 -23 51 -51s-23 -51 -51 -51s-50 23 -50 51zM231 264c172 0 294 -88 294 -251c0 -263 -262 -416 -515 -523c-3 -3 -7 -4 -10 -4c-7 0 -14 7 -14 14c0 3 1 7 4 10
+c201 118 410 265 410 492c0 119 -61 234 -169 234c-72 0 -124 -53 -148 -123c10 4 19 6 29 6c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 101 245 231 245z" fill="currentColor"/>
+</g>
+<g transform="translate(12.4466, 54.7401)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(13.3763, 53.2401)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(14.3059, 55.2401)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(8.8170, 55.7401)">
+<path transform="scale(0.0040, -0.0040)" d="M646 2c0 -113 -74 -213 -180 -247c3 -34 5 -68 5 -102c0 -20 -1 -40 -2 -60c-7 -121 -91 -228 -209 -228c-108 0 -196 87 -196 196c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-10 0 -20 2 -29 6c26 -38 68 -63 116 -63h3c93 2 153 92 159 190
+c1 19 2 37 2 56c0 30 -2 60 -4 90c-5 -1 -43 -8 -88 -8c-194 0 -333 180 -333 375c0 177 130 307 246 442c-31 98 -53 170 -53 347c0 115 55 223 148 290c7 5 16 4 22 -1c68 -80 134 -243 134 -357c0 -143 -85 -255 -178 -364c21 -68 40 -137 57 -206c1 0 5 1 11 1
+c156 0 257 -129 257 -262zM462 -202c66 24 111 88 111 162c0 89 -65 178 -170 190c28 -135 50 -272 59 -352zM75 26c0 -145 141 -245 263 -245c1 0 46 0 81 6c-7 65 -27 206 -61 363c-79 -8 -124 -61 -124 -119c0 -43 25 -89 80 -121c5 -5 7 -11 7 -16
+c0 -12 -10 -23 -22 -23c-16 0 -127 63 -127 188c0 89 58 175 161 198c-14 58 -29 116 -46 173c-106 -122 -212 -244 -212 -404zM406 1042c-99 -47 -162 -148 -162 -257c0 -49 13 -111 38 -191c79 97 144 199 144 324c0 33 0 63 -20 124z" fill="currentColor"/>
+</g>
+<g transform="translate(36.2628, 77.0647)">
+<rect x="-0.0725" y="-2.3206" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(37.4205, 77.0647)">
+<rect x="-0.0725" y="-5.0000" width="0.1451" height="2.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(36.2628, 54.7401)">
+<rect x="-0.0725" y="2.1794" width="0.1451" height="2.4873" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(40.8445, 69.5293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>och</tspan>
+</text>
+</g>
+<g transform="translate(41.9942, 54.7401)">
+<rect x="-0.0725" y="1.7530" width="0.1451" height="2.5804" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(43.2297, 54.7401)">
+<rect x="-0.0725" y="-3.0000" width="0.1451" height="3.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(41.9216, 74.5647)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(41.9216, 74.5647)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(37.4205, 54.7401)">
+<rect x="-0.0725" y="-2.5000" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(40.4629, 66.7293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>kall,</tspan>
+</text>
+</g>
+<g transform="translate(42.0696, 63.9293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>e</tspan>
+</text>
+</g>
+<g transform="translate(39.6194, 61.1293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>grund</tspan>
+</text>
+</g>
+<g transform="translate(41.9216, 56.2401)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(41.9216, 55.2401)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(43.2297, 77.0647)">
+<rect x="-0.0725" y="-5.0000" width="0.1451" height="2.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(25.0501, 77.0647)">
+<rect x="-0.0725" y="-2.2470" width="0.1451" height="3.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(26.2856, 77.0647)">
+<rect x="-0.0725" y="-6.0000" width="0.1451" height="2.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(36.1903, 74.5647)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(36.1903, 74.5647)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(35.3153, 69.5293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>ma</tspan>
+</text>
+</g>
+<g transform="translate(35.1948, 66.7293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>tig,</tspan>
+</text>
+</g>
+<g transform="translate(35.0743, 63.9293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>vad</tspan>
+</text>
+</g>
+<g transform="translate(35.0542, 61.1293)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>gen</tspan>
+</text>
+</g>
+<g transform="translate(36.1903, 56.7401)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(36.1903, 55.7401)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(31.6892, 54.7401)">
+<rect x="-0.0725" y="-2.0000" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(41.9942, 77.0647)">
+<rect x="-0.0725" y="-2.2470" width="0.1451" height="3.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(30.4589, 56.2401)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 100.9551)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 99.9551)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 98.9551)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 97.9551)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 96.9551)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(24.4288, 98.9551)">
+<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(54.4437, 98.9551)">
+<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(24.4288, 121.4183)">
+<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(54.4437, 121.4183)">
+<rect x="0.0000" y="-2.0000" width="0.2120" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 123.4183)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 122.4183)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 121.4183)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 120.4183)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 119.4183)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1116" stroke="currentColor" x1="0.0558" y1="0" x2="70.9255" y2="0"/>
+</g>
+<g transform="translate(8.0170, 118.4183)">
+<rect x="67.2474" y="-0.1058" width="1.9542" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 118.4183)">
+<rect x="60.6472" y="-0.1058" width="1.9542" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 117.4183)">
+<rect x="55.2457" y="-0.1058" width="1.9542" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 118.4183)">
+<rect x="55.2457" y="-0.1058" width="1.9542" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 117.4183)">
+<rect x="47.6977" y="-0.1058" width="2.0709" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 118.4183)">
+<rect x="47.6977" y="-0.1058" width="2.0709" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 117.4183)">
+<rect x="40.7085" y="-0.1058" width="1.9542" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 118.4183)">
+<rect x="40.7085" y="-0.1058" width="1.9542" height="0.2116" ry="0.1058" fill="currentColor"/>
+</g>
+<g transform="translate(56.1323, 121.4183)">
+<rect x="-0.0725" y="-1.7470" width="0.1451" height="3.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(57.3678, 121.4183)">
+<rect x="-0.0725" y="-6.5000" width="0.1451" height="2.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(56.1323, 98.9551)">
+<rect x="-0.0725" y="0.7530" width="0.1451" height="2.9137" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(64.8187, 98.9551)">
+<rect x="-0.0725" y="-3.6667" width="0.1451" height="2.9873" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(64.8187, 121.4183)">
+<rect x="-0.0725" y="-6.5000" width="0.1451" height="2.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(63.6609, 98.9551)">
+<rect x="-0.0725" y="0.6794" width="0.1451" height="2.9873" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(63.5884, 119.4183)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(63.5884, 117.4183)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(63.0749, 114.3882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>ka</tspan>
+</text>
+</g>
+<g transform="translate(62.8138, 111.5882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>tas</tspan>
+</text>
+</g>
+<g transform="translate(63.2155, 108.7882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>ra</tspan>
+</text>
+</g>
+<g transform="translate(62.7736, 105.9882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>för</tspan>
+</text>
+</g>
+<g transform="translate(63.5884, 99.4551)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(63.5884, 98.4551)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(48.1360, 114.3882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>na,</tspan>
+</text>
+</g>
+<g transform="translate(49.1237, 98.9551)">
+<rect x="-0.0725" y="2.1794" width="0.1451" height="2.4873" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(50.2815, 98.9551)">
+<rect x="-0.0725" y="-2.5000" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(49.0512, 119.9183)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(49.0512, 117.4183)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(50.2815, 121.4183)">
+<rect x="-0.0725" y="-6.5000" width="0.1451" height="2.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(47.6339, 111.5882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>som</tspan>
+</text>
+</g>
+<g transform="translate(47.8147, 108.7882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>mig</tspan>
+</text>
+</g>
+<g transform="translate(48.3770, 105.9882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>att</tspan>
+</text>
+</g>
+<g transform="translate(49.0512, 100.9551)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(49.0512, 99.9551)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(45.7881, 123.8713)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-18v250h18v-250zM0 0v250c96 59 222 149 222 259c0 57 -15 111 -40 162c-3 17 10 29 24 29c8 0 16 -5 21 -13c25 -56 40 -116 40 -178c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<g transform="translate(45.7156, 121.4183)">
+<rect x="-0.0725" y="-0.8206" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(68.9899, 121.4183)">
+<path stroke-width="0.0893" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.6028 -4.0486C2.7858 -5.3116 6.0780 -5.5927 7.4580 -4.5486L7.4580 -4.5486C6.0894 -5.4593 2.7972 -5.1782 1.6028 -4.0486z"/>
+</g>
+<g transform="translate(57.3678, 98.9551)">
+<rect x="-0.0725" y="-3.6667" width="0.1451" height="2.9137" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(56.0598, 119.4183)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(56.0598, 117.4183)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(55.8664, 114.3882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>lä</tspan>
+</text>
+</g>
+<g transform="translate(55.4245, 111.5882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>fat</tspan>
+</text>
+</g>
+<g transform="translate(55.5450, 108.7882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>gö</tspan>
+</text>
+</g>
+<g transform="translate(55.2438, 105.9882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>Du</tspan>
+</text>
+</g>
+<g transform="translate(56.0598, 99.4551)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(56.0598, 98.4551)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(49.1237, 121.4183)">
+<rect x="-0.0725" y="-1.3206" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(29.8920, 114.3882)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(30.1431, 111.5882)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(18.7637, 117.2341)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0941" fill="currentColor" stroke="currentColor" points="3.4502 -0.5087 3.4502 -0.1229 0.0471 0.1929 0.0471 -0.1929"/>
+</g>
+<g transform="translate(22.8363, 114.3882)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(18.7637, 97.9551)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0941" fill="currentColor" stroke="currentColor" points="3.4502 -0.3771 3.4502 0.0087 0.0471 0.1929 0.0471 -0.1929"/>
+</g>
+<g transform="translate(68.9899, 98.9551)">
+<path stroke-width="0.0893" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.6028 -2.5486C2.9540 -3.6265 6.2448 -3.4298 7.4580 -2.1986L7.4580 -2.1986C6.2368 -3.2961 2.9461 -3.4928 1.6028 -2.5486z"/>
+</g>
+<g transform="translate(60.0244, 114.3882)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(60.1147, 111.5882)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(60.2553, 108.7882)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(39.0428, 121.4183)">
+<path stroke-width="0.0893" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.4451 0.5902C1.7963 1.8269 5.0870 1.6302 6.3003 0.2402L6.3003 0.2402C5.0790 1.4965 1.7883 1.6932 0.4451 0.5902z"/>
+</g>
+<g transform="translate(44.2636, 114.3882)">
+<rect x="0.0000" y="-0.5651" width="0.6600" height="0.1451" ry="0.0446" fill="currentColor"/>
+</g>
+<g transform="translate(39.0428, 98.9551)">
+<path stroke-width="0.0893" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.4451 2.1986C1.6583 3.4298 4.9490 3.6265 6.3003 2.5486L6.3003 2.5486C4.9570 3.4928 1.6663 3.2961 0.4451 2.1986z"/>
+</g>
+<g transform="translate(39.0428, 98.9551)">
+<path stroke-width="0.0893" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.6028 -1.1986C3.0112 -2.2087 6.3055 -1.8430 7.4580 -0.5486L7.4580 -0.5486C6.2907 -1.7099 2.9964 -2.0756 1.6028 -1.1986z"/>
+</g>
+<g transform="translate(68.9899, 118.4183)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(69.0624, 98.9551)">
+<rect x="-0.0725" y="0.7530" width="0.1451" height="2.9137" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(70.2201, 98.9551)">
+<rect x="-0.0725" y="-4.3333" width="0.1451" height="2.6540" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(70.7386, 97.4551)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(68.9899, 119.4183)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(68.9899, 114.3882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>mig;</tspan>
+</text>
+</g>
+<g transform="translate(68.9899, 111.5882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>mig,</tspan>
+</text>
+</g>
+<g transform="translate(68.9899, 108.7882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>ren</tspan>
+</text>
+</g>
+<g transform="translate(68.9899, 105.9882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>mig</tspan>
+</text>
+</g>
+<g transform="translate(68.9899, 99.4551)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(68.9899, 97.4551)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(63.6609, 121.4183)">
+<rect x="-0.0725" y="-1.8206" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(76.8929, 114.9654)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 -197 207 -335 207 -532c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -21 -12c-14 0 -27 11 -24 28c26 60 42 125 42 191c0 103 -93 207 -163 282h-18v250h18z" fill="currentColor"/>
+</g>
+<g transform="translate(76.8204, 121.4183)">
+<rect x="-0.0725" y="-6.5000" width="0.1451" height="2.8206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(76.8929, 94.8771)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 -197 207 -335 207 -532c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -21 -12c-14 0 -27 11 -24 28c26 60 42 125 42 191c0 103 -93 207 -163 282h-18v250h18z" fill="currentColor"/>
+</g>
+<g transform="translate(76.8204, 98.9551)">
+<rect x="-0.0725" y="-4.1250" width="0.1451" height="2.9456" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(75.5901, 117.9183)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(75.5901, 97.9551)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(69.0624, 121.4183)">
+<rect x="-0.0725" y="-1.7470" width="0.1451" height="3.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(70.2201, 121.4183)">
+<rect x="-0.0725" y="-5.5000" width="0.1451" height="2.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(70.7386, 117.9183)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(22.1884, 121.4183)">
+<rect x="-0.0725" y="-4.4934" width="0.1451" height="2.3141" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(22.1884, 98.9551)">
+<rect x="-0.0725" y="-1.1804" width="0.1451" height="2.5010" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(20.9581, 119.4183)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(20.9581, 100.4551)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(17.6785, 121.4183)">
+<rect x="-0.0725" y="-0.3206" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(18.8362, 121.4183)">
+<rect x="-0.0725" y="-4.1908" width="0.1451" height="2.5114" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(17.6785, 98.9551)">
+<rect x="-0.0725" y="2.1794" width="0.1451" height="2.4873" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(25.9878, 118.9183)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(26.0603, 98.9551)">
+<rect x="-0.0725" y="2.2530" width="0.1451" height="2.4137" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(27.2958, 98.9551)">
+<rect x="-0.0725" y="-2.5000" width="0.1451" height="3.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(25.9878, 120.9183)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(25.7943, 114.3882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>lå</tspan>
+</text>
+</g>
+<g transform="translate(25.3525, 111.5882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>fin</tspan>
+</text>
+</g>
+<g transform="translate(24.6094, 108.7882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>från</tspan>
+</text>
+</g>
+<g transform="translate(25.4730, 105.9882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>på</tspan>
+</text>
+</g>
+<g transform="translate(25.9878, 100.9551)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(25.9878, 99.9551)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(12.4466, 98.9551)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(13.3763, 97.4551)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(14.3059, 99.4551)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(8.8170, 99.9551)">
+<path transform="scale(0.0040, -0.0040)" d="M646 2c0 -113 -74 -213 -180 -247c3 -34 5 -68 5 -102c0 -20 -1 -40 -2 -60c-7 -121 -91 -228 -209 -228c-108 0 -196 87 -196 196c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-10 0 -20 2 -29 6c26 -38 68 -63 116 -63h3c93 2 153 92 159 190
+c1 19 2 37 2 56c0 30 -2 60 -4 90c-5 -1 -43 -8 -88 -8c-194 0 -333 180 -333 375c0 177 130 307 246 442c-31 98 -53 170 -53 347c0 115 55 223 148 290c7 5 16 4 22 -1c68 -80 134 -243 134 -357c0 -143 -85 -255 -178 -364c21 -68 40 -137 57 -206c1 0 5 1 11 1
+c156 0 257 -129 257 -262zM462 -202c66 24 111 88 111 162c0 89 -65 178 -170 190c28 -135 50 -272 59 -352zM75 26c0 -145 141 -245 263 -245c1 0 46 0 81 6c-7 65 -27 206 -61 363c-79 -8 -124 -61 -124 -119c0 -43 25 -89 80 -121c5 -5 7 -11 7 -16
+c0 -12 -10 -23 -22 -23c-16 0 -127 63 -127 188c0 89 58 175 161 198c-14 58 -29 116 -46 173c-106 -122 -212 -244 -212 -404zM406 1042c-99 -47 -162 -148 -162 -257c0 -49 13 -111 38 -191c79 97 144 199 144 324c0 33 0 63 -20 124z" fill="currentColor"/>
+</g>
+<g transform="translate(7.9384, 110.1867)">
+<rect x="0.0000" y="-13.2874" width="0.1786" height="26.5749" ry="0.0558" fill="currentColor"/>
+</g>
+<g transform="translate(6.6884, 96.6743)">
+<path transform="scale(0.0040, -0.0040)" d="M0 -56v85c0 15 12 27 27 27h54c157 0 265 136 353 268c12 18 40 0 28 -18c-96 -144 -210 -362 -381 -362h-81z" fill="currentColor"/>
+</g>
+<g transform="translate(6.6884, 123.6991)">
+<path transform="scale(0.0040, -0.0040)" d="M0 56h81c171 0 285 -218 381 -362c12 -18 -16 -36 -28 -18c-88 132 -196 268 -353 268h-54c-15 0 -27 12 -27 27v85z" fill="currentColor"/>
+</g>
+<g transform="translate(6.6884, 110.1867)">
+<rect x="0.0000" y="-13.3324" width="0.4500" height="26.6649" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(17.6059, 100.9551)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(18.8362, 98.9551)">
+<rect x="-0.0725" y="-1.0038" width="0.1451" height="2.8245" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(17.6059, 120.9183)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(17.6059, 119.9183)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(17.6059, 114.3882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>för</tspan>
+</text>
+</g>
+<g transform="translate(17.6059, 111.5882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>att</tspan>
+</text>
+</g>
+<g transform="translate(17.6059, 108.7882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>att</tspan>
+</text>
+</g>
+<g transform="translate(17.6059, 105.9882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>blott</tspan>
+</text>
+</g>
+<g transform="translate(17.6059, 100.9551)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(12.4466, 122.4183)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(13.3763, 120.9183)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(14.3059, 122.9183)">
+<path transform="scale(0.0040, -0.0040)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-28 454c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41c-14 0 -25 13 -25 27z" fill="currentColor"/>
+</g>
+<g transform="translate(8.8170, 120.4183)">
+<path transform="scale(0.0040, -0.0040)" d="M558 -125c0 28 22 51 50 51s51 -23 51 -51s-23 -51 -51 -51s-50 23 -50 51zM558 125c0 28 22 51 50 51s51 -23 51 -51s-23 -51 -51 -51s-50 23 -50 51zM231 264c172 0 294 -88 294 -251c0 -263 -262 -416 -515 -523c-3 -3 -7 -4 -10 -4c-7 0 -14 7 -14 14c0 3 1 7 4 10
+c201 118 410 265 410 492c0 119 -61 234 -169 234c-72 0 -124 -53 -148 -123c10 4 19 6 29 6c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 101 245 231 245z" fill="currentColor"/>
+</g>
+<g transform="translate(39.0428, 120.9183)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(39.1153, 98.9551)">
+<rect x="-0.0725" y="1.1794" width="0.1451" height="2.8206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(40.7916, 100.4551)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(40.2731, 98.9551)">
+<rect x="-0.0725" y="-3.3333" width="0.1451" height="3.1540" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(40.7916, 98.4551)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(39.0428, 118.9183)">
+<path transform="scale(0.0040, -0.0040)" d="M312 64c0 23 -18 41 -41 41c-39 0 -201 -110 -228 -142c-7 -8 -10 -17 -10 -27c0 -23 18 -41 41 -41c39 0 201 110 228 142c7 8 10 17 10 27zM259 137c46 0 86 -17 86 -74c0 -26 -15 -112 -73 -151c-29 -20 -89 -49 -186 -49c-46 0 -86 17 -86 74c0 26 16 112 74 151
+c29 20 88 49 185 49z" fill="currentColor"/>
+</g>
+<g transform="translate(39.0428, 114.3882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>re</tspan>
+</text>
+</g>
+<g transform="translate(39.0428, 111.5882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>allt,</tspan>
+</text>
+</g>
+<g transform="translate(39.0428, 108.7882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>fläck</tspan>
+</text>
+</g>
+<g transform="translate(39.0428, 105.9882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>grund,</tspan>
+</text>
+</g>
+<g transform="translate(39.0428, 99.9551)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(39.0428, 98.9551)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(45.6431, 99.4551)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(45.7881, 103.4080)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-18v250h18v-250zM0 0v250c96 59 222 149 222 259c0 57 -15 111 -40 162c-3 17 10 29 24 29c8 0 16 -5 21 -13c25 -56 40 -116 40 -178c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<g transform="translate(45.7156, 98.9551)">
+<rect x="-0.0725" y="1.6794" width="0.1451" height="2.8206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(46.9459, 96.0021)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 -197 207 -335 207 -532c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -21 -12c-14 0 -27 11 -24 28c26 60 42 125 42 191c0 103 -93 207 -163 282h-18v250h18z" fill="currentColor"/>
+</g>
+<g transform="translate(46.8733, 98.9551)">
+<rect x="-0.0725" y="-3.0000" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(45.6431, 120.4183)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(45.6431, 100.4551)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(39.1153, 121.4183)">
+<rect x="-0.0725" y="-0.3206" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(40.7916, 120.9183)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(40.3508, 121.4183)">
+<rect x="-0.0725" y="-5.0000" width="0.1451" height="2.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(32.9426, 111.5882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>na</tspan>
+</text>
+</g>
+<g transform="translate(32.9627, 108.7882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>en</tspan>
+</text>
+</g>
+<g transform="translate(32.3200, 105.9882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>den</tspan>
+</text>
+</g>
+<g transform="translate(33.5889, 121.4183)">
+<rect x="-0.0725" y="-0.3206" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(33.5163, 99.9551)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(33.5163, 100.9551)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(26.0603, 121.4183)">
+<rect x="-0.0725" y="-0.2470" width="0.1451" height="3.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(27.2958, 121.4183)">
+<rect x="-0.0725" y="-5.0000" width="0.1451" height="2.2470" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(33.5163, 118.9183)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(34.7466, 121.4183)">
+<rect x="-0.0725" y="-5.0000" width="0.1451" height="2.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(33.5889, 98.9551)">
+<rect x="-0.0725" y="2.1794" width="0.1451" height="2.4873" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(34.7466, 98.9551)">
+<rect x="-0.0725" y="-2.5000" width="0.1451" height="3.3206" ry="0.0471" fill="currentColor"/>
+</g>
+<g transform="translate(32.8823, 114.3882)">
+<text font-family="Georgia Pro Cond" font-size="2.4690" text-anchor="start" fill="currentColor">
+<tspan>ta,</tspan>
+</text>
+</g>
+<g transform="translate(33.5163, 120.9183)">
+<path transform="scale(0.0040, -0.0040)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(8.0170, 127.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>Text:</tspan>
+</text>
+</g>
+<g transform="translate(12.3928, 127.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>Efter</tspan>
+</text>
+</g>
+<g transform="translate(16.8892, 127.1277)">
+<text font-family="Fira Sans Extra Condensed" font-style="italic" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>Just</tspan>
+</text>
+</g>
+<g transform="translate(20.6223, 127.1277)">
+<text font-family="Fira Sans Extra Condensed" font-style="italic" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>as</tspan>
+</text>
+</g>
+<g transform="translate(23.1103, 127.1277)">
+<text font-family="Fira Sans Extra Condensed" font-style="italic" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>I</tspan>
+</text>
+</g>
+<g transform="translate(24.2325, 127.1277)">
+<text font-family="Fira Sans Extra Condensed" font-style="italic" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>am,</tspan>
+</text>
+</g>
+<g transform="translate(27.8451, 127.1277)">
+<text font-family="Fira Sans Extra Condensed" font-style="italic" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>without</tspan>
+</text>
+</g>
+<g transform="translate(34.7917, 127.1277)">
+<text font-family="Fira Sans Extra Condensed" font-style="italic" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>one</tspan>
+</text>
+</g>
+<g transform="translate(38.4445, 127.1277)">
+<text font-family="Fira Sans Extra Condensed" font-style="italic" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>plea</tspan>
+</text>
+</g>
+<g transform="translate(42.6597, 127.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>av</tspan>
+</text>
+</g>
+<g transform="translate(45.1476, 127.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>Charlotte</tspan>
+</text>
+</g>
+<g transform="translate(53.4600, 127.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>Elliott,</tspan>
+</text>
+</g>
+<g transform="translate(59.4426, 127.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>1834.</tspan>
+</text>
+</g>
+<g transform="translate(64.1398, 127.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>                       </tspan>
+</text>
+</g>
+<g transform="translate(8.0170, 130.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>Övers.</tspan>
+</text>
+</g>
+<g transform="translate(13.7987, 130.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>Betty</tspan>
+</text>
+</g>
+<g transform="translate(18.7771, 130.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>Posse,</tspan>
+</text>
+</g>
+<g transform="translate(24.5589, 130.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>1856,</tspan>
+</text>
+</g>
+<g transform="translate(29.3364, 130.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>bearb.</tspan>
+</text>
+</g>
+<g transform="translate(35.1985, 130.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>1916.</tspan>
+</text>
+</g>
+<g transform="translate(39.8153, 130.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>                                                         </tspan>
+</text>
+</g>
+<g transform="translate(67.8907, 130.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>                </tspan>
+</text>
+</g>
+<g transform="translate(8.0170, 133.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>Musik:</tspan>
+</text>
+</g>
+<g transform="translate(13.9192, 133.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>W</tspan>
+</text>
+</g>
+<g transform="translate(15.4456, 133.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="1.7460" text-anchor="start" fill="currentColor">
+<tspan>OODWORTH</tspan>
+</text>
+</g>
+<g transform="translate(23.7580, 133.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>av</tspan>
+</text>
+</g>
+<g transform="translate(26.2459, 133.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>William</tspan>
+</text>
+</g>
+<g transform="translate(33.0319, 133.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>B.</tspan>
+</text>
+</g>
+<g transform="translate(35.1583, 133.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>Bradbury,</tspan>
+</text>
+</g>
+<g transform="translate(43.7117, 133.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>1849.</tspan>
+</text>
+</g>
+<g transform="translate(48.4491, 133.1277)">
+<text font-family="Fira Sans Extra Condensed" font-size="2.1999" text-anchor="start" fill="currentColor">
+<tspan>8.8.8.8</tspan>
+</text>
+</g>
+</svg>

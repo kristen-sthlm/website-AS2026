@@ -1,0 +1,125 @@
+---
+layout: base.njk
+title: Andliga Sånger
+permalink: /
+---
+
+<div class="index-page">
+  <header class="index-masthead">
+    <a href="/" class="index-masthead-title">{{ site.title }}</a>
+
+    <details class="menu" id="index-menu">
+      <summary class="menu-trigger" aria-label="Mer information">
+        <svg viewBox="0 0 20 20" width="20" height="20" fill="currentColor" aria-hidden="true">
+          <circle cx="4" cy="10" r="1.6"/>
+          <circle cx="10" cy="10" r="1.6"/>
+          <circle cx="16" cy="10" r="1.6"/>
+        </svg>
+      </summary>
+      <div class="menu-panel" role="menu">
+        <a href="/preface/" class="menu-item" role="menuitem">
+          <span class="menu-item-label">Förord</span>
+          <span class="menu-item-meta">Bokens inledning</span>
+        </a>
+        <a href="#" class="menu-item is-placeholder" role="menuitem">
+          <span class="menu-item-label">PDF-utgåva</span>
+          <span class="menu-item-meta">Ladda ner sångboken</span>
+        </a>
+        <a href="#" class="menu-item is-placeholder" role="menuitem">
+          <span class="menu-item-label">Tryckt utgåva</span>
+          <span class="menu-item-meta">Beställ den fysiska boken</span>
+        </a>
+        <a href="#" class="menu-item is-placeholder" role="menuitem">
+          <span class="menu-item-label">Källkod</span>
+          <span class="menu-item-meta">LilyPond-noter på GitHub</span>
+        </a>
+        <a href="/about/" class="menu-item" role="menuitem">
+          <span class="menu-item-label">Om projektet</span>
+          <span class="menu-item-meta">Bakgrund och syfte</span>
+        </a>
+        <a href="https://tally.so/r/7R4MZz" class="menu-item" role="menuitem">
+          <span class="menu-item-label">Kontakta oss</span>
+          <span class="menu-item-meta">Extern webbplats — Tally</span>
+        </a>
+      </div>
+    </details>
+  </header>
+
+  <p class="intro">Den digitala utgåvan av sångboken <em>Andliga Sånger</em>, 2026.</p>
+
+  <blockquote class="epigraph">
+    <p>Är någon glad, skall han sjunga lovsånger.</p>
+    <cite>Jakobs brev 5:13</cite>
+  </blockquote>
+
+  <div class="search-wrapper">
+    <input type="search" id="search" placeholder="Sök…" autocomplete="off" inputmode="search">
+  </div>
+
+  <div class="controls">
+    <div class="segmented" data-control="sort" role="group" aria-label="Sortera">
+      <button type="button" class="seg-btn is-active" data-value="number" aria-label="Sortera efter nummer" title="Sortera efter nummer">#</button>
+      <button type="button" class="seg-btn" data-value="alpha" aria-label="Sortera alfabetiskt" title="Sortera alfabetiskt">A–Ö</button>
+    </div>
+
+    <div class="segmented" data-control="verses" role="group" aria-label="Verser">
+      <button type="button" class="seg-btn is-active" data-value="first" aria-label="Visa första vers" title="Visa första vers">
+        <svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true">
+          <line x1="3" y1="8" x2="13" y2="8"/>
+        </svg>
+      </button>
+      <button type="button" class="seg-btn" data-value="all" aria-label="Visa alla verser" title="Visa alla verser">
+        <svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true">
+          <line x1="3" y1="4.5" x2="13" y2="4.5"/>
+          <line x1="3" y1="8" x2="13" y2="8"/>
+          <line x1="3" y1="11.5" x2="13" y2="11.5"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <table class="hymn-index" id="hymn-index">
+    <thead class="visually-hidden">
+      <tr><th>Första rad</th><th>Vers</th><th>Nr</th></tr>
+    </thead>
+    <tbody>
+      {% for hymn in collections.hymns %}
+        {% set sv = hymn.languages.sv %}
+        {% if sv and hymn.verses %}
+          {% for verse in hymn.verses %}
+            <tr class="hymn-row {% if loop.first %}is-first-verse{% else %}is-other-verse{% endif %}"
+                data-number="{{ hymn.number }}"
+                data-verse="{{ verse.number }}"
+                data-firstline-sort="{{ verse.firstLine | lower }}"
+                data-title-sort="{{ hymn.verses[0].firstLine | lower }}"
+                data-search-text="{{ verse.searchText }}">
+              <td class="line">
+                <a href="{{ sv.url }}">
+                  {% if loop.first %}
+                    <strong>{{ verse.firstLine }}</strong>
+                  {% else %}
+                    {{ verse.firstLine }}
+                  {% endif %}
+                </a>
+              </td>
+              <td class="verse">
+                <a href="{{ sv.url }}">v.{{ verse.number }}</a>
+              </td>
+              <td class="num">
+                <a href="{{ sv.url }}">{{ hymn.number }}</a>
+              </td>
+            </tr>
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <button type="button" class="back-to-top" id="back-to-top" aria-label="Tillbaka till toppen" hidden>
+    <svg viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M10 16V4M5 9l5-5 5 5"/>
+    </svg>
+  </button>
+</div>
+
+<script type="module" src="/assets/index.js"></script>

@@ -1,0 +1,17 @@
+{
+  "name": "andliga-sanger",
+  "version": "1.0.0",
+  "description": "Andliga Sånger — a Christian hymnbook",
+  "type": "module",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "clean": "rm -rf _site",
+    "proofread": "node scripts/build-proofread.js",
+    "proofread:apply": "node scripts/apply-proofread.js",
+    "proofread:apply:write": "node scripts/apply-proofread.js --write"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

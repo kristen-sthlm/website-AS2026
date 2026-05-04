@@ -1,0 +1,90 @@
+/* =============================================================
+   Self-hosted fonts (GDPR compliant — no third-party requests)
+   Body:  Noto Serif       (humanist serif, native on Android)
+   UI:    Source Sans 3    (humanist sans-serif)
+   Files downloaded from https://gwfh.mranftl.com/fonts
+   ============================================================= */
+
+/* Noto Serif — regular */
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Noto Serif'),
+       url('/assets/fonts/noto-serif-latin-400-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Noto Serif Italic'),
+       url('/assets/fonts/noto-serif-latin-400-italic.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Noto Serif Bold'), local('Noto Serif SemiBold'),
+       url('/assets/fonts/noto-serif-latin-600-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Noto Serif Bold Italic'),
+       url('/assets/fonts/noto-serif-latin-600-italic.woff2') format('woff2');
+}
+
+/* Source Sans 3 */
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Source Sans 3'),
+       url('/assets/fonts/source-sans-3-latin-400-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Source Sans 3 Italic'),
+       url('/assets/fonts/source-sans-3-latin-400-italic.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Source Sans 3 Medium'),
+       url('/assets/fonts/source-sans-3-latin-500-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Source Sans 3 Medium Italic'),
+       url('/assets/fonts/source-sans-3-latin-500-italic.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Source Sans 3 SemiBold'),
+       url('/assets/fonts/source-sans-3-latin-600-normal.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Source Sans 3 SemiBold Italic'),
+       url('/assets/fonts/source-sans-3-latin-600-italic.woff2') format('woff2');
+}
