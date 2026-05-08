@@ -29,6 +29,7 @@ export default function (eleventyConfig) {
 
       if (lang === "sv") {
         grouped[num].verses = parsed;
+        grouped[num].footnote = (item.data.footnote || "").toLowerCase();
       }
     }
 
@@ -42,19 +43,23 @@ export default function (eleventyConfig) {
       hymn.scorePages = count;
     }
 
-    // Build per-verse multilingual search text
+    // Build per-language search text and lines for each verse
     for (const hymn of Object.values(grouped)) {
       if (!hymn.verses) continue;
       for (const v of hymn.verses) {
-        let combined = v.lines.join(" ");
+        v.searchSv = v.lines.join(" ").toLowerCase();
+        v.linesSv = v.lines;
         for (const otherLang of ["en", "fr"]) {
           const other = hymn.versesByLang[otherLang];
-          if (!other) continue;
-          const matchVerse = other.find((x) => x.number === v.number);
-          if (matchVerse) combined += " " + matchVerse.lines.join(" ");
+          const matchVerse = other ? other.find((x) => x.number === v.number) : null;
+          const lines = matchVerse ? matchVerse.lines : [];
+          v["search" + otherLang.charAt(0).toUpperCase() + otherLang.slice(1)] =
+            lines.join(" ").toLowerCase();
+          v["lines" + otherLang.charAt(0).toUpperCase() + otherLang.slice(1)] = lines;
         }
-        v.searchText = combined.toLowerCase();
       }
+      // Index ordering: same as source (chorus inherits its position from markdown)
+      hymn.versesForIndex = hymn.verses;
     }
 
     // Count actual score pages on disk for each hymn
@@ -122,10 +127,20 @@ function parseVerses(body) {
   const lines = body.split("\n");
   let current = null;
   for (const line of lines) {
-    const headingMatch = line.match(/^#\s+(\d+)\.?\s*$/);
+    // Accept "# 1.", "# 2.", "# C.", "# R.", "# C", etc.
+    // The label is captured verbatim; whether it's numeric (a verse) or
+    // a letter (a chorus/refrain) is decided by the caller.
+    const headingMatch = line.match(/^#\s+([A-Za-z0-9]+)\.?\s*$/);
     if (headingMatch) {
       if (current) verses.push(current);
-      current = { number: parseInt(headingMatch[1], 10), lines: [] };
+      const label = headingMatch[1];
+      const isNumeric = /^\d+$/.test(label);
+      current = {
+        number: isNumeric ? parseInt(label, 10) : label.toUpperCase(),
+        kind: isNumeric ? "verse" : "chorus",
+        label: isNumeric ? String(parseInt(label, 10)) : label.toUpperCase(),
+        lines: [],
+      };
     } else if (current && line.trim()) {
       current.lines.push(line.trim());
     }

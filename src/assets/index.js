@@ -74,24 +74,49 @@ function reflow(rows) {
 
 // --- Filtering -------------------------------------------------
 function applyFilter() {
-  const q = searchQuery.trim().toLowerCase();
-  const isNumber = /^\d+$/.test(q);
+  const raw = searchQuery.trim();
+  const isNumber = /^\d+$/.test(raw);
 
-  // When searching by text, reveal all matching verses (not when searching
-  // by number — there we want one row per hymn, the first verse)
+  // Detect language prefix: /en: /fr: /sv: /fn: (case-insensitive).
+  // Default: search Swedish only.
+  let lang = "sv";
+  let q = raw.toLowerCase();
+  const prefixMatch = raw.match(/^\/(en|fr|sv|fn):\s*(.*)$/i);
+  if (prefixMatch) {
+    lang = prefixMatch[1].toLowerCase();
+    q = prefixMatch[2].toLowerCase();
+  }
+
+  const dataAttr = "search" + lang.charAt(0).toUpperCase() + lang.slice(1);
+
+  // For footnote search, also collapse to one row per hymn (first verse only)
+  const isFootnoteSearch = lang === "fn";
+
+  // When searching by text, reveal all matching verses (except for fn,
+  // which is per-hymn — keep only first verse rows visible).
   const showOtherVerses =
-    versesState === "all" || (q.length > 0 && !isNumber);
+    versesState === "all" || (q.length > 0 && !isNumber && !isFootnoteSearch);
   document.body.classList.toggle("show-all-verses-search", showOtherVerses);
+  document.body.classList.toggle("is-searching", q.length > 0 && !isNumber);
+
+  // Set language class on body so CSS shows the correct verse-extra
+  document.body.classList.toggle("search-lang-sv", lang === "sv");
+  document.body.classList.toggle("search-lang-en", lang === "en");
+  document.body.classList.toggle("search-lang-fr", lang === "fr");
+  document.body.classList.toggle("search-lang-fn", lang === "fn");
 
   for (const row of allRows) {
     let matches;
     if (q === "") {
       matches = true;
     } else if (isNumber) {
-      // Exact match on the hymn number, only first-verse row
       matches = row.dataset.number === q && row.classList.contains("is-first-verse");
+    } else if (isFootnoteSearch) {
+      // Match against per-hymn footnote, only show first-verse row
+      const text = row.dataset.searchFn || "";
+      matches = text.includes(q) && row.classList.contains("is-first-verse");
     } else {
-      const text = row.dataset.searchText || "";
+      const text = row.dataset[dataAttr] || "";
       matches = text.includes(q);
     }
     row.classList.toggle("is-hidden", !matches);

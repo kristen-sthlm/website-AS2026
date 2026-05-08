@@ -81,25 +81,48 @@ permalink: /
     <tbody>
       {% for hymn in collections.hymns %}
         {% set sv = hymn.languages.sv %}
-        {% if sv and hymn.verses %}
-          {% for verse in hymn.verses %}
-            <tr class="hymn-row {% if loop.first %}is-first-verse{% else %}is-other-verse{% endif %}"
+        {% if sv and hymn.versesForIndex %}
+          {% for verse in hymn.versesForIndex %}
+            <tr class="hymn-row {% if loop.first %}is-first-verse{% else %}is-other-verse{% endif %}{% if verse.kind == 'chorus' %} is-chorus{% endif %}"
                 data-number="{{ hymn.number }}"
-                data-verse="{{ verse.number }}"
+                data-verse="{{ verse.label }}"
                 data-firstline-sort="{{ verse.firstLine | lower }}"
-                data-title-sort="{{ hymn.verses[0].firstLine | lower }}"
-                data-search-text="{{ verse.searchText }}">
+                data-title-sort="{{ hymn.versesForIndex[0].firstLine | lower }}"
+                data-search-sv="{{ verse.searchSv }}"
+                data-search-en="{{ verse.searchEn }}"
+                data-search-fr="{{ verse.searchFr }}"
+                data-search-fn="{{ hymn.footnote }}">
               <td class="line">
-                <a href="{{ sv.url | url }}">
+                <a href="{{ sv.url | url }}" class="line-link">
                   {% if loop.first %}
                     <strong>{{ verse.firstLine }}</strong>
                   {% else %}
                     {{ verse.firstLine }}
                   {% endif %}
+                  <div class="verse-extra" data-lang="sv">
+                    {% for vline in verse.linesSv %}
+                      {% if not loop.first %}<span class="verse-extra-line">{{ vline }}</span>{% endif %}
+                    {% endfor %}
+                  </div>
+                  <div class="verse-extra" data-lang="en">
+                    {% for vline in verse.linesEn %}
+                      <span class="verse-extra-line">{{ vline }}</span>
+                    {% endfor %}
+                  </div>
+                  <div class="verse-extra" data-lang="fr">
+                    {% for vline in verse.linesFr %}
+                      <span class="verse-extra-line">{{ vline }}</span>
+                    {% endfor %}
+                  </div>
+                  {% if sv.data.footnote %}
+                    <div class="verse-extra" data-lang="fn">
+                      <span class="verse-extra-line">{{ sv.data.footnote }}</span>
+                    </div>
+                  {% endif %}
                 </a>
               </td>
               <td class="verse">
-                <a href="{{ sv.url | url }}">v.{{ verse.number }}</a>
+                <a href="{{ sv.url | url }}">{% if verse.kind == 'chorus' %}c.{% else %}v.{{ verse.label }}{% endif %}</a>
               </td>
               <td class="num">
                 <a href="{{ sv.url | url }}">{{ hymn.number }}</a>

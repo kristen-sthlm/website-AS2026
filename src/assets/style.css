@@ -511,6 +511,24 @@ body.show-all-verses-search .hymn-row.is-other-verse .line strong {
 .hymn-row:hover .num { color: var(--c-accent); }
 .hymn-row strong { font-weight: 500; }
 
+/* Extra verse lines shown only when searching */
+.verse-extra { display: none; }
+body.is-searching.search-lang-sv .hymn-row:not(.is-hidden) .verse-extra[data-lang="sv"],
+body.is-searching.search-lang-en .hymn-row:not(.is-hidden) .verse-extra[data-lang="en"],
+body.is-searching.search-lang-fr .hymn-row:not(.is-hidden) .verse-extra[data-lang="fr"],
+body.is-searching.search-lang-fn .hymn-row:not(.is-hidden) .verse-extra[data-lang="fn"] {
+  display: block;
+  margin-top: 0.3rem;
+  padding-left: 1rem;
+  font-family: var(--f-sans);
+  font-size: 0.85rem;
+  line-height: 1.45;
+  color: var(--c-muted);
+}
+.verse-extra-line {
+  display: block;
+}
+
 /* Hide the verse column when only first verses are shown */
 body:not(.show-all-verses-search) .hymn-row td.verse { display: none; }
 
@@ -866,7 +884,7 @@ body.is-hymn-page {
 /* Lyrics — the heart of the page */
 .lyrics {
   font-family: var(--f-serif);
-  font-size: 1.18rem;
+  font-size: 1.28rem;
   line-height: 1.65;
   color: var(--c-ink);
 }
@@ -902,16 +920,16 @@ body.is-hymn-page {
   margin: 0 0 0.4rem;
 }
 
-/* Score container: minimal chrome, maximize SVG real estate */
+/* Score container: keep the card frame but with minimal padding on phone */
 .score {
-  margin-top: 1rem;
+  margin: 1rem -1.25rem 0;   /* full bleed to viewport edge */
 }
 .score-img-wrap {
   background: var(--c-surface);
   border: 1px solid var(--c-rule-soft);
   border-radius: var(--radius);
-  padding: 0.4rem;
-  margin-bottom: 0.75rem;
+  padding: 0.2rem;
+  margin-bottom: 0.5rem;
 }
 .score-img-wrap:last-child { margin-bottom: 0; }
 .score-img-wrap img {
@@ -920,13 +938,22 @@ body.is-hymn-page {
   height: auto;
 }
 
+@media (min-width: 1024px) {
+  /* On wider screens, restore a more generous card */
+  .score { margin: 1rem 0 0; }
+  .score-img-wrap {
+    padding: 0.4rem;
+    margin-bottom: 0.75rem;
+  }
+}
+
 /* =============================================================
    Larger screens
    ============================================================= */
 @media (min-width: 640px) {
   body { font-size: 1.125rem; }
   main { padding: 0 1.75rem; }
-  .lyrics { font-size: 1.22rem; }
+  .lyrics { font-size: 1.32rem; }
 }
 
 @media (min-width: 900px) {
