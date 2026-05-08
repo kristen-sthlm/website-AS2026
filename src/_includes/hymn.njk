@@ -5,6 +5,20 @@ layout: base.njk
 {% set padded = hymnnumber | pad3 %}
 {% set t = strings[lang] %}
 
+{# Find prev/next hymn in the sorted collection #}
+{% set prevHymn = null %}
+{% set nextHymn = null %}
+{% set foundIdx = -1 %}
+{% for h in collections.hymns %}
+  {% if h.number == hymnnumber %}
+    {% set foundIdx = loop.index0 %}
+  {% endif %}
+{% endfor %}
+{% for h in collections.hymns %}
+  {% if loop.index0 == foundIdx - 1 %}{% set prevHymn = h %}{% endif %}
+  {% if loop.index0 == foundIdx + 1 %}{% set nextHymn = h %}{% endif %}
+{% endfor %}
+
 <article class="hymn-page"
          data-hymn="{{ hymnnumber }}"
          data-pagefind-body
@@ -18,7 +32,37 @@ layout: base.njk
       </svg>
     </a>
 
-    <div class="hymn-number-large">{{ hymnnumber }}</div>
+    <div class="hymn-number-group">
+      {% if prevHymn and prevHymn.languages[lang] %}
+        <a href="{{ prevHymn.languages[lang].url | url }}" class="nav-arrow" aria-label="Föregående sång ({{ prevHymn.number }})" title="Föregående">
+          <svg viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M12 4l-6 6 6 6"/>
+          </svg>
+        </a>
+      {% else %}
+        <span class="nav-arrow is-disabled" aria-hidden="true">
+          <svg viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 4l-6 6 6 6"/>
+          </svg>
+        </span>
+      {% endif %}
+
+      <div class="hymn-number-large">{{ hymnnumber }}</div>
+
+      {% if nextHymn and nextHymn.languages[lang] %}
+        <a href="{{ nextHymn.languages[lang].url | url }}" class="nav-arrow" aria-label="Nästa sång ({{ nextHymn.number }})" title="Nästa">
+          <svg viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M8 4l6 6-6 6"/>
+          </svg>
+        </a>
+      {% else %}
+        <span class="nav-arrow is-disabled" aria-hidden="true">
+          <svg viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M8 4l6 6-6 6"/>
+          </svg>
+        </span>
+      {% endif %}
+    </div>
 
     <a href="{{ ('/hymns/' + padded + '-score/') | url }}" class="icon-btn" aria-label="{{ t.showScore }}" title="{{ t.showScore }}">
       <svg viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -27,80 +71,52 @@ layout: base.njk
     </a>
   </div>
 
+  {# Get the Swedish first line for the player title #}
+  {% set hymnTitle = '' %}
+  {% for h in collections.hymns %}
+    {% if h.number == hymnnumber and h.verses %}
+      {% set hymnTitle = h.verses[0].firstLine %}
+    {% endif %}
+  {% endfor %}
+
   <section class="audio-section">
-    <div class="player" data-src="{{ ('/hymns/audio/' + padded + '.mp3') | url }}">
-      <button type="button" class="player-play" aria-label="Spela">
-        <svg class="player-icon-play" viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true">
-          <path d="M8 5.5v13a1 1 0 0 0 1.55.83l10-6.5a1 1 0 0 0 0-1.66l-10-6.5A1 1 0 0 0 8 5.5z"/>
-        </svg>
-        <svg class="player-icon-pause" viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true">
-          <rect x="6" y="5" width="4.5" height="14" rx="1"/>
-          <rect x="13.5" y="5" width="4.5" height="14" rx="1"/>
-        </svg>
-      </button>
-      <div class="player-progress" role="slider" tabindex="0" aria-label="Spelningsläge" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
-        <div class="player-progress-track">
-          <div class="player-progress-fill"></div>
-          <div class="player-progress-thumb"></div>
+    <div class="player" data-src="{{ ('/hymns/audio/' + padded + '.mp3') | url }}" data-title="{{ hymnTitle }}">
+      <div class="player-title" aria-hidden="true">{{ hymnTitle }}</div>
+      <div class="player-row">
+        <button type="button" class="player-play" aria-label="Spela">
+          <svg class="player-icon-play" viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true">
+            <path d="M8 5.5v13a1 1 0 0 0 1.55.83l10-6.5a1 1 0 0 0 0-1.66l-10-6.5A1 1 0 0 0 8 5.5z"/>
+          </svg>
+          <svg class="player-icon-pause" viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true">
+            <rect x="6" y="5" width="4.5" height="14" rx="1"/>
+            <rect x="13.5" y="5" width="4.5" height="14" rx="1"/>
+          </svg>
+        </button>
+        <div class="player-progress" role="slider" tabindex="0" aria-label="Spelningsläge" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+          <div class="player-progress-track">
+            <div class="player-progress-fill"></div>
+            <div class="player-progress-thumb"></div>
+          </div>
         </div>
-      </div>
-      <div class="player-time">
-        <span class="player-time-current">0:00</span>
-        <span class="player-time-sep">/</span>
-        <span class="player-time-total">—</span>
+        <div class="player-time">
+          <span class="player-time-current">0:00</span>
+          <span class="player-time-sep">/</span>
+          <span class="player-time-total">—</span>
+        </div>
+        <button type="button" class="player-loop is-active" aria-label="Loop" aria-pressed="true" title="Upprepa">
+          <svg viewBox="0 0 20 20" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M5 8a3 3 0 0 1 3-3h7l-2-2M15 12a3 3 0 0 1-3 3H5l2 2"/>
+          </svg>
+        </button>
       </div>
     </div>
   </section>
 
-  {# Find prev/next hymn in the sorted collection #}
-  {% set prevHymn = null %}
-  {% set nextHymn = null %}
-  {% set foundIdx = -1 %}
-  {% for h in collections.hymns %}
-    {% if h.number == hymnnumber %}
-      {% set foundIdx = loop.index0 %}
-    {% endif %}
-  {% endfor %}
-  {% for h in collections.hymns %}
-    {% if loop.index0 == foundIdx - 1 %}{% set prevHymn = h %}{% endif %}
-    {% if loop.index0 == foundIdx + 1 %}{% set nextHymn = h %}{% endif %}
-  {% endfor %}
-
-  <div class="hymn-nav-row">
-    {% if prevHymn and prevHymn.languages[lang] %}
-      <a href="{{ prevHymn.languages[lang].url | url }}" class="nav-arrow" aria-label="Föregående sång ({{ prevHymn.number }})" title="Föregående">
-        <svg viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-          <path d="M12 4l-6 6 6 6"/>
-        </svg>
-      </a>
-    {% else %}
-      <span class="nav-arrow is-disabled" aria-hidden="true">
-        <svg viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M12 4l-6 6 6 6"/>
-        </svg>
-      </span>
-    {% endif %}
-
-    <nav class="lang-toggle" aria-label="{{ t.languageLabel }}">
-      <a href="{{ ('/hymns/' + padded + '-sv/') | url }}" class="lang-btn{% if lang == 'sv' %} active{% endif %}">SV</a>
-      <a href="{{ ('/hymns/' + padded + '-en/') | url }}" class="lang-btn{% if lang == 'en' %} active{% endif %}">EN</a>
-      <a href="{{ ('/hymns/' + padded + '-fr/') | url }}" class="lang-btn{% if lang == 'fr' %} active{% endif %}">FR</a>
-    </nav>
-
-    {% if nextHymn and nextHymn.languages[lang] %}
-      <a href="{{ nextHymn.languages[lang].url | url }}" class="nav-arrow" aria-label="Nästa sång ({{ nextHymn.number }})" title="Nästa">
-        <svg viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-          <path d="M8 4l6 6-6 6"/>
-        </svg>
-      </a>
-    {% else %}
-      <span class="nav-arrow is-disabled" aria-hidden="true">
-        <svg viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M8 4l6 6-6 6"/>
-        </svg>
-      </span>
-    {% endif %}
-  </div>
+  <nav class="lang-toggle" aria-label="{{ t.languageLabel }}">
+    <a href="{{ ('/hymns/' + padded + '-sv/') | url }}" class="lang-btn{% if lang == 'sv' %} active{% endif %}">SV</a>
+    <a href="{{ ('/hymns/' + padded + '-en/') | url }}" class="lang-btn{% if lang == 'en' %} active{% endif %}">EN</a>
+    <a href="{{ ('/hymns/' + padded + '-fr/') | url }}" class="lang-btn{% if lang == 'fr' %} active{% endif %}">FR</a>
+  </nav>
 
   {% if lang != 'sv' and t.translationNotice %}
     <p class="translation-notice">{{ t.translationNotice }}</p>

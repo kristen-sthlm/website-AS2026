@@ -22,7 +22,6 @@ export default function (eleventyConfig) {
       const lang = match[2];
       grouped[num].languages[lang] = item;
 
-      // Parse this language's verses and store under versesByLang[lang]
       const raw = fs.readFileSync(item.inputPath, "utf8");
       const body = stripFrontMatter(raw);
       const parsed = parseVerses(body);
@@ -33,9 +32,17 @@ export default function (eleventyConfig) {
       }
     }
 
-    // Build per-verse search text — concatenating the same verse number
-    // across all available languages. Then a search for "saints" matches
-    // only the verse where "saints" actually appears, in any language.
+    // Count actual score PNG files on disk for each hymn
+    for (const hymn of Object.values(grouped)) {
+      const padded = String(hymn.number).padStart(3, "0");
+      let count = 0;
+      while (fs.existsSync(path.join("src/hymns/scores", `${padded}-${count + 1}.png`))) {
+        count++;
+      }
+      hymn.scorePages = count;
+    }
+
+    // Build per-verse multilingual search text
     for (const hymn of Object.values(grouped)) {
       if (!hymn.verses) continue;
       for (const v of hymn.verses) {
@@ -50,30 +57,43 @@ export default function (eleventyConfig) {
       }
     }
 
+    // Count actual score pages on disk for each hymn
+    for (const hymn of Object.values(grouped)) {
+      const padded = String(hymn.number).padStart(3, "0");
+      let count = 0;
+      for (let n = 1; n <= 9; n++) {
+        const f = path.join("src/hymns/scores", `${padded}-${n}.png`);
+        if (fs.existsSync(f)) count++;
+        else break;
+      }
+      hymn.scorePages = count;
+    }
+
     return Object.values(grouped).sort((a, b) => a.number - b.number);
   });
 
   // Pad hymn numbers to 3 digits: 1 -> "001", 47 -> "047"
   eleventyConfig.addFilter("pad3", (value) => String(value).padStart(3, "0"));
 
-  // Render a short string of inline markdown (e.g. *italic*, **bold**)
-  // without wrapping it in <p> tags. Used for the footnote field.
+  // Count how many score pages exist on disk for a given padded hymn number
+  // (e.g., looks for src/hymns/scores/047-1.png, 047-2.png, ...)
+  eleventyConfig.addFilter("scorePageCount", (padded) => {
+    const dir = "src/hymns/scores";
+    if (!fs.existsSync(dir)) return 0;
+    let n = 0;
+    while (fs.existsSync(path.join(dir, `${padded}-${n + 1}.png`))) {
+      n++;
+    }
+    return n;
+  });
+
+  // Inline markdown for the footnote field
   eleventyConfig.addFilter("inlineMarkdown", (value) => {
     if (!value) return "";
     return String(value)
       .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
       .replace(/\*(.+?)\*/g, "<em>$1</em>")
       .replace(/_(.+?)_/g, "<em>$1</em>");
-  });
-
-  // Inline an SVG score with its viewBox tightened to actual content bounds.
-  // LilyPond ships SVGs with ~8-12% empty margin; this reclaims that space
-  // for phone screens.
-  eleventyConfig.addShortcode("inlineScore", function (padded, page) {
-    const filePath = path.join("src/hymns/scores", `${padded}-${page}.svg`);
-    if (!fs.existsSync(filePath)) return "";
-    let svg = fs.readFileSync(filePath, "utf8");
-    return tightenSvg(svg);
   });
 
   return {
@@ -113,49 +133,4 @@ function parseVerses(body) {
   if (current) verses.push(current);
   for (const v of verses) v.firstLine = v.lines[0] || "";
   return verses;
-}
-
-// Tighten a LilyPond SVG: read translate() values to find the actual
-// drawn bounds, then rewrite the viewBox to those bounds with a small
-// safety pad. Also strips the explicit width/height in mm so the SVG
-// scales fluidly to its container.
-function tightenSvg(svg) {
-  const viewBoxMatch = svg.match(/viewBox="([\d.\-]+)\s+([\d.\-]+)\s+([\d.\-]+)\s+([\d.\-]+)"/);
-  if (!viewBoxMatch) return svg;
-
-  const [vbX, vbY, vbW, vbH] = viewBoxMatch.slice(1).map(parseFloat);
-
-  // Find content bounds via translate() coordinates
-  const translates = [...svg.matchAll(/translate\(\s*([\d.\-]+)\s*,\s*([\d.\-]+)\s*\)/g)];
-  if (translates.length === 0) return svg;
-
-  let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
-  for (const m of translates) {
-    const x = parseFloat(m[1]);
-    const y = parseFloat(m[2]);
-    if (x < minX) minX = x;
-    if (x > maxX) maxX = x;
-    if (y < minY) minY = y;
-    if (y > maxY) maxY = y;
-  }
-
-  // Add a small safety pad so notes near the edge are not clipped
-  const padX = 2;
-  const padY = 2;
-  const newX = Math.max(vbX, minX - padX);
-  const newY = Math.max(vbY, minY - padY);
-  const newW = Math.min(vbW - (newX - vbX), (maxX - minX) + 2 * padX);
-  const newH = Math.min(vbH - (newY - vbY), (maxY - minY) + 2 * padY);
-
-  // Replace viewBox
-  let out = svg.replace(
-    /viewBox="[^"]*"/,
-    `viewBox="${newX.toFixed(2)} ${newY.toFixed(2)} ${newW.toFixed(2)} ${newH.toFixed(2)}"`
-  );
-
-  // Strip width/height so the SVG scales fluidly via CSS
-  out = out.replace(/\swidth="[^"]*mm"/, "");
-  out = out.replace(/\sheight="[^"]*mm"/, "");
-
-  return out;
 }
