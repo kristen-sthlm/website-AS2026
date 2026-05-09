@@ -165,9 +165,9 @@ function processLang(lang) {
   const changes = [];
 
   for (const h of hymns) {
-    const targetPath = path.join(HYMNS_DIR, `${pad3(h.number)}-${lang}.md`);
+    const targetPath = path.join(HYMNS_DIR, lang, `${pad3(h.number)}.md`);
     if (!fs.existsSync(targetPath)) {
-      console.warn(`  [${lang}] WARN: ${path.basename(targetPath)} does not exist; refusing to create. Skipped hymn ${h.number}.`);
+      console.warn(`  [${lang}] WARN: ${lang}/${pad3(h.number)}.md does not exist; refusing to create. Skipped hymn ${h.number}.`);
       continue;
     }
 

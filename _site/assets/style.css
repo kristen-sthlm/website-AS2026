@@ -1010,3 +1010,26 @@ body.is-hymn-page {
   padding: 0.45rem 1rem;
   line-height: 1.4;
 }
+
+/* =============================================================
+   Arabic / RTL adjustments
+   ============================================================= */
+.lyrics.is-rtl,
+.translation-notice[dir="rtl"] {
+  text-align: right;
+}
+
+.lyrics.is-rtl h1 {
+  padding-left: 0;
+  padding-right: 0.7rem;
+  border-left: 0;
+  border-right: 2px solid var(--c-accent);
+  letter-spacing: 0;
+}
+
+/* Slightly larger Arabic body for legibility — Arabic glyphs have
+   smaller x-height than Latin at the same em size */
+.lyrics.is-rtl {
+  font-size: 1.4rem;
+  line-height: 1.85;
+}

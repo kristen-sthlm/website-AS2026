@@ -13,13 +13,29 @@ export default function (eleventyConfig) {
 
     const grouped = {};
     for (const item of all) {
-      const num = item.data.hymnnumber;
-      if (!num) continue;
-      if (!grouped[num]) grouped[num] = { number: num, languages: {}, versesByLang: {} };
+      // Match either old layout (NNN-lang.md) or new layout (lang/NNN.md)
+      const inputPath = item.inputPath.replace(/\\/g, "/");
+      let num = null;
+      let lang = null;
 
-      const match = path.basename(item.inputPath).match(/^(\d+)-(\w+)\.md$/);
-      if (!match) continue;
-      const lang = match[2];
+      // New layout: src/hymns/{lang}/{NNN}.md
+      const folderMatch = inputPath.match(/\/hymns\/([a-z]+)\/(\d+)\.md$/);
+      if (folderMatch) {
+        lang = folderMatch[1];
+        num = parseInt(folderMatch[2], 10);
+      } else {
+        // Legacy fallback: src/hymns/{NNN}-{lang}.md
+        const flatMatch = path.basename(inputPath).match(/^(\d+)-([a-z]+)\.md$/);
+        if (flatMatch) {
+          num = parseInt(flatMatch[1], 10);
+          lang = flatMatch[2];
+        }
+      }
+      if (num === null || lang === null) continue;
+      // Override hymnnumber from filename so files don't need to repeat it
+      if (!item.data.hymnnumber) item.data.hymnnumber = num;
+
+      if (!grouped[num]) grouped[num] = { number: num, languages: {}, versesByLang: {} };
       grouped[num].languages[lang] = item;
 
       const raw = fs.readFileSync(item.inputPath, "utf8");
@@ -43,18 +59,28 @@ export default function (eleventyConfig) {
       hymn.scorePages = count;
     }
 
-    // Build per-language search text and lines for each verse
+    // Build per-language search text and lines for each verse.
+    // Normalization: lowercase, strip punctuation, collapse whitespace.
+    // The same rule must be applied to the query in the JS.
+    const normalize = (s) =>
+      String(s || "")
+        .toLowerCase()
+        .replace(/[^\p{L}\p{N}\s]/gu, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+
     for (const hymn of Object.values(grouped)) {
       if (!hymn.verses) continue;
+      hymn.footnote = normalize(hymn.footnote);
       for (const v of hymn.verses) {
-        v.searchSv = v.lines.join(" ").toLowerCase();
+        v.searchSv = normalize(v.lines.join(" "));
         v.linesSv = v.lines;
         for (const otherLang of ["en", "fr"]) {
           const other = hymn.versesByLang[otherLang];
           const matchVerse = other ? other.find((x) => x.number === v.number) : null;
           const lines = matchVerse ? matchVerse.lines : [];
           v["search" + otherLang.charAt(0).toUpperCase() + otherLang.slice(1)] =
-            lines.join(" ").toLowerCase();
+            normalize(lines.join(" "));
           v["lines" + otherLang.charAt(0).toUpperCase() + otherLang.slice(1)] = lines;
         }
       }
@@ -127,18 +153,21 @@ function parseVerses(body) {
   const lines = body.split("\n");
   let current = null;
   for (const line of lines) {
-    // Accept "# 1.", "# 2.", "# C.", "# R.", "# C", etc.
-    // The label is captured verbatim; whether it's numeric (a verse) or
-    // a letter (a chorus/refrain) is decided by the caller.
-    const headingMatch = line.match(/^#\s+([A-Za-z0-9]+)\.?\s*$/);
+    // Accept "# 1.", "# 2.", "# C.", "# R.", "# ل.", etc.
+    // The label is captured verbatim; numeric → verse, anything else → chorus.
+    const headingMatch = line.match(/^#\s+([\p{L}\p{N}]+)\.?\s*$/u);
     if (headingMatch) {
       if (current) verses.push(current);
       const label = headingMatch[1];
       const isNumeric = /^\d+$/.test(label);
+      // Only uppercase Latin letters; leave non-Latin scripts (Arabic etc.) intact
+      const normalizedLabel = isNumeric
+        ? String(parseInt(label, 10))
+        : (/^[A-Za-z]+$/.test(label) ? label.toUpperCase() : label);
       current = {
-        number: isNumeric ? parseInt(label, 10) : label.toUpperCase(),
+        number: isNumeric ? parseInt(label, 10) : normalizedLabel,
         kind: isNumeric ? "verse" : "chorus",
-        label: isNumeric ? String(parseInt(label, 10)) : label.toUpperCase(),
+        label: normalizedLabel,
         lines: [],
       };
     } else if (current && line.trim()) {

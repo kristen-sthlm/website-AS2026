@@ -55,12 +55,13 @@ function parseFrontMatter(text) {
 
 // --- Discover hymns ---
 function listHymnFiles(lang) {
-  const all = fs.readdirSync(HYMNS_DIR);
-  const re = new RegExp(`^(\\d+)-${lang}\\.md$`);
+  const langDir = path.join(HYMNS_DIR, lang);
+  if (!fs.existsSync(langDir)) return [];
+  const all = fs.readdirSync(langDir);
   return all
     .map((name) => {
-      const m = name.match(re);
-      return m ? { number: parseInt(m[1], 10), file: path.join(HYMNS_DIR, name) } : null;
+      const m = name.match(/^(\d+)\.md$/);
+      return m ? { number: parseInt(m[1], 10), file: path.join(langDir, name) } : null;
     })
     .filter(Boolean)
     .sort((a, b) => a.number - b.number);
@@ -91,7 +92,7 @@ function buildLanguage(lang) {
     let footnote = data.footnote || "";
     if (!footnote && lang !== "sv") {
       // Try to read the swedish version's footnote
-      const svFile = path.join(HYMNS_DIR, `${String(number).padStart(3, "0")}-sv.md`);
+      const svFile = path.join(HYMNS_DIR, "sv", `${String(number).padStart(3, "0")}.md`);
       if (fs.existsSync(svFile)) {
         const svRaw = fs.readFileSync(svFile, "utf8");
         const svFm = parseFrontMatter(svRaw);

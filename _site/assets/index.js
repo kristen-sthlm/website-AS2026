@@ -73,6 +73,15 @@ function reflow(rows) {
 }
 
 // --- Filtering -------------------------------------------------
+// Same normalization as the build-time normalizer in eleventy.config.js
+function normalizeSearch(s) {
+  return String(s || "")
+    .toLowerCase()
+    .replace(/[^\p{L}\p{N}\s]/gu, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 function applyFilter() {
   const raw = searchQuery.trim();
   const isNumber = /^\d+$/.test(raw);
@@ -80,12 +89,13 @@ function applyFilter() {
   // Detect language prefix: /en: /fr: /sv: /fn: (case-insensitive).
   // Default: search Swedish only.
   let lang = "sv";
-  let q = raw.toLowerCase();
+  let q = raw;
   const prefixMatch = raw.match(/^\/(en|fr|sv|fn):\s*(.*)$/i);
   if (prefixMatch) {
     lang = prefixMatch[1].toLowerCase();
-    q = prefixMatch[2].toLowerCase();
+    q = prefixMatch[2];
   }
+  q = normalizeSearch(q);
 
   const dataAttr = "search" + lang.charAt(0).toUpperCase() + lang.slice(1);
 
