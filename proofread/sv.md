@@ -1,12 +1,8 @@
 # Andliga Sånger — Svenska
 
-*Genererat 2026-05-04 från 322 sånger.*
-
 ---
 
 ## Sång 1
-
-> Text: Efter *Holy, holy, holy! Lord God almighty!* av Reginald Heber, 1826. Övers. Johan A. Eklund, 1934, bearb. 1936. Musik: Nicæa av John B. Dykes, 1861. 12.13.12.10
 
 # 1.
 Helig, helig, helig, Herre Gud allsmäktig!
@@ -35,8 +31,6 @@ Dig vi tillbedja, Gud och Fader vår.
 ---
 
 ## Sång 2
-
-> Text: Susan C. Hedman, 1916. Musik: Pass me not av William H. Doane, 1870. 8.5.8.5 (9.8.5)
 
 # 1.
 Stor Du är, vår Gud och Fader,
@@ -71,8 +65,6 @@ Med frimodighet.
 
 ## Sång 3
 
-> Text: Anonym, 1894. Musik: Cheddard av Richard W. Beaty, 1883. 7.7.7.7 D
-
 # 1.
 Helig, helig Herre Gud!
 Jord och himlar på ditt bud
@@ -106,8 +98,6 @@ Helig, helig Herre Gud!
 ---
 
 ## Sång 4
-
-> Text: Carl Boberg, 1885. Musik: Anonym, 1890. 11.10.11.10.10.8.10.8
 
 # 1.
 O store Gud, när jag den värld beskådar,
@@ -153,8 +143,6 @@ Tack, gode Gud! Tack, gode Gud! :|
 
 ## Sång 5
 
-> Text: Susan C. Hedman, 1916. Musik: Tillskr. Johannes A. Hultman, 1928. 12.9.12.9 D
-
 # 1.
 O vår Fader, vi vilja Dig hembära lov
 På ett sätt, som är värdigt ditt namn,
@@ -178,8 +166,6 @@ Att Dig lova bland bröderna mång’.
 ---
 
 ## Sång 6
-
-> Text: Efter *In deep eternal counsel* av George W. Frazer, 1881. Musik: Ellacombe, anonym, 1784. 7.6.7.6 D
 
 # 1.
 I djupt och evigt rådslut,
@@ -225,8 +211,6 @@ Som våra hjärtan vann.
 
 ## Sång 7
 
-> Text: Anonym, 1916. Musik: I djupet af mitt hjärta av Oscar Ahnfelt, 1882. 7.6.4.4.7.6.7.6
-
 # 1.
 I djupet av Guds hjärta
 Det låg en tanke stor;
@@ -261,16 +245,13 @@ Av all Guds härlighet.
 
 ## Sång 8
 
-> Text: Efter *What was it Blessed God* av Ann T. Gilbert, 1866. Musik: Lenox av Lewis Edson, 1782. 6.6.6.6.8.8.8
-
 # 1.
 Vad var det, o vår Gud,
 Som gjorde, att din Son
 För oss Du fritt utgav
 Att bära all vår dom?
 Blott kärlek ingav Dig att ge
-För oss din Son, din Älskade.
-För oss din Son, din Älskade.
+|: För oss din Son, din Älskade. :|
 
 # 2.
 Varföre kom din Son
@@ -278,8 +259,7 @@ Från himlen ned och tog
 Uppå sig all vår synd
 Och tåligt led och dog?
 Oändlig kärlek Honom drev,
-Då Han för oss här korsfäst blev.
-Då Han för oss här korsfäst blev.
+|: Då Han för oss här korsfäst blev. :|
 
 # 3.
 Vad kärlek, tack och lov,
@@ -287,14 +267,11 @@ O Gud, Du värdig är
 För all den rika nåd,
 Du oss bevisat här!
 Lär oss att känna mer din nåd,
-Din kärleks underfulla råd.
-Din kärleks underfulla råd.
+|: Din kärleks underfulla råd. :|
 
 ---
 
 ## Sång 9
-
-> Text: Anonym, 1916. Musik: Hyfrydol av Rowland H. Prichard, 1830. 8.7.8.7.8.8.8.7
 
 # 1.
 Gud ett löfte gav i Eden:
@@ -350,8 +327,6 @@ I en evig härlighet.
 
 ## Sång 10
 
-> Text: Anonym, 1916. Musik: Old orchard av I. Allan Sankey, 1903. 6.4.6.4.6.6.6.4
-
 # 1.
 Fader, Allsmäktige,
 Pris vare Dig!
@@ -395,8 +370,6 @@ Ha’ vi i Dig.
 ---
 
 ## Sång 11
-
-> Text: Anonym, 1916. Musik: Waltham av Thomas Willey, 1928. 8.6.8.6.8.8
 
 # 1.
 O Gud vår Fader, god och mild,
@@ -442,8 +415,6 @@ Bland mänskors barn på denna jord.
 
 ## Sång 12
 
-> Text: Anonym, 1916. Musik: Jonas Andersson, 1928. 10.9.10.9 D
-
 # 1.
 ”Gud är kärlek”. Uti Jesus Kristus
 Denna kärlek tog en full gestalt;
@@ -467,8 +438,6 @@ Vem vill icke älska denne vän!
 ---
 
 ## Sång 13
-
-> Text: Anonym, 1916. Musik: Arlington av Thomas A. Arne, 1762. 8.6.8.6
 
 # 1.
 Säg, var det den Rättfärdige,
@@ -497,8 +466,6 @@ Vi uti ordet se.
 ---
 
 ## Sång 14
-
-> Text: Efter *Brightness of the eternal glory* av Robert Robinson, 1790. Musik: Bartimeus av Stephen Jenks, 1799. 8.7.8.7
 
 # 1.
 Jesus, Fadrens sanna avbild,
@@ -534,8 +501,6 @@ Jord och himmel högt förkunna
 
 ## Sång 15
 
-> Text: Efter *Var hälsad, sköna morgonstund* av Johan O. Wallin, 1819, bearb. 1916. Musik: Wie Schön Leuchtet av Philipp Nicolai, 1599. 8.8.7.8.8.7.8.8.8
-
 # 1.
 Guds väsens avbild, och likväl
 En män’skoson, på det var själ
@@ -561,8 +526,6 @@ Herre, vi Dig nu hembära.
 ---
 
 ## Sång 16
-
-> Text: Efter *From the palace of his glory* av Emma F. Bevan, 1881. Musik: Halle av Clemens Müller, 1898. 8.7.8.7
 
 # 1.
 Från sitt hem i härligheten,
@@ -592,8 +555,6 @@ All sin fröjd och härlighet.
 
 ## Sång 17
 
-> Text: Betty Posse, 1856. Musik: Louis Bourgeois, 1561. 8.8.9.6
-
 # 1.
 Så älskade Gud världen all
 Att Han utgav sin ende Son,
@@ -621,8 +582,6 @@ Och älska för Hans skull.
 ---
 
 ## Sång 18
-
-> Text: Anonym, 1916. Musik: Aurelia av Samuel S. Wesley, 1864. 7.6.7.6 D
 
 # 1.
 Förrän ett stoftgrand lades
@@ -678,8 +637,6 @@ Med fröjd tillbedjande.
 
 ## Sång 19
 
-> Text: Susan C. Hedman, 1916, insp. från *Jesus my Savior to Bethlehem came,* anonym, 1878. Musik: Seeking for me av E. E. Hasty, 1878. 10.10.10.6
-
 # 1.
 Jesus, min Herre, till Betlehem kom,
 Lades i krubban i djup fattigdom,
@@ -713,8 +670,6 @@ Hemma hos Dig, hos Dig!
 ---
 
 ## Sång 20
-
-> Text: Efter *O kom, låt oss sjunga om Jesus,* anonym, 1909, bearb. 1955. Musik: O, öppna ditt hjärte för Herran, 1913. 9.8.9.8
 
 # 1.
 O kom, låt oss sjunga om Jesus,
@@ -762,8 +717,6 @@ Just då Du för syndare dör.
 
 ## Sång 21
 
-> Text: Anonym, 1916. Musik: The Home av Miss S. M. Walker, 1918. 8.6.8.6 (8.6.8.6)
-
 # 1.
 Guds milda Lamm, Du dyra Lamm,
 Som kom till jorden ned
@@ -792,8 +745,6 @@ I levande Guds stad.
 
 ## Sång 22
 
-> Text och musik: Efter *O Lamm Gottes, unschuldig* tillskr. Nikolaus Decius, 1529. Övers. Olaus Petri, 1536, bearb. 1819, 1916. 7.7.7.7.7.7.7
-
 # 1.
 Guds rena Lamm oskyldig,
 På korset för oss slaktad,
@@ -806,8 +757,6 @@ Du är vår frid, o Jesus.
 ---
 
 ## Sång 23
-
-> Text: Anonym, 1916. Musik: O, du min Immanuel, anonym, 1891. 7.6.7.6.7.7
 
 # 1.
 O Du heliga Guds Lamm,
@@ -836,8 +785,6 @@ Herre Jesus, evigt tack!
 ---
 
 ## Sång 24
-
-> Text: Anonym, 1916, bearb. 2025. Musik: E. Thermænius, 1928. 8.10.8.8.10
 
 # 1.
 Guds rena Lamm, på korsets stam
@@ -878,8 +825,6 @@ Du lever än och kommer snart igen.
 
 ## Sång 25
 
-> Text: Efter *Stricken, smitten, and afflicted* av Thomas Kelly, 1804. Musik: O Mein Jesu, Ich muss sterben, 1850. 8.7.8.7 D
-
 # 1.
 Slagen, sargad och föraktad,
 Kristus dog på korsets stam.
@@ -903,8 +848,6 @@ Som sitt hopp till Dig nu har.
 ---
 
 ## Sång 26
-
-> Text: Efter *O Haupt, voll Blut und Wunden* av Paul Gerhardt, 1656, övers. från *Salve caput cruentatum* tillskr. Bernard de Clairvaux, 1153. Musik: Passion Chorale av Hans Leo Hassler, 1601. 7.6.7.6 D
 
 # 1.
 O anlet, blekt och blodigt
@@ -940,8 +883,6 @@ Och allt ditt tålamod.
 
 ## Sång 27
 
-> Text: Efter *Tu nous aimas jusqu’à la mort* av Henri Rossier, 1876. Musik: Alas! and did my Savior bleed av Asa Hull, 1869. 8.6.8.6
-
 # 1.
 Ned i en död av namnlöst ve
 Din kärlek kunde gå
@@ -969,8 +910,6 @@ Vi höja re’n vår sång.
 ---
 
 ## Sång 28
-
-> Text och musik: Efter *Man of Sorrows! What a name!* av Philip P. Bliss, 1875. 7.7.7.8
 
 # 1.
 ”Smärtors Man!” O vilket namn
@@ -1005,8 +944,6 @@ Halleluja, Han är värdig!
 ---
 
 ## Sång 29
-
-> Text: Efter *Twas on that night of deepest woe* av George W. Frazer, 1881. Musik: T. W., 1928. 8.7.8.7.8.8
 
 # 1.
 Det var den natt av högsta ve,
@@ -1044,8 +981,6 @@ Till dess vår önskan innerlig
 
 ## Sång 30
 
-> Text: Efter *On that same night, Lord Jesus* av George W. Frazer, 1881. Musik: Aurelia av Samuel S. Wesley, 1864. 7.6.7.6 D
-
 # 1.
 Det var den natt, o Herre,
 Då allt sig lade vinn
@@ -1080,8 +1015,6 @@ I det vi minnas Dig.
 
 ## Sång 31
 
-> Text: Efter *Lord Jesus, we remember* av James G. Deck, 1846. Musik: St. Christopher av Frederick C. Maker, 1881. 7.6.7.6 D
-
 # 1.
 Vår Jesus, vi påminnas,
 Hur Du har lida fått,
@@ -1115,8 +1048,6 @@ Oss nu din Ande god.
 ---
 
 ## Sång 32
-
-> Text: Anonym, 1916. Musik: Shall we meet av Elihu S. Rice, 1866. 8.7.8.7.6.8.8.7
 
 # 1.
 Här vi samlas, Herre Jesus,
@@ -1162,8 +1093,6 @@ I din Faders härlighet.
 
 ## Sång 33
 
-> Text: Anonym, 1916. Musik: Hem jag längtar av Oscar Ahnfelt, 1891. 8.7.8.7
-
 # 1.
 Herre, se din lilla skara,
 Samlad för att bryta bröd!
@@ -1191,8 +1120,6 @@ Själv Du höjer lovets ljud.
 ---
 
 ## Sång 34
-
-> Text: Susan C. Hedman, 1916. Musik: Cross of Jesus av John Stainer, 1887. 8.7.8.7
 
 # 1.
 Jesus, vår uppfarne Herre,
@@ -1240,8 +1167,6 @@ Väller fram från Sions höjd.
 
 ## Sång 35
 
-> Text: Susan C. Hedman, 1916. Musik: Happy Land, arr. av. Leonard P. Breedlove, 1850. 6.4.6.4.6.6.6.4
-
 # 1.
 Din måltid, Herre god,
 Talar om Dig,
@@ -1265,8 +1190,6 @@ Minnas vi Dig.
 ---
 
 ## Sång 36
-
-> Text: A. P. Eriksson, 1916. Musik: Maria Nyqvist, 1928. 8.7.8.7.8.8
 
 # 1.
 Vår Herre Jesus, huld och god,
@@ -1296,8 +1219,6 @@ Vari Guds hjärtelag är sett.
 
 ## Sång 37
 
-> Text: Gustaf Gustafsson, 1916. Musik: E. Thermænius, 1928. 10.10.10.10.11.11
-
 # 1.
 Herre i din måltid nu vi skåda
 Tecknet på din kärlek in i döden.
@@ -1326,8 +1247,6 @@ Dig vi snart få lova uti himlens höjd.
 
 ## Sång 38
 
-> Text: Anonym, 1916. Musik: Sandon av Charles H. Purday, 1860. 10.4.10.4.10.10
-
 # 1.
 Lär oss din kärlek bättre känna här,
 Du som har dött,
@@ -1355,8 +1274,6 @@ I livets hem, dit synd och död ej nå.
 ---
 
 ## Sång 39
-
-> Text: Anonym, 1916. Musik: Austin av A. E. Lord. 6.6.8.6
 
 # 1.
 Din natt av sorg är slut,
@@ -1391,8 +1308,6 @@ Det hela har fullbragt.
 ---
 
 ## Sång 40
-
-> Text: Efter *Th’atoning work is done* av Thomas Kelly, 1823. Musik: St John, tillskr. William H. Havergal, 1853. 6.6.6.6.8.8
 
 # 1.
 Fullbordat verket är,
@@ -1437,8 +1352,6 @@ Och hämta sina helgon all’.
 ---
 
 ## Sång 41
-
-> Text: Efter *Though all the beasts that live and feed* av Thomas Kelly, 1855. Musik: Meribah av Lowell Mason, 1839. 8.8.6 D
 
 # 1.
 Om vi vart djur på tusen berg
@@ -1492,8 +1405,6 @@ Och börja redan här.
 
 ## Sång 42
 
-> Text: Efter *Not all the blood of beasts* av Isaac Watts, 1709. Musik: Trentham av Robert Jackson, 1878. 6.6.8.6
-
 # 1.
 Ej offrens blod, som flöt
 På judisk altarsten,
@@ -1528,8 +1439,6 @@ Det slaktade Guds Lamm!
 
 ## Sång 43
 
-> Text: Anonym, 1916. Musik: New Haven av Thomas Hastings, 1833. 6.6.4.6.6.6.4
-
 # 1.
 Tack, Herre Jesus Krist,
 Att all vår synd och brist
@@ -1560,8 +1469,6 @@ I helig skrud.
 ---
 
 ## Sång 44
-
-> Text: Efter *Durch Adams Fall ist ganz verderbt* av Lazarus Spengler, 1524. Musik: St. Michaels, anonym, 1789. 14.14.14.14
 
 # 1.
 Fast Adams fall vanärat Gud och bringat oss i nöd,
@@ -1603,8 +1510,6 @@ Från kärlek så osägligt stor oss ingen skilja kan.
 
 ## Sång 45
 
-> Text: Efter *O what has Jesus done for me?* av John Curwen, 1859. Musik: Canaan, anonym, 1868. 8.7.8.7.8.7.8.7.5.7.8.7
-
 # 1.
 Vad har Du, Jesus, gjort för mig?
 Du har Dig själv utgivit.
@@ -1637,8 +1542,6 @@ Min dyre Herre Jesus!
 
 ## Sång 46
 
-> Text: Anonym, 1916. Musik: Yorkshire av John Wainwright, 1760. 10.10.10 D
-
 # 1.
 All nådens Gud, vem mäta kan din nåd,
 Ditt hjärtas djup av kärlek, när Du bjöd
@@ -1666,8 +1569,6 @@ Vår Gud ske ära, evigt lov och pris!
 ---
 
 ## Sång 47
-
-> Text: Efter *Love Divine* av John N. Darby, 1880. Musik: Rockingham av Edward Miller, 1790, adap. från Tunbridge, anonym, 1783. 8.8.8.8
 
 # 1.
 Din kärlek, Fader, mäktig, fri
@@ -1715,8 +1616,6 @@ Och Kristus i oss visa sig.
 
 ## Sång 48
 
-> Text: Efter *Herr Christ, der einig Gotts Sohn* av Elisabet Cruciger, 1524. Övers. tillskr. Olaus Petri, 1526, bearb. Johan Åström, 1816, bearb. 1916. Musik: Herr Christ, der Einig Gotts Sohn, anonym, 1524. 7.6.7.6.7.7.6
-
 # 1.
 Förlossningen är vunnen:
 Guds Son från evighet
@@ -1757,8 +1656,6 @@ Det rike, Du berett.
 
 ## Sång 49
 
-> Text: Anonym, 1939. Musik: Omni Die av David G. Corner, 1648. 8.7.8.7
-
 # 1.
 Herre Jesus, Du oss vunnit
 I din kärleks djup och höjd.
@@ -1780,8 +1677,6 @@ Vi uti din vällukt stå.
 ---
 
 ## Sång 50
-
-> Text: Efter *Jesus, the Lord, is risen* av Thomas Haweis, 1820. Musik: Darwall av John Darwall, 1770. 6.6.6.6 (8.8)
 
 # 1.
 Vår Herre Jesus gått
@@ -1815,8 +1710,6 @@ Och fienden nedlagt.
 
 ## Sång 51
 
-> Text: Lina Sandell, 1882, bearb. 1916. Musik: Han är uppstånden av Fredrika Wickman, 1876. 9.8.9.8.9.9.8
-
 # 1.
 Han är uppstånden. Vad ljus vad fröjd!
 Dödsrike, var är din seger?
@@ -1847,8 +1740,6 @@ Med sina frälsta han delar.
 ---
 
 ## Sång 52
-
-> Text: Efter *The Lord is risen: the Red Sea’s judgment flood* av William P. Mackay, 1881. Musik: Toulon av Louis Bourgeois, 1551. 10.10.10.10
 
 # 1.
 Uppstått har Herren! Röda havets flod
@@ -1883,8 +1774,6 @@ Och evigt, evigt vara där Du är.
 ---
 
 ## Sång 53
-
-> Text: Efter *Dieses ist der Tag der Wonne* av Johann Franck, 1653. Övers. Gustaf Ållon, 1694, bearb. 1916. Musik: Lova vill jag Herran, Herran, anonym, 1731. 8.7.8.7.8.8
 
 # 1.
 Denna är den stora dagen,
@@ -1922,8 +1811,6 @@ Våra läppars frukt hembära.
 
 ## Sång 54
 
-> Text: Anonym, 1916. Musik: Hvar är du av Oscar Ahnfelt, 1882, arr. 1928. 11.8.11.8
-
 # 1.
 Han lever, Han lever, vårt salighetshopp,
 Han lever i himmelens höjd.
@@ -1957,8 +1844,6 @@ När Brudgummen möter sin brud.
 ---
 
 ## Sång 55
-
-> Text: Efter *Gazing on Thee, Lord, in glory* av Cenita Thompson, 1881. Musik: Rhineland av Wilhelm Brockhaus, 1888. 8.7.8.7
 
 # 1.
 Herre Jesus, Dig vi skåda
@@ -1994,8 +1879,6 @@ Jord och himmel hylla Dig.
 
 ## Sång 56
 
-> Text: Anonym, 1916. Musik: Vår öfverstepräst av Oscar Ahnfelt, 1882. 11.9.11.9
-
 # 1.
 Korsfästad i svaghet, men uppväckt i kraft,
 Du uppfor till himmelens höjder,
@@ -2030,8 +1913,6 @@ Din Fader allt bättre att känna.
 
 ## Sång 57
 
-> Text: Efter *Everlasting glory unto Jesus be!* av Hannah K. Burlingham, 1901. Musik: St Gertrude av Arthur S. Sullivan, 1871. 11.11.11.11 (11.11)
-
 # 1.
 Evig, evig ära Herren Jesus giv!
 Högt förtälj hans seger, hur Han gav sitt liv!
@@ -2057,8 +1938,6 @@ Fröjdens nu och evigt uti Frälsaren!
 ---
 
 ## Sång 58
-
-> Text: Efter *Hail, Thou once-despised Jesus* av John Bakewell, 1757. Musik: Deutschland av Wilhelm Brockhaus, 1881. 7.6.7.6 D
 
 # 1.
 Hell Dig, uppståndne Jesus
@@ -2114,8 +1993,6 @@ Vår Herre Jesus kär!
 
 ## Sång 59
 
-> Text: Efter *Great Captain of salvation* av James G. Deck, 1846. Musik: Bishopgarth av Arthur S. Sullivan, 1897. 8.7.8.7 D
-
 # 1.
 Vår store Frälsningshövding, Du
 Är krönt med högsta ära.
@@ -2150,8 +2027,6 @@ Och Dig vårt lov hembära!
 
 ## Sång 60
 
-> Text: Efter *Dank, Anbetung, Preis und Ehre* av Friedrich G. Klopstock, 1758 (v. 1) och anonym, 1916 (v. 2). Musik: Wachet auf av Philipp Nicolai, 1599. 8.9.8.8.9.8.6.6.8.4.8
-
 # 1.
 Lov, tillbedjan, pris och ära
 Vi Dig, o Jesus Krist, hembära,
@@ -2182,17 +2057,13 @@ Och härska över världen all.
 
 ## Sång 61
 
-> Text: Efter *Lord of glory, we adore Thee!* av Richard Holden, 1881. Musik: CWM Rhondda av John Hughes, 1907. 8.7.8.7.8.7.7
-
 # 1.
 Herre Jesus, Dig vi ära,
 Upphöjd på din Faders tron,
 Hjärtats hyllning Dig hembära,
 Guds enfödde, dyre Son.
 Dig vi prisa, Dig tillbedja,
-Lova Dig i samfäld ton,
-(Samfäld ton)
-Lova Dig i samfäld ton.
+|: Lova Dig i samfäld ton. :|
 
 # 2.
 Livets Herre! Intill döden
@@ -2200,9 +2071,7 @@ Lydig här, ditt kors Du bar,
 Du, som för din Faders hjärta
 En fullkomlig glädje var.
 Dig vi vörda, Dig påminnas,
-Du, som Offerlammet var,
-(Offerlam)
-Du, som Offerlammet var.
+|: Du, som Offerlammet var. :|
 
 # 3.
 Smorde Konung, krönt med ära,
@@ -2210,9 +2079,7 @@ Härlighetens Herre, Du,
 En gång slagen och föraktad,
 Rikt belönt av Fadren nu,
 Dig vi skåda och beundra,
-Himlens fröjdeämne Du!
-(Himlens fröjd)
-Himlens fröjdeämne Du!
+|: Himlens fröjdeämne Du! :|
 
 # 4.
 Kunglig skrud skall snart Dig pryda,
@@ -2220,15 +2087,11 @@ Snart Du diademet bär.
 Du Guds Smorde, hjärtats lydnad
 Tacksamt vi Dig giva här;
 Dig vi dyrka, Dig lovsjunga,
-Herre Kristus, där Du är,
-(Där Du är)
-Herre Kristus, där Du är.
+|: Herre Kristus, där Du är. :|
 
 ---
 
 ## Sång 62
-
-> Text: Efter *Rise, my soul, behold ’tis Jesus* av Joseph D. Smith, 1889. Övers. M. H., 2025. Musik: Safety av Friedrich A. Schulz, 1876. 8.7.8.7
 
 # 1.
 Upp min själ! Och låt nu Jesus,
@@ -2270,8 +2133,6 @@ Skilja från sin Frälsare.
 
 ## Sång 63
 
-> Text: Efter *O Lord ! ’tis joy to look above* av James G. Deck, 1856. Musik: St Fulbert av Henry J. Gauntlett, 1852. 8.6.8.6
-
 # 1.
 Att blicka upp och se Dig där,
 O Herre, vilken fröjd!
@@ -2299,8 +2160,6 @@ Med oskymd blick få se!
 ---
 
 ## Sång 64
-
-> Text: Efter *O Jesus, Lord, ’Tis Joy To Know* av James G. Deck, 1856. Musik: Victory av George C. Martin, 1908. 8.8.6 D
 
 # 1.
 O Herre, vilken fröjd det är,
@@ -2337,8 +2196,6 @@ Din härlighet har nått.
 ---
 
 ## Sång 65
-
-> Text: Anonym, 1916. Musik: Stuttgart av Christian F. Witt, 1715. 8.7.8.7
 
 # 1.
 Skådande Guds Son i höjden,
@@ -2380,8 +2237,6 @@ Du är värdig, endast Du!
 
 ## Sång 66
 
-> Text: Efter *Glory unto Jesus be!* av Archibald J. Rutherford, 1792. Musik: Innocents, anonym från 1200-talet, arr. 1850. 7.7.7.7
-
 # 1.
 Ära, Herre, vi Dig ge,
 Du är vår förlossare
@@ -2409,8 +2264,6 @@ Amen, kom, o Jesus Krist!
 ---
 
 ## Sång 67
-
-> Text: Susan C. Hedman, 1916. Musik: Retreat av Thomas Hastings, 1842. 8.8.8.8
 
 # 1.
 På Golgata så mörkt det var,
@@ -2451,8 +2304,6 @@ Guds Lamm, som full försoning bragt.
 ---
 
 ## Sång 68
-
-> Text: Efter *Love displayed* av John N. Darby, 1881. Musik: Austin av A. E. Lord. 6.6.8.6
 
 # 1.
 Vår Herre Jesus Krist,
@@ -2500,8 +2351,6 @@ Att vara där Du är.
 
 ## Sång 69
 
-> Text: Anonym, 1916. Musik: Müde bin ich av Johann G. Witthauer, 1802. 8.7.8.7
-
 # 1.
 Segerfursten själv en skara
 För till härligheten fram
@@ -2535,8 +2384,6 @@ Ny dock hela evigheten:
 ---
 
 ## Sång 70
-
-> Text och musik: Anonym, 1916. 6.5.9 D (9.9.11.9)
 
 # 1.
 Kristus för oss lever,
@@ -2572,8 +2419,6 @@ Ty vår Jesus är i livets land.
 
 ## Sång 71
 
-> Text: Efter *O Lord, we adore Thee* av F. Naylor (v. 1) och Mary Peters (v. 2), 1856. Musik: E. Thermænius, 1928. 12.11.12.12.11
-
 # 1.
 Herre, vi prisa Dig, Du som död har varit,
 Men evigt nu lever i himmelens höjd.
@@ -2591,8 +2436,6 @@ Vår Gud och vår Fader. Amen och Amen!
 ---
 
 ## Sång 72
-
-> Text: Efter *O Christ, what burdens bowed Thy head* av Anne R. Cousin, 1871. Musik: Substitution av Ira D. Sankey, 1875. 8.6.8.6.8.6
 
 # 1.
 Pris vare Dig, o Jesus Krist,
@@ -2622,8 +2465,6 @@ Jag leva skall hos Dig.
 
 ## Sång 73
 
-> Text: Fredrik G. Hedberg, 1847, bearb. 1916. Musik: St. Petersburg av Dimitri S. Bortniansky, 1784. 9.8.9.8.9.9
-
 # 1.
 Lovsjungom Herren Jesu kärlek,
 Som trofast in i korsets död,
@@ -2651,8 +2492,6 @@ Och här hans kärleks makt upphöja.
 ---
 
 ## Sång 74
-
-> Text: Anonym, 1916. Musik: Olivet av Lowell Mason, 1832. 6.6.4.6.6.6.4
 
 # 1.
 Stäm upp i helig kör
@@ -2694,15 +2533,12 @@ Och där hans pris!
 
 ## Sång 75
 
-> Text: Efter *Glory, glory everlasting* av Thomas Kelly, 1843. Musik: Dismissal av William L. Viner, 1845. 8.7.8.7.4.4.7
-
 # 1.
 Ära, ära, evig ära
 Vare Den, som korset bar;
 Han, som offrat sig i döden
 Och för Gud en vällukt var;
-Sjung hans ära,
-Sjung hans ära,
+|: Sjung hans ära, :|
 Herrens, som oss frälsat har!
 
 # 2.
@@ -2710,8 +2546,7 @@ Herrens kärlek är oändlig,
 Outsäglig, utan mått;
 Att dess höjd och djup uppskatta
 Män’skor ej förmåga fått.
-Prisen Herren,
-Prisen Herren,
+|: Prisen Herren, :|
 Som i döden för oss gått.
 
 # 3.
@@ -2719,15 +2554,12 @@ Medan vi här undret ’tälja
 Om hans död på korsets stam,
 Sjunga vi vår lovsång redan
 Och tillbedja nu Guds Lamm.
-Hell Dig Jesus!
-Hell Dig Jesus!
+|: Hell Dig Jesus! :|
 Ära vare nu ditt namn!
 
 ---
 
 ## Sång 76
-
-> Text: Anonym, 1916. Musik: Wie groß ist des Allmächt’gen Güte! av Johann A. Freylinghausen, 1704. 9.8.9.8 D
 
 # 1.
 O Herre Jesus, Du är värdig
@@ -2752,8 +2584,6 @@ Med ljus och fröjd och härlighet.
 ---
 
 ## Sång 77
-
-> Text: Efter *Worthy of homage and of praise* av Fanny T. Wigram, 1856. Musik: Rockingham av Edward Miller, 1790, adap. från Tunbridge, anonym, 1783. 8.8.8.8
 
 # 1.
 Du värdig är av lov och pris,
@@ -2782,8 +2612,6 @@ Vi Dig, o Kristus, hyllning ge.
 ---
 
 ## Sång 78
-
-> Text: Efter *Behold the Lamb, with glory crowned* av Thomas Kelly, 1854. Musik: Paraclete av Frederick C. Maker, 1894. 8.6.8.6
 
 # 1.
 Se Lammet, krönt i härlighet
@@ -2819,8 +2647,6 @@ I majestät och makt.
 
 ## Sång 79
 
-> Text: Anonym, 1916. Musik: Arnsberg av Joachim Neander, 1680. 12.8.12.8.3.3.6.6
-
 # 1.
 O Du ärans Konung, Herre Jesu Kriste,
 Du ”den förste och den siste;”
@@ -2855,8 +2681,6 @@ Och Dig lov hembära.
 
 ## Sång 80
 
-> Text: Efter *Glory, honor, praise, and power* av Isaac Watts, 1748. Musik: Glory, honor, praise and power av Martin Madan, 1790. 8.8.8.4.4.8
-
 # 1.
 Härlighet och makt och ära,
 Allt skall Lammet lov hembära.
@@ -2867,8 +2691,6 @@ Halleluja! Pris ske vår Gud!
 ---
 
 ## Sång 81
-
-> Text: Efter *O what a Savior is Jesus the Lord!* av Albert Midlane, 1881. Musik: Heiland av L. Burgmiller, 1903. 10.10.10.10
 
 # 1.
 O vilken Frälsare, Jesus, Guds Lamm!
@@ -2892,53 +2714,41 @@ Saligt de vila vid Frälsarens bröst.
 
 ## Sång 82
 
-> Text: Anonym, 1916. Musik: Bradbury av William B. Bradbury, 1859. 8.7.8.7 D
-
 # 1.
 Evigt liv det är att känna
 Dig, den ende sanne Gud,
 Och din Son, som här fullgjorde
 All din vilja, allt ditt bud.
-Gud vår Fader, Gud vår Fader,
-Dig vi höja lovsångs ljud.
-Gud vår Fader, Gud vår Fader,
-Dig vi höja lovsångs ljud.
+|: Gud vår Fader, Gud vår Fader,
+Dig vi höja lovsångs ljud. :|
 
 # 2.
 Se den Stenen, så förkastad
 Utav byggningsmännen här,
 Men i himlen högt uppskattad,
 För Jehovas hjärta kär.
-Dyrbar, utvald, Dyrbar, utvald,
-Levande den Stenen är.
-Dyrbar, utvald, Dyrbar, utvald,
-Levande den Stenen är.
+|: Dyrbar, utvald, Dyrbar, utvald,
+Levande den Stenen är. :|
 
 # 3.
 Herre Kristus, nu vi komma,
 Genom Dig tillbedjande
 På den väg Du för oss invigt
 I din kropps utgivande.
-Du är vägen, Du är vägen,
-Vägen, ny och levande.
-Du är vägen, Du är vägen,
-Vägen, ny och levande.
+|: Du är vägen, Du är vägen,
+Vägen, ny och levande. :|
 
 # 4.
 Du, den förste och den siste,
 Ursprung till all salighet,
 Död Du var, men se, Du lever,
 Lever i all evighet.
-Uppväckt blev Du, Uppväckt blev Du
-Genom Fadrens härlighet.
-Uppväckt blev Du, Uppväckt blev Du
-Genom Fadrens härlighet.
+|: Uppväckt blev Du, Uppväckt blev Du
+Genom Fadrens härlighet. :|
 
 ---
 
 ## Sång 83
-
-> Text: Efter *Lord, what is Man? ’Tis He who died* av James G. Deck, 1881. Musik: Lancashire av Henry T. Smart, 1836. 7.6.7.6 D
 
 # 1.
 ”Vad är en mänska, Herre”,
@@ -2973,8 +2783,6 @@ Uppgå till Guds behag!
 ---
 
 ## Sång 84
-
-> Text: Anonym, 1916. Musik: Kirby Bedon av Edward Bunnett, 1887. 4.6.6.6.4
 
 # 1.
 Du är Guds Son,
@@ -3022,8 +2830,6 @@ Du är vår fröjd.
 
 ## Sång 85
 
-> Text: Efter *And is it so, I shall be like Thy son?* av John N. Darby, 1872. Musik: T. W., 1928. 10.10.10.10
-
 # 1.
 O Gud, skall jag din Son få bliva lik,
 Frukt av din nåd, så outsägligt rik?
@@ -3058,8 +2864,6 @@ Din bild att återge i evighet.
 
 ## Sång 86
 
-> Text: Anonym, 1916. Musik: Fanny Ekberg, 1928. 6.6.11.6.6.11.6.6.7.4
-
 # 1.
 Upplyften nu hjärtan
 Och fröjdens i Herren,
@@ -3078,7 +2882,7 @@ Guds hjälte, som segrat;
 Uppfaren Du är, och regera Du skall.
 Du folken skall tvinga
 Och hedningar vinna,
-Och jorden skall vara din fo tapall.
+Och jorden skall vara din fotapall.
 Sjungen, sjungen Gudi,
 Sjungen Kristus, Herren,
 Ty hans helga tron står fast.
@@ -3088,8 +2892,6 @@ Halleluja!
 
 ## Sång 87
 
-> Text: Efter *What are those soul-reviving strains* tillskr. James Montgomery, 1829. Musik: Hosanna, anonym, 1859. 8.8.8.8 (7.8.8.9 D)
-
 # 1.
 Kom, låtom oss på barnavis
 Uppstämma Herren Jesu pris!
@@ -3097,14 +2899,10 @@ Men säg, vem är istånd därtill?
 Ack, inga ord här räcka till.
 
 # C.
-Pris och ära sjunga vi
+|: Pris och ära sjunga vi
 Herren Jesus, som köpt oss fri!
 Hosianna, hosianna,
-Hosianna sjunga vi Guds Lamm.
-Pris och ära sjunga vi
-Herren Jesus, som köpt oss fri!
-Hosianna, hosianna,
-Hosianna sjunga vi Guds Lamm.
+Hosianna sjunga vi Guds Lamm. :|
 
 # 2.
 Se Jesus, krönt i himlens höjd!
@@ -3115,8 +2913,6 @@ Och härlighetens krona bär.
 ---
 
 ## Sång 88
-
-> Text: Efter *Jesu, Dir wir Dankeslieder singen,* anonym, 1858. Musik: Elberfeld, anonym, 1853. 10.9.10.9
 
 # 1.
 Dig, o Jesus, nu vår sång vi höja,
@@ -3151,8 +2947,6 @@ Herre Jesus, allt har Du gjort väl!
 ---
 
 ## Sång 89
-
-> Text: Anonym, 1891. Musik: Låtom oss sjunga, 1891. 5.6.5.6.6
 
 # 1.
 Låtom oss sjunga,
@@ -3200,8 +2994,6 @@ Här och i himmelen!
 
 ## Sång 90
 
-> Text: Anonym, 1916, bearb. 2025. Musik: Hallelujah, He is risen av Philip P. Bliss, 1876. 8.7.8.7 D
-
 # 1.
 Låt oss sjunga, evigt sjunga
 Om vår Herres trofasthet!
@@ -3246,8 +3038,6 @@ Till vår Faders lov och pris.
 
 ## Sång 91
 
-> Text: Anonym, 1916. Musik: Hemlighetens uppenbarelse av Oscar Ahnfelt, 1891. 13.11.13.11.13.13.11
-
 # 1.
 Kom, låtom oss i anden uppstämma nu med fröjd
 En sång vår Herre, och vår Gud till ära,
@@ -3278,8 +3068,6 @@ Att hemma där hos Honom evigt vara!
 ---
 
 ## Sång 92
-
-> Text: Efter *Praise the Savior, ye who know Him* av Thomas Kelly, 1806. Musik: Acclaim, anonym, 1902. 8.8.8.5
 
 # 1.
 Prisen Herren, helgon alla!
@@ -3315,8 +3103,6 @@ Till din Faders hus.
 
 ## Sång 93
 
-> Text: Efter *Lobe den Herren, den mächtigen König der Ehren* av Joachim Neander, 1680. Övers. Lina Sandell, 1877, bearb. 1916. Musik: Lobe den Herren, anonym, 1665. 14.14.4.7.8
-
 # 1.
 Pris ske Dig, Herre och Konung för konungar alla!
 Dig våra själar med vördnad i tron nu åkalla.
@@ -3341,8 +3127,6 @@ Pris ske Dig fjärran och nära!
 ---
 
 ## Sång 94
-
-> Text: Efter *Pange lingua gloriosi* av Venantius Fortunatus, 609. Övers. Gustaf Ållon, 1695, bearb. Johan O. Wallin, 1816 och anonym, 1916. Musik: Upp min tunga, anonym, 1697. 8.7.8.7.8.7
 
 # 1.
 Själ och tunga må lovsjunga
@@ -3380,8 +3164,6 @@ Nu och i all evighet.
 
 ## Sång 95
 
-> Text: Anonym, 1916, bearb. 2025. Musik: Fanny Ekberg, 1928. 11.10.11.10.10.10.8
-
 # 1.
 Gud vare tack, som oss segern har givit
 Genom vår Frälsare, mäktig och god!
@@ -3403,8 +3185,6 @@ Du, som var död och som lever!
 ---
 
 ## Sång 96
-
-> Text: Anonym, 1916. Musik: Peter Lundén, 1884. 10.9.10.9 D
 
 # 1.
 Gud har segrat genom Kristus Jesus,
@@ -3429,8 +3209,6 @@ Gud har segrat i sin ”rådsluts man”.
 ---
 
 ## Sång 97
-
-> Text: Anonym, 1916. Musik: Riposo av Charles Leflaive, 1928. 8.7.8.7
 
 # 1.
 Fader uti härligheten
@@ -3460,8 +3238,6 @@ Pris ske Dig evinnerlig!
 
 ## Sång 98
 
-> Text: Efter *Father, Thy name our souls would bless* av John N. Darby, 1879. Musik: Jackson av Thomas Jackson, 1781. 8.6.8.6
-
 # 1.
 O Gud, din Sons försoningsverk,
 Din nåds fullkomlighet
@@ -3489,8 +3265,6 @@ Allt Du åt Sonen gett.
 ---
 
 ## Sång 99
-
-> Text: Anonym, 1916. Musik: Ack, Käre, så säg av W. C., 1901. 11.9.11.9.9
 
 # 1.
 Vår Fader, vi komma som lyckliga barn
@@ -3523,8 +3297,6 @@ Och Kristus blir erkänd av alla.
 ---
 
 ## Sång 100
-
-> Text och musik: Anonym, 1916. 12.11.12.11
 
 # 1.
 Tacksägelsens offer vi Dig nu hembära,
@@ -3559,8 +3331,6 @@ När in i Guds helgedom själen Du för.
 ---
 
 ## Sång 101
-
-> Text: Anonym, 1916. Musik: Sandon av Charles H. Purday, 1860. 10.4.10.4.10.10
 
 # 1.
 Vår Fader! Vi av hjärtat tacka Dig
@@ -3598,8 +3368,6 @@ Dig vare välde, majestät och makt!
 
 ## Sång 102
 
-> Text: Susan C. Hedman, 1916. Musik: Kirkpatrick av William J. Kirkpatrick, 1890. 11.8.11.8.11.8.11.8.8
-
 # 1.
 Barmhärtige Fader, vår frälsande Gud,
 Vi lova ditt heliga namn
@@ -3608,8 +3376,7 @@ I världen oss sökte och fann.
 Din Son, den Rättfärdige, dog för oss här
 Att föra oss frälsta till Dig;
 Han lär oss som söner besjunga med fröjd
-Den kärlek, som offrade sig,
-Den kärlek, som offrade sig.
+|: Den kärlek, som offrade sig. :|
 
 # 2.
 Ej uppgår en sång från den sorgfulla jord,
@@ -3619,8 +3386,7 @@ Behagligt för Dig är dess ljud.
 Du vill ju att alla, som hedra Dig här,
 Din Son skola hedra också;
 Ty de, som se Jesus, de Fadren ock se,
-I Honom ditt hjärta vi nå,
-I Honom ditt hjärta vi nå.
+|: I Honom ditt hjärta vi nå. :|
 
 # 3.
 Högtlovade Herre, hur rikligt på Dig
@@ -3630,14 +3396,11 @@ Och himlen Dig hyllning beskär.
 Långt skönare är Du än människors barn,
 Guds Smorde, med härlighet krönt.
 Vi se Dig i strålande evighetsglans,
-För Golgatas ångest belönt,
-För Golgatas ångest belönt.
+|: För Golgatas ångest belönt. :|
 
 ---
 
 ## Sång 103
-
-> Text: Anonym, 1916. Musik: Luther’s hymn, tillskr. Martin Luther, 1535. 8.7.8.7.8.8.7
 
 # 1.
 Till Dig, vår Gud och Fader god,
@@ -3679,8 +3442,6 @@ Och gör Dig känd som Fader.
 
 ## Sång 104
 
-> Text: Efter *Father! Thine own unbounded love* av Henry Allen, 1916. Musik: Delight, anonym, 1920. 8.6.8.6
-
 # 1.
 Vår Fader, i din dyre Son
 Din kärlek oss har nått;
@@ -3708,8 +3469,6 @@ Med Kristus gjort till ett.
 ---
 
 ## Sång 105
-
-> Text: Anonym, 1916. Musik: Bullinger av Ethelbert W. Bullinger, 1874. 8.5.8.3
 
 # 1.
 Fader! Vi din kärlek prisa
@@ -3745,8 +3504,6 @@ Och tillbed!
 
 ## Sång 106
 
-> Text: Efter *Ach, wer kann Dich würdig loben?,* anonym, 1867. Musik: Ach, wer kann Dich würdig loben av Samuel G. Auberlen, 1816. 8.7.8.7 (7.7.7)
-
 # 1.
 Ack, vem kan tillfyllest prisa,
 Store Gud, din godhet här!
@@ -3769,8 +3526,6 @@ Du oss ej förgäta kan.
 
 ## Sång 107
 
-> Text: Efter *Of all the gifts Thy love bestows* av William Cowper, 1816. Övers. anonym, 1916, bearb. 2025. Musik: Claremont av James Foster, 1881. 8.6.8.6
-
 # 1.
 Av allt Du i din kärlek ger,
 Vår Gud oändligt god,
@@ -3778,7 +3533,7 @@ Ej större gåva himlen ser
 Än Kristi dyra blod.
 
 # 2.
-Och samma kärlek her oss tro
+Och samma kärlek ger oss tro
 Att blodet lita på,
 Ty utan den att söka ro
 Förgäves vore då.
@@ -3792,8 +3547,6 @@ Din Son som är dig kär.
 ---
 
 ## Sång 108
-
-> Text: Efter *Oh, the love of God is boundless* av Rowland D. Edwards, 1916. Musik: Let Us Gather Up The Sunbeams av Silas J. Vail, 1875. 15.15.15.15.14.14
 
 # 1.
 O, Guds underbara kärlek, helig, gränslös, öm och fri!
@@ -3831,8 +3584,6 @@ Lov, pris, o giv åt Honom nu och i all evighet!
 
 ## Sång 109
 
-> Text: Troligen efter en tysk hymn av Jeremiah Risler, 1785. Musik: Grebe, tillskr. Johann G. Ebeling, 1676. 8.7.8.7 D
-
 # 1.
 Skåden, skåden vilken kärlek
 Fadren oss bevisat har,
@@ -3866,8 +3617,6 @@ Högt besjungom Herrens namn!
 ---
 
 ## Sång 110
-
-> Text: Anonym, 1916, bearb. 2025. Musik: Sophie Dedekam, 1894. 9.8.9.8.10.8.9.8
 
 # 1.
 Som hjort efter vattenbäck trängtar
@@ -3903,8 +3652,6 @@ Försvinner i Frälsarens grav.
 
 ## Sång 111
 
-> Text: Efter *O teach us more of Thy blest ways* av James Hutton, 1795. Musik: Llanthony Abbey av John H. Lester, 1900. 8.6.8.6
-
 # 1.
 Ack, lär oss bättre känna Dig,
 Guds helga Lamm, som tog
@@ -3932,8 +3679,6 @@ För tid och evighet.
 ---
 
 ## Sång 112
-
-> Text: Anonym, 1916, bearb. 2025. Musik: Herrens verk, anonym, 1875. 9.8.9.8.8.8
 
 # 1.
 I Jesu namn där finns en källa
@@ -3963,53 +3708,41 @@ Du älskar oss evinnerlig.
 
 ## Sång 113
 
-> Text: Tillskr. Gustav Palmqvist, 1867. Musik: CWM Rhondda av John Hughes, 1907. 8.7.8.7.8.7.7
-
 # 1.
 Outsägeliga kärlek,
 Uti Jesus uppenbar
 I hans lidande och smälek,
 Som för oss Han utstått har!
-Prisen Herren, Prisen Herren,
-Herren, som vår synd här bar!
-(Synd här bar!)
-Herren, som vår synd här bar!
+|: Prisen Herren, :|
+|: Herren, som vår synd här bar! :|
 
 # 2.
 Prisen Honom, som led döden
 Uppå Golgata för oss
 Att oss frälsa ur den nöden,
 Där vi annars måst förgås!
-Prisen Herren, Prisen Herren,
-Herren, som här dog för oss!
-(Dog för oss!)
-Herren, som här dog för oss!
+|: Prisen Herren, :|
+|: Herren, som här dog för oss! :|
 
 # 3.
 Nu uppstånden, krönt med ära
 Högt på majestätets tron,
 Dig vi evigt lov hembära,
 Jesus, Frälsaren, Guds Son!
-Prisen Herren, Prisen Herren,
-Herren på sin himlatron!
-(Himlatron!)
-Herren på sin himlatron!
+|: Prisen Herren, :|
+|: Herren på sin himlatron! :|
 
 # 4.
 Prisen Fadren, som uppväckte
 Kristus med sin stora kraft,
 Såsom huvud för det släkte,
 Som Han i sitt rådslut haft!
-Prisen Fadren, Prisen Fadren,
-För hans kärlek, nåd och makt!
-(Nåd och makt!)
-För hans kärlek, nåd och makt!
+|: Prisen Fadren, :|
+|: För hans kärlek, nåd och makt! :|
 
 ---
 
 ## Sång 114
-
-> Text: Efter *Lobt den Herrn! Er ist die Liebe* av Friedrich A. Krummacher, 1845. Musik: Radiance, anonym, 1845. 8.7.8.7.7
 
 # 1.
 Prisen Herren! Han är kärlek,
@@ -4044,8 +3777,6 @@ Lär oss räkna Kristi smälek
 ---
 
 ## Sång 115
-
-> Text: Efter *O Blessed Saviour, is Thy love* av Joseph Stennett, 1716. Musik: St. Peter av Alexander R. Reinagle, 1836. 8.6.8.6
 
 # 1.
 O Herre, då din kärlek är
@@ -4087,8 +3818,6 @@ Dig själv vi skåda få.
 
 ## Sång 116
 
-> Text: Lina Sandell, 1859. Musik: Anonym, 1903. 7.6.7.6 D
-
 # 1.
 Du ömma fadershjärta
 Som vakar över mig,
@@ -4114,7 +3843,7 @@ Giv, att med helig lydnad
 Jag alltid ger Dig rätt!
 Gör dina bud mig kära,
 Din börda ljuv och lätt!
-Och när en fara ho --ta,
+Och när en fara hota,
 En nöd förskräcker mig,
 Låt mig i första rummet
 Blott alltid fly till Dig!
@@ -4132,8 +3861,6 @@ Så vitt som himlen går.
 ---
 
 ## Sång 117
-
-> Text: Efter *Here is love, vast as the ocean,* övers. William Edwards från *Dyma gariad fel y moroedd* av William Rees, 1883. Musik: Ebenezer av Thomas J. Williams, 1890. 8.7.8.7 D
 
 # 1.
 Kärlek, stor som oceanen,
@@ -4158,8 +3885,6 @@ Från Guds hjärta ständigt går.
 ---
 
 ## Sång 118
-
-> Text: Efter *It passeth knowledge* av Mary Shekleton, 1875. Musik: It passeth knowledge av Ira D. Sankey, 1875. 10.10.10.10.4
 
 # 1.
 Din kärlek högre än all kunskap är,
@@ -4193,8 +3918,6 @@ Vi prisa få.
 
 ## Sång 119
 
-> Text: Anonym, 1916. Musik: Epiphany av Joseph F. Thrupp, 1848. 11.10.11.10
-
 # 1.
 Du, oss har älskat förr’n världarne voro,
 Jesus, vår Herre, vår Frälsare god,
@@ -4217,16 +3940,13 @@ Dig vi nu prisa med lovsångens ljud.
 
 ## Sång 120
 
-> Text: Anonym, 1916. Musik: Mir ist erbarmung av Johann L. Hainlin, 1819. 8.8.8.8.8.8.8
-
 # 1.
 O Kristus, Du Guds källa är
 Av kärlek och fullkomlighet,
 I Dig en ljuvlig själaro
 Har Gud berett från evighet,
 Hos Dig vårt hjärta vilar sig
-Och finner städs’ sin fröjd i Dig,
-Och finner städs’ sin fröjd i Dig.
+|: Och finner städs’ sin fröjd i Dig. :|
 
 # 2.
 Guds ”Amen” Du för evigt är
@@ -4234,14 +3954,11 @@ Och början till hans skapelse;
 Guds trogna vittne, Sonen kär,
 Behag är allt ditt väsende,
 Och Fadren ser oss blott i Dig,
-I Dig Han ständigt fröjdar sig,
-I Dig Han ständigt fröjdar sig.
+|: I Dig Han ständigt fröjdar sig. :|
 
 ---
 
 ## Sång 121
-
-> Text: Efter *The sands of time are sinking* av Anne Ross Cousin, 1857, insp. Samuel Rutherford, 1661. Musik: Rutherford av Chrétien Urhan, 1834, arr. Edward F. Rimbault, 1867. 7.6.7.6 D
 
 # 1.
 O Kristus, Du är källan,
@@ -4287,8 +4004,6 @@ Uti Immanuels land.
 
 ## Sång 122
 
-> Text: Anonym, 1939. Musik: Boardman av Lewis Devereux, 1853. 8.6.8.6
-
 # 1.
 Vår Herre, Dig vi prisa nu,
 Lär oss uppskatta mer
@@ -4310,8 +4025,6 @@ Ren och ostraffelig.
 ---
 
 ## Sång 123
-
-> Text: Efter *Lord Jesus, are we one with Thee?* av James G. Deck, 1858. Musik: Martyrdom av Hugh Wilson, 1800, arr. Robert A. Smith, 1825, adap. från Helen of Kirkconnel, anonym, 1700-talets. 8.6.8.6
 
 # 1.
 Vad nåd, o Kristus, är ej det,
@@ -4353,8 +4066,6 @@ Att vi med Dig är ett!
 
 ## Sång 124
 
-> Text: Susan C. Hedman, 1916. Musik: Sawley av James Walch, 1860. 8.6.8.6
-
 # 1.
 Den pärla Kristus funnit har,
 Som var hans själs begär,
@@ -4395,8 +4106,6 @@ Som dyrt Du köpte här.
 
 ## Sång 125
 
-> Text: Anonym, 1916. Musik: Beautiful Zion av William B. Bradbury, 1862. 8.7.8.7
-
 # 1.
 Intet avstånd mellan Kristus
 Och hans återlösta brud.
@@ -4425,8 +4134,6 @@ Och med glädje göra den.
 
 ## Sång 126
 
-> Text: Anonym, 1916. Musik: God is calling now av George F. Root, 1880. 8.7.8.7 D
-
 # 1.
 Nu vi skiljas, dock förbliva
 Vi i Kristus alltid ett.
@@ -4450,8 +4157,6 @@ Aldrig, aldrig skiljas mer.
 ---
 
 ## Sång 127
-
-> Text: Gustaf Gustafsson, 1916. Musik: We’re going home, no more to roam av Philip P. Bliss, 1875. 8.7.8.7 D
 
 # 1.
 En ödmjuk, tålig tjänare
@@ -4497,8 +4202,6 @@ Och dela himlens fröjder!
 
 ## Sång 128
 
-> Text: Maria Carlsson, 1916. Musik: Gustaf Wennerberg, 1928. 11.5.11.5.12.12.11
-
 # 1.
 Fast ännu av världen förkastad Du är,
 Föraktat ditt blod,
@@ -4530,8 +4233,6 @@ Och allting av Gud Honom underlagt är.
 
 ## Sång 129
 
-> Text: Efter *Thou art the everlasting Word* av Josiah Conder, 1855. Musik: Waltham av Thomas Willey, 1928. 8.6.8.6 (8.8)
-
 # 1.
 Du är det eviga Guds Ord,
 Guds Son i Fadrens famn,
@@ -4553,8 +4254,6 @@ Blott Fadren helt förstår.
 ---
 
 ## Sång 130
-
-> Text: Anonym, 1916, bearb. 2025. Musik: Se, Jesus af Nazaret, anonym, 1906. 11.8.11.8
 
 # 1.
 Vår Gud, vi Dig tacka för ordet vi fått,
@@ -4595,8 +4294,6 @@ Följ med på den levande väg!
 ---
 
 ## Sång 131
-
-> Text: Anonym, 1916, bearb. 2025. Musik: Dunfermline, anonym, 1615. 8.6.8.6
 
 # 1.
 I Kristus Jesus liv vi fått
@@ -4644,8 +4341,6 @@ Att vi fått syn därpå!
 
 ## Sång 132
 
-> Text: Anonym, 1916. Musik: Come Thou Weary av Ira D. Sankey, 1881. 8.5.8.3
-
 # 1.
 Jesu blod för oss har banat
 Vägen fram till Gud.
@@ -4686,8 +4381,6 @@ Herde god!
 
 ## Sång 133
 
-> Text: Susan C. Hedman, 1916, bearb. 1939. Musik: Wir hatten gebauet, anonym, 1876. 7.6.7.6.7.6
-
 # 1.
 Nu nådens dag är inne,
 I tro till korset gå,
@@ -4724,8 +4417,6 @@ Och sällhet utan mått. :|
 
 ## Sång 134
 
-> Text: Gustaf Gustafsson, 1916, bearb. 1939, bearb. 2025. Musik: Lake Enon av Isaac B. Woodbury, 1856. 6.6.8.6
-
 # 1.
 Nu är behaglig tid!
 Se, nu är nådens dag!
@@ -4753,8 +4444,6 @@ Att ännu finns där rum.
 ---
 
 ## Sång 135
-
-> Text: Efter *God in mercy sent His Son* av Hannah K. Burlingham, 1881. Musik: Harts av Benjamin Milgrove, 1769. 7.7.7.7
 
 # 1.
 Gud i kärlek Sonen skänkt
@@ -4790,8 +4479,6 @@ Gud båd’ ljus och kärlek är.
 
 ## Sång 136
 
-> Text: Efter *Life for a look* av Amelia M. Hull, 1868. Övers. Erik Nyström, 1875, bearb. 1916. Musik: Latakia av Edward G. Taylor, 1874. 11.9.11.9 (5.11.9)
-
 # 1.
 En blick på den korsfäste livet dig ger,
 Ja, just nu där är liv ock för dig!
@@ -4824,8 +4511,6 @@ Att i evighet dör du ej mer.
 ---
 
 ## Sång 137
-
-> Text: Teodor T. Truvé, 1889. Musik: Anonym, 1903. 7.6.7.6 D
 
 # 1.
 Gud älskar utan like
@@ -4871,8 +4556,6 @@ Till evig frid och fröjd.
 
 ## Sång 138
 
-> Text: Maria Carlsson, 1939. Musik: Jag vill sjunga om Jesus, anonym, 1912. 12.9.12.9
-
 # 1.
 Jag har hört om ett land, där rättfärdighet bor,
 Dit ej synden, ej sorgerna nå,
@@ -4906,8 +4589,6 @@ O, min vän, att du detta förstod!
 ---
 
 ## Sång 139
-
-> Text: Efter *Just one way* av Arthur J. Hodge, 1886. Musik: Just one way av Robert Lowry, 1886. 10.10.10.10 (9.11.10.10)
 
 # 1.
 Det finns blott en väg, som till himlen går,
@@ -4943,8 +4624,6 @@ Vårt sälla hopp är Herren Jesus Krist.
 
 ## Sång 140
 
-> Text: Efter *Yet there is room* av Horatius Bonar, 1879. Musik: It passeth knowledge av Ira D. Sankey, 1875. 10.10.10.10.4
-
 # 1.
 Än finns det rum! Se öppen är ännu
 Guds fadersfamn, o själ, hvi dröjer du?
@@ -4976,8 +4655,6 @@ Men nu finns rum.
 ---
 
 ## Sång 141
-
-> Text: Tillskr. Joël Blomqvist, 1916. Musik: Converse av Charles C. Converse, 1868. 8.7.8.7 D
 
 # 1.
 Sannerligen, säger Jesus,
@@ -5013,8 +4690,6 @@ Ty de ord, som Du oss säger,
 
 ## Sång 142
 
-> Text: Efter *We speak of the mercy of God* tillskr. Albert Midlane, 1872. Musik: Manepy, anonym, 1868. 8.8.8.8
-
 # 1.
 Vi tala till dig om Guds nåd,
 Så gränslös, så fri och så rik,
@@ -5049,8 +4724,6 @@ Du skall ej, du kan ej där bo.
 
 ## Sång 143
 
-> Text: Maria Carlsson, 1939. Musik: Herzliebster Jesu Johann Crüger, 1640. 11.11.12.5
-
 # 1.
 Ännu i nåd Herren dröjer att komma
 Att till sig hämta sin skara av fromma.
@@ -5084,8 +4757,6 @@ Dig ej döden når!
 ---
 
 ## Sång 144
-
-> Text: Anonym, 1916. Musik: Om jag ägde allt, men icke Jesus, anonym, 1890. 10.9.10.9 D
 
 # 1.
 Allas ögon skola Herren skåda,
@@ -5141,8 +4812,6 @@ Skall du dela denna härlighet?
 
 ## Sång 145
 
-> Text: Lina Sandell, 1870, bearb. 1939. Musik: Oscar Ahnfelt, 1882. 11.4.11.9
-
 # 1.
 Vem klappar så sakta i aftonens frid
 På ditt hjärta?
@@ -5183,8 +4852,6 @@ Och krona och rike dig lovar.
 
 ## Sång 146
 
-> Text: Anonym, 1916. Musik: Hold thou my hand av Hubert P. Main, 1880. 11.10.11.10
-
 # 1.
 Du vilsegångna, bliv ej längre borta
 Uppå fördärvets stig, ack, dröj ej kvar!
@@ -5212,8 +4879,6 @@ Sig föras hem, likt återfunnet får.
 ---
 
 ## Sång 147
-
-> Text: Lina Sandell, 1889, bearb. 2025. Musik: Har du frid, anonym, 1889. 8.7.8.7.7.3.7.3
 
 # 1.
 Har du frid? O själ, besinna
@@ -5251,8 +4916,6 @@ Se då upp med sorgfritt mod:
 
 ## Sång 148
 
-> Text: Anonym, 1939. Musik: Ho, my comrades, see the signal av Philip P. Bliss, 1870. 8.5.8.5 D
-
 # 1.
 Medan tiden hastigt ilar,
 Lyss vid hjärtats dörr!
@@ -5276,8 +4939,6 @@ Du får träda in.
 ---
 
 ## Sång 149
-
-> Text: Joël Blomqvist, 1878. Musik: Det är ett fast ord av Joël Blomqvist, 1876. 10.9.10.9
 
 # 1.
 Det finns ett hjärta, som för dig ömmar,
@@ -5306,8 +4967,6 @@ Ty Jesus, Jesus, ja, Han allena
 ---
 
 ## Sång 150
-
-> Text: Anonym, 1939, bearb. 2014. Musik: Redeemed av William J. Kirkpatrick, 1882. 9.8.9.8 (12.12)
 
 # 1.
 Du mänska, som vandrar i världen
@@ -5347,8 +5006,6 @@ Som evigt förblivande är.
 
 ## Sång 151
 
-> Text: Efter *Wilt thou yield to love’s entreaty* av Henry P. Wells, 1932. Musik: Herre, med kraft ifrån höjden, anonym, 1920. 11.10.11.10
-
 # 1.
 Vill du ej lyssna till kärlekens vädjan,
 Sluta att leva dig själv till behag,
@@ -5383,8 +5040,6 @@ Segern hans kärlek en gång för oss vann.
 
 ## Sång 152
 
-> Text: Efter *Have You Any Room for Jesus?* av Daniel W. Whittle, 1878. Musik: Have You Any Room for Jesus av C. C. Williams, 1878. 8.7.8.7 (8.7.8.7)
-
 # 1.
 Har du intet rum för Jesus,
 Som sitt liv utgav för dig?
@@ -5418,8 +5073,6 @@ O, hur skall ditt slut då bli?
 ---
 
 ## Sång 153
-
-> Text: Efter *Uforsagt vaer paa Vagt,* tillskr. Hans A. Brorson, 1764. Övers. tillskr. Carl O. Rosenius, 1868. Musik: Hans Matthison-Hansen, 1890. 6.8.8.8.7.7
 
 # 1.
 Våga dig, dristelig,
@@ -5460,8 +5113,6 @@ Skön, ovanskelig blir din lott:
 
 ## Sång 154
 
-> Text: Gustaf Palmqvist, 1867. Musik: Even me av William B. Bradbury, 1862. 8.7.8.7.6.7
-
 # 1.
 Hör, o själ, en röst från höjden
 Talar nu om nåd för dig!
@@ -5497,8 +5148,6 @@ Vad Han gjort för dig och mig.
 ---
 
 ## Sång 155
-
-> Text: Efter *All things are ready, Come* av Albert Midlane, 1860. Musik: Festal Song av William H. Walter, 1894. 6.6.8.6
 
 # 1.
 Nu allt är redo! Kom!
@@ -5540,8 +5189,6 @@ Välkomnar dig, o kom!
 
 ## Sång 156
 
-> Text och musik: Oscar Lagerlöf, 1916. 7.6.7.6 (10.10.8)
-
 # 1.
 O, kom till Herren Jesus,
 Inför hans fot fall ned!
@@ -5574,8 +5221,6 @@ Att Han sin Son utgav.
 ---
 
 ## Sång 157
-
-> Text: Svenning Johansson, 1898. Musik: Even me av William B. Bradbury, 1862. 8.7.8.7.6.7
 
 # 1.
 Jesus full av kärlek ropar:
@@ -5613,8 +5258,6 @@ Att Du ock vill frälsa mig!
 
 ## Sång 158
 
-> Text: Efter *O come to the Saviour, He's calling today* av Roland D. Edwards, 1932. Musik: Holiness av George C. Stebbins, 1890. 11.11.11.11
-
 # 1.
 Hör, Frälsaren ropar, Han söker ditt väl,
 Han kallar från himlen, Han älskar din själ!
@@ -5642,8 +5285,6 @@ Så skall Han dig kläda i rättfärdig skrud!
 ---
 
 ## Sång 159
-
-> Text: Efter *Christ the Saviour of sinners* av Heyman Wreford, 1935. Musik: There shall be showers of blessing av James McGranahan, 1883. 8.7.8.7 (5.7.8.7)
 
 # 1.
 Syndares Frälsare, Jesus,
@@ -5685,8 +5326,6 @@ Frälsare är Han för mig!
 
 ## Sång 160
 
-> Text: Efter *Just as I am, without one plea* av Charlotte Elliott, 1834. Övers. Betty Posse, 1856, bearb. 1916. Musik: Woodworth av William B. Bradbury, 1849. 8.8.8.8
-
 # 1.
 Just som jag är, ej med ett strå
 Av egen grund att bygga på,
@@ -5726,8 +5365,6 @@ Jag sjunga skall i evig fröjd.
 ---
 
 ## Sång 161
-
-> Text: Efter *I was a wandering sheep* av Horatius Bonar, 1843. Musik: Lebanon av John Zundel, 1855. 6.6.8.6 D
 
 # 1.
 Ett vilsegånget får,
@@ -5773,8 +5410,6 @@ Och fröjdas i hans ljus.
 
 ## Sång 162
 
-> Text: Efter *The wanderer no more will roam* av Mary J. Walker, 1858. Musik: Woodworth av William B. Bradbury, 1849. 8.8.8.8
-
 # 1.
 Den vilsegångne hemma är,
 I världen han ej irrar mer.
@@ -5808,8 +5443,6 @@ I Dig, Guds dyra Lamm, Guds Lamm.
 ---
 
 ## Sång 163
-
-> Text: Anonym, 1916. Musik: St. Michael av Louis Bourgeois, 1543. 6.6.8.6
 
 # 1.
 Nåd är ett härligt ord,
@@ -5845,8 +5478,6 @@ Gudomlig nåden är.
 
 ## Sång 164
 
-> Text: Efter *O, bliss of the purified! Bliss of the free!* av Francis Bottome, 1871. Musik: O, Bliss Of The Purified av William B. Bradbury, 1868. 11.11.11.11 (7.6.6.4)
-
 # 1.
 O djup av barmhärtighet, Herre, hos Dig,
 Att blodet på Golgata renat ock mig!
@@ -5855,8 +5486,7 @@ Fullkomlig för Gud uti Kristus jag står.
 
 # C.
 O, sjung om hans stora nåd,
-Sjung om hans stora nåd,
-Sjung om hans stora nåd,
+|: Sjung om hans stora nåd, :|
 Sjung om hans nåd!
 
 # 2.
@@ -5881,8 +5511,6 @@ Jag vill om din stora nåd jubla ändå.
 
 ## Sång 165
 
-> Text: Efter *Blessed assurance, Jesus is mine!* av Fanny J. Crosby, 1873. Musik: Assurance av Phoebe P. Knapp, 1873. 9.9.9.9 (9.9.9.9)
-
 # 1.
 Saliga visshet, Jesus är min!
 Han är min herde, kallar mig sin.
@@ -5890,10 +5518,8 @@ Saliga visshet, allt är nu väl!
 Jesus har löst min kropp och min själ.
 
 # C.
-Han är min glädje, Han är min sång,
-Honom jag prisar livsdagen lång.
-Han är min glädje, Han är min sång,
-Honom jag prisar livsdagen lång.
+|: Han är min glädje, Han är min sång,
+Honom jag prisar livsdagen lång. :|
 
 # 2.
 Allting jag uppgav, allting jag vann,
@@ -5916,8 +5542,6 @@ Han har mig fyllt med kärlek så varm.
 ---
 
 ## Sång 166
-
-> Text: Efter *I’ve found a Friend; O such a Friend!* av James G. Small, 1866. Musik: Friend av George C. Stebbins, 1878. 8.7.8.7 D
 
 # 1.
 Jag har en vän, o vilken vän,
@@ -5952,8 +5576,6 @@ Ty jag är hans för evigt!
 ---
 
 ## Sång 167
-
-> Text: Efter *Rock of Ages* av Augustus M. Toplady, 1776. Övers. Betty Posse, 1854, bearb. 1937. Musik: Toplady av Thomas Hastings, 1830. 7.7.7 D
 
 # 1.
 Klippa, Du som brast för mig,
@@ -5991,8 +5613,6 @@ Låt mig gömma mig i Dig.
 
 ## Sång 168
 
-> Text: Efter *Nor silver, nor gold* av James M. Gray, 1900. Övers. Anna Ölander, 1908. Musik: Nor Silver Nor Gold av Daniel B. Towner, 1900. 12.11.12.11 (9.7.9.7)
-
 # 1.
 Ej silver, ej guld har förvärvat min frälsning,
 Ej jordiska skatter ha’ frigjort min själ.
@@ -6021,8 +5641,6 @@ Vad djup och vad höjd i den Eviges råd!
 
 ## Sång 169
 
-> Text och musik: Anonym, 1916. 11.11.10.10
-
 # 1.
 Med Jesu blod är all vår synd avtvagen,
 Och den av oss förtjänta dom borttagen;
@@ -6044,8 +5662,6 @@ Vi inför tronen sjunga få en gång.
 ---
 
 ## Sång 170
-
-> Text: Efter *Auf dem Lamm ruht meine Seele* av Julius A. von Poseck, 1881. Musik: Rhineland av Wilhelm Brockhaus, 1888. 8.7.8.7
 
 # 1.
 På Guds Lamm vår tro nu vilar,
@@ -6075,8 +5691,6 @@ Uti Lammets boning där.
 
 ## Sång 171
 
-> Text: Nils Frykman, 1876. Musik: When you have found the Savior av Belle, 1877. 7.6.7.6 D
-
 # 1.
 Min Gud, när jag betänker
 Vad Du har gjort för mig,
@@ -6104,7 +5718,7 @@ Jag njuter fröjd otalig
 I Gud, min bäste vän.
 Han själv skall mig bevara,
 Hans nåd är alltid ny,
-Och ho --ta någon fara,
+Och hota någon fara,
 Till Honom får jag fly.
 
 # 4.
@@ -6120,8 +5734,6 @@ Uti all evighet.
 ---
 
 ## Sång 172
-
-> Text: Efter *Thou Son of God, the woman’s Seed* av James G. Deck, 1856. Musik: Meribah av Lowell Mason, 1839. 8.8.6 D
 
 # 1.
 Guds ende Son, Du kvinnans säd,
@@ -6151,8 +5763,6 @@ All ära, makt och härlighet
 
 ## Sång 173
 
-> Text och musik: Anonym, 1916. 12.11.12.11
-
 # 1.
 O, glädjens i Herren, vår Frälsare är Han,
 Kom, låtom oss tacka och lova hans namn!
@@ -6174,8 +5784,6 @@ Blott Du är vår Herre, vår frid och vårt hopp.
 ---
 
 ## Sång 174
-
-> Text: Anonym, 1916. Musik: Deerhurst av James Langran, 1877. 8.7.8.7 D
 
 # 1.
 Herre Jesus, må vi fröjdas
@@ -6211,8 +5819,6 @@ Dig vi ständigt tacka må.
 
 ## Sång 175
 
-> Text: Anonym, 1916. Musik: St. Michaels, anonym, 1789. 14.14.14.14
-
 # 1.
 Jag hör till himlens fria barn, ty Jesus gjort mig fri
 Från Satans band och lagens dom och syndens slaveri;
@@ -6234,8 +5840,6 @@ Så visst som Fadren icke ser på Sonen minsta fläck.
 ---
 
 ## Sång 176
-
-> Text: Efter *It is well with my soul* av Horatio Spafford, 1873. Övers. V. H. H., 1913, bearb. 2025. Musik: Ville du Havre av Philip P. Bliss, 1876. 11.8.11.9 (6.9)
 
 # 1.
 När frid som en flod övervälder min stig,
@@ -6269,8 +5873,6 @@ Ty i nåd Du har frälsat min själ!
 
 ## Sång 177
 
-> Text: Efter *No condemnation! Precious word!* av Robert C. Chapman, 1856. Musik: Spohr av Ludwig Spohr, 1835. 8.6.8.6
-
 # 1.
 Fördömelse ej finnes mer
 För oss, så säger Gud.
@@ -6298,8 +5900,6 @@ Och prisa högt ditt namn.
 ---
 
 ## Sång 178
-
-> Text: Efter *Precious name! The name of Jesus* av Edward E. Nichols, 1916. Musik: Stephanos av Henry W. Baker, 1868. 8.5.8.3
 
 # 1.
 Dyra namn, det namnet Jesus!
@@ -6340,8 +5940,6 @@ Himlens fröjd!
 ---
 
 ## Sång 179
-
-> Text: Efter *There is a name we love to hear* av Frederick Whitfield, 1864. Musik: Belmont av William Gardiner, 1812. 8.6.8.6
 
 # 1.
 Det är ett namn vi älska här,
@@ -6395,8 +5993,6 @@ Vi ännu sjunga få.
 
 ## Sång 180
 
-> Text: Susan C. Hedman, 1916. Musik: Anonym, 1928. 8.5.8.3
-
 # 1.
 Fader, Du oss i din kärlek,
 Söner kallat har.
@@ -6430,8 +6026,6 @@ I ditt hem.
 ---
 
 ## Sång 181
-
-> Text: Anonym, 1916. Musik: Beautiful Zion av William B. Bradbury, 1862. 8.7.8.7
 
 # 1.
 Gud i nåd de sina valde
@@ -6473,8 +6067,6 @@ Tills ditt sälla hem vi nå.
 
 ## Sång 182
 
-> Text: Efter *Abba, Father, we approach Thee* av James G. Deck, 1841. Musik: Brightly beams our Father’s mercy av Philip P. Bliss, 1871. 8.7.8.7 D
-
 # 1.
 Abba, Fader, Du i kärlek
 Har oss slutit i din famn.
@@ -6508,8 +6100,6 @@ Och hans dyra fadersnamn.
 ---
 
 ## Sång 183
-
-> Text: Efter *Abba, Father, Lord! We call Thee* av Robert S. Hawker, 1835. Musik: Lammets folk, tillsk. Andreas C. Ruström, 1772. 8.7.8.7 D
 
 # 1.
 Abba, Fader vi Dig kalla,
@@ -6545,8 +6135,6 @@ Rikedomen av din nåd.
 
 ## Sång 184
 
-> Text: Efter *Father! Thy name our souls would bless* av John N. Darby, 1879. Musik: Barrow av Lowell Mason, 1859. 8.6.8.6
-
 # 1.
 Ditt namn, o Fader, prisa vi
 Likt barn, som lärts av nåd.
@@ -6580,8 +6168,6 @@ Till dess vi hos Dig bor.
 ---
 
 ## Sång 185
-
-> Text: Anonym, 1939. Musik: Clementia av Calvin och Farel Jouard, 1903. 7.7.7.7 D
 
 # 1.
 Stilla, ljuvlig, underbar
@@ -6617,8 +6203,6 @@ Av den källans rika svall.
 
 ## Sång 186
 
-> Text: Anonym, 1916. Musik: Brightly beams our Father’s mercy av Philip P. Bliss, 1871. 8.7.8.7 D
-
 # 1.
 Fader vi ha vilse vandrat
 Uti mörker bort från Dig;
@@ -6642,8 +6226,6 @@ Mången, som förlorad var.
 ---
 
 ## Sång 187
-
-> Text: Anonym, 1916. Musik: Pardon av Johann H. Egli, 1787. 9.8.9.8.8.8
 
 # 1.
 Åt Dig vi nu lovoffer bära,
@@ -6681,8 +6263,6 @@ Du leder oss städs’ hem till Dig.
 
 ## Sång 188
 
-> Text: Efter *Eja, min sjæl ret inderlig sig fryder* tillsk. Elle Andersdatter, 1639. Övers. Olaus Forsselius, 1668, bearb. Johan O. Wallin, 1819, bearb. 1916. Musik: Näfvervisan, anonym, 1900. 11.11.10.11
-
 # 1.
 I hoppet sig min frälsta själ förnöjer,
 I tron, att Gud till evigt väl mig höjer,
@@ -6716,8 +6296,6 @@ Din brud till Dig i ljusa fröjdesalen.
 ---
 
 ## Sång 189
-
-> Text: Emil Gustafson, 1887. Musik: Jubla nu, mitt sälla hjärta, anonym, 1895. 8.7.8.8.8.8
 
 # 1.
 Jubla nu, mitt sälla hjärta,
@@ -6759,8 +6337,6 @@ Himlen giver återljud,
 
 ## Sång 190
 
-> Text: Efter *Praise, my soul, the Lord in glory* av Alfred Steinmetz, 1855. Övers. Lina Sandell, 1903, bearb. 1916. Musik: Praise, my soul av Alfred Steinmetz, 1855. 8.5.8.5.5
-
 # 1.
 Upp min själ, din Gud att lova
 För hans stora nåd,
@@ -6800,8 +6376,6 @@ Gläd dig under all din smärta,
 ---
 
 ## Sång 191
-
-> Text: Efter *We hear the words of love* av Horatius Bonar, 1881. Musik: St. Michael av Louis Bourgeois, 1543. 6.6.8.6
 
 # 1.
 Guds kärleks ord jag hör,
@@ -6843,8 +6417,6 @@ Hans kärlek är min fröjd.
 
 ## Sång 192
 
-> Text: Lina Sandell, 1850, bearb. 1855, 1916. Musik: Tryggare kan ingen vara, anonym, 1800-talet. 8.8.8.8
-
 # 1.
 Tryggare kan ingen vara
 Än Guds lilla barnaskara;
@@ -6885,8 +6457,6 @@ För din stora nådegåva.
 
 ## Sång 193
 
-> Text: Efter *Lord Jesus! when we think of Thee* av James G. Deck, 1856. Musik: Evan av William H. Havergal, 1847. 8.6.8.6
-
 # 1.
 O Herre, när vi tänka på,
 Hur stor din kärlek är,
@@ -6921,8 +6491,6 @@ Få skåda som Du är.
 
 ## Sång 194
 
-> Text: Anonym, 1916. Musik: Var jag går, anonym, 1868. 10.9.10.9 D
-
 # 1.
 Från Egypten Gud sitt folk har kallat:
 ”Släpp min Son!” Hans ord till Farao.
@@ -6956,8 +6524,6 @@ Som en pelare och ej utgå.
 ---
 
 ## Sång 195
-
-> Text: Efter *Savior, Thy dying love Thou gavest me* av Sylvanus D. Phelps, 1862. Musik: Something for Jesus av Robert Lowry, 1871. 6.4.6.4.6.6.6.4
 
 # 1.
 Du, som av kärlek dog,
@@ -7003,8 +6569,6 @@ Allting med Dig.
 
 ## Sång 196
 
-> Text: Efter *O Jesus, Lamb of God,* anonym, 1846. Musik: Easton av William Easton, 1920. 6.6.8.4
-
 # 1.
 O Jesus, Du Guds Lamm,
 I Dig vår frälsning är,
@@ -7026,8 +6590,6 @@ Vi Dig få se.
 ---
 
 ## Sång 197
-
-> Text: Anonym, 1916. Musik: Home av Henry R. Bishop, 1831. 7.6.7.6 D
 
 # 1.
 Som pilgrimer och gäster
@@ -7062,8 +6624,6 @@ Den gyllne harpan slå.
 ---
 
 ## Sång 198
-
-> Text: Efter *I’m a pilgrim, and I’m a stranger* av Mary D. Shindler, 1841. Övers. Betty Posse, 1844, bearb. Carl O. Rosenius, 1868, bearb. anonym, 1916. Musik: Jag är främling av Oscar Ahnfelt, 1882. 9.11.10.10.9.11
 
 # 1.
 Jag är främling, jag är en pilgrim,
@@ -7101,8 +6661,6 @@ Följ och led oss, följ och led oss alltid Du!
 
 ## Sång 199
 
-> Text: Anonym, 1916. Musik: Lorelei av Fredrich Silcher, 1860. 9.8.9.8 D
-
 # 1.
 Vi äro ej hemma på jorden,
 Men vandra till sällhetens land,
@@ -7137,8 +6695,6 @@ Tills Dig och din himmel vi nå.
 
 ## Sång 200
 
-> Text: Maria Carlsson, 1916. Musik: Accords Angéliques, anonym, 1865. 11.11.11.11
-
 # 1.
 ”Ej av denna världen”, så ljöd Herrens ord
 Till de få, som följde Honom på vår jord;
@@ -7166,8 +6722,6 @@ Men av hjärtat sjunga på vår ökenstig:
 ---
 
 ## Sång 201
-
-> Text: Anonym, 1916. Musik: Kirken av Ludvig M. Lindeman, 1840. 8.8.8.8.6.8.6
 
 # 1.
 En gång på dödens stig jag var,
@@ -7199,8 +6753,6 @@ Här har jag ej mitt hem.
 ---
 
 ## Sång 202
-
-> Text: O. A. B., 1892. Musik: Anonym, 1928. 8.7.8.7.8.6.8.7
 
 # 1.
 Trösta, min själ, uppå Herren,
@@ -7236,8 +6788,6 @@ Amen, ja ske oss alltså!
 
 ## Sång 203
 
-> Text: Efter *God moves in a mysterious way* av William Cowper, 1773. Musik: St. Anne av William Croft, 1708. 8.6.8.6
-
 # 1.
 På underbara vägar går
 I hemlighet vår Gud.
@@ -7271,8 +6821,6 @@ Och tolkar själv sitt bud.
 ---
 
 ## Sång 204
-
-> Text: Efter *Through the love of God our Savior* av Mary Peters, 1847. Musik: Ar Hyd Y Nos, anonym, 1831. 8.4.8.4.8.8.8.4
 
 # 1.
 Gud i kärlek oss omsluter,
@@ -7308,8 +6856,6 @@ Allt skall bli väl.
 
 ## Sång 205
 
-> Text: Anonym, 1903. Musik: Have You Any Room for Jesus av C. C. Williams, 1878. 8.7.8.7 D
-
 # 1.
 Fader, Du som från din himmel
 Blickar på de dina ner,
@@ -7333,8 +6879,6 @@ Med din Andes frid och fröjd.
 ---
 
 ## Sång 206
-
-> Text: Anonym, 1916. Musik: G. G., 1928. 8.5.8.5 D
 
 # 1.
 All min nöd min Fader känner,
@@ -7360,8 +6904,6 @@ Fadren har mig kär.
 
 ## Sång 207
 
-> Text: Anonym, 1916, bearb. 2025. Musik: O Jesu Christ, Du Höchstes Gut av Johann Crüger, 1658. 8.7.8.7.8.8.7
-
 # 1.
 O Du, som sade: Ingen kan
 De mina från Mig taga,
@@ -7383,8 +6925,6 @@ Upprättar dem som falla.
 ---
 
 ## Sång 208
-
-> Text: Efter *Der Herr kennet die Seinen* av Karl J. P. Spitta, 1859. Musik: Webb av George J. Webb, 1837. 7.6.7.6 D
 
 # 1.
 De sina Herren känner
@@ -7420,8 +6960,6 @@ Vår trogne Frälsare.
 
 ## Sång 209
 
-> Text: Anonym, 1916. Musik: Lyndhurst av Frederic W. Blunt, 1871. 11.11.11.11
-
 # 1.
 Herren är min herde, som mig städs’ har kär,
 Faror väl omgiva, men Han själv mig bär.
@@ -7449,8 +6987,6 @@ Något utav lammen utur herdens famn.
 ---
 
 ## Sång 210
-
-> Text: E. Ruble, 1916. Musik: Anonym, 1928. 7.6.7.6 D
 
 # 1.
 Vår trogne, gode Herde,
@@ -7496,8 +7032,6 @@ Med Fadrens majestät.
 
 ## Sång 211
 
-> Text: Efter *My Shepherd is the Lamb* av James Beaumont, 1750. Musik: Priory, anonym, 1903. 6.6.8.4 D
-
 # 1.
 Min herde Lammet är,
 Den levande, som dog;
@@ -7541,8 +7075,6 @@ I evig fröjd.
 ---
 
 ## Sång 212
-
-> Text: Anonym, 1916. Musik: St. Theodulph av Melchior Teschner, 1613. 7.6.7.6 D
 
 # 1.
 När Herren är min herde,
@@ -7588,8 +7120,6 @@ Få bo evinnerlig.
 
 ## Sång 213
 
-> Text: Efter *O patient, spotless One!,* anonym, 1856, övers. från Tysk., av Christian A. Bernstein, 1699. Musik: Scott av Hans G. Nägeli, 1836, arr. Lowell Mason, 1872. 6.6.8.6
-
 # 1.
 Du milde, tålige,
 Din ödmjukhet mig lär,
@@ -7611,8 +7141,6 @@ Jag ingen annan ser.
 ---
 
 ## Sång 214
-
-> Text: Efter *Sing, Without Ceasing Sing* av John N. Darby, 1856. Musik: Venice av William Amps, 1853. 6.6.8.6
 
 # 1.
 Sjung, av allt hjärta sjung
@@ -7654,8 +7182,6 @@ Och bliva där Han är.
 
 ## Sång 215
 
-> Text: Anonym, 1916. Musik: Confidence, anonym, 1903. 7.6.7.6 D
-
 # 1.
 Låt oss vår Gud förbida
 Trots världens hån och hot!
@@ -7690,8 +7216,6 @@ I tid och evighet.
 
 ## Sång 216
 
-> Text: Lina Sandell, 1870. Musik: Bida blott av Gustaf R. Norén, 1870. 6.9.7.7.10.10.6
-
 # 1.
 Bida blott, bida blott!
 Allt blir genom Herrens godhet gott:
@@ -7723,8 +7247,6 @@ Bida blott, bida blott!
 
 ## Sång 217
 
-> Text: Gustaf Gustafsson, 1916. Musik: All the way av Robert Lowry, 1875. 8.7.8.7.8.7.8.7.8.7
-
 # 1.
 Lär oss Gud att vara stilla,
 Vänta tåligt på din nåd,
@@ -7732,10 +7254,8 @@ Att oss intet må förvilla
 Från att akta på ditt råd.
 Hjälp oss att din vilja göra,
 Under det vi vandra här
-Och med lydigt sinne höra
-Allt vad Du i ordet lär.
-Och med lydigt sinne höra
-Allt vad Du i ordet lär.
+|: Och med lydigt sinne höra
+Allt vad Du i ordet lär. :|
 
 # 2.
 Tack, att Anden kan förklara
@@ -7744,10 +7264,8 @@ Och för hjärtat uppenbara
 Kristus och hans stora makt,
 Som Han var på denna jorden
 Vandrande din viljas stig,
-Som Han nu är, upphöjd vorden,
-Krönt med härlighet av Dig.
-Som Han nu är, upphöjd vorden,
-Krönt med härlighet av Dig.
+|: Som Han nu är, upphöjd vorden,
+Krönt med härlighet av Dig. :|
 
 # 3.
 När vi Honom så få skåda
@@ -7756,10 +7274,8 @@ Då hos oss Han börjar råda
 Som en herre i sitt hus;
 Allt för Honom måste böjas,
 ”Allt är Honom underlagt”,
-Varje hinder undanröjes,
-Allt besegras av hans makt.
-Varje hinder undanröjes,
-Allt besegras av hans makt.
+|: Varje hinder undanröjes,
+Allt besegras av hans makt. :|
 
 # 4.
 Gud, vår Fader, Dig vi prisa,
@@ -7768,16 +7284,12 @@ Skall oss föra fram och visa
 Genom oss din kärlek nu.
 Lär oss därför stilla vara,
 Akta ständigt på ditt råd,
-Tills Du fullt skall uppenbara
-Härligheten av din nåd.
-Tills Du fullt skall uppenbara
-Härligheten av din nåd.
+|: Tills Du fullt skall uppenbara
+Härligheten av din nåd. :|
 
 ---
 
 ## Sång 218
-
-> Text: Anonym, 1916. Musik: Ett stilla barnahjärta, anonym, 1904. 7.6.7.6 D
 
 # 1.
 Ett lydigt barnasinne
@@ -7833,8 +7345,6 @@ Vårt Maravatten, sött.
 
 ## Sång 219
 
-> Text: Efter *All my doubts I give to Jesus* av John C. Morgan, 1876. Övers. Erik Nyström, 1893. Musik: All my doubts I give to Jesus av George C. Stebbins, 1876. 8.7.8.7 (8.7.8.7)
-
 # 1.
 Alla tvivel bär till Jesus,
 Tag Hans löfte som det står.
@@ -7842,10 +7352,8 @@ Aldrig den på skam skall komma
 Som i tro till Honom går.
 
 # C.
-Jag förtröstar, fullt förtröstar,
-Ja, jag litar på hans ord.
-Jag förtröstar, fullt förtröstar,
-Ja, jag litar på hans ord.
+|: Jag förtröstar, fullt förtröstar,
+Ja, jag litar på hans ord. :|
 
 # 2.
 All din synd bär fram till Jesus,
@@ -7874,8 +7382,6 @@ All din längtan och ditt hopp.
 ---
 
 ## Sång 220
-
-> Text: Lina Sandell, 1865, bearb. 1916. Musik: Blott en dag av Oscar Ahnfelt, 1872. 10.9.10.9.10.9.10.7
 
 # 1.
 Blott en dag, ett ögonblick i sänder;
@@ -7911,8 +7417,6 @@ Tills vi nått det goda land.
 
 ## Sång 221
 
-> Text: Efter *All to Jesus I surrender* av Judson W. Van DeVenter, 1896. Musik: Surrender av Winfield S. Weeden, 1896. 8.7.8.7 (5.5.8.5)
-
 # 1.
 Allt till Jesus vill jag lämna,
 Allt till Honom glatt jag bär.
@@ -7940,8 +7444,6 @@ Pris ske Gud evinnerlig!
 ---
 
 ## Sång 222
-
-> Text: Efter *Wirf Sorgen und Schmerz* av Georg F. Fickert, 1815. Musik: Wirf Sorgen und Schmerz av Johann J. Vetter, 1818. 5.5.9
 
 # 1.
 Från smärta och sorg
@@ -7971,8 +7473,6 @@ I himmelen eller på jorden!
 ---
 
 ## Sång 223
-
-> Text: Efter *Through waves, through clouds and storms* av John Wesley, 1739, bearb. 1885, insp. från *Befiehl du seine Wege* av Paul Gerhardt, 1653. Musik: St. Ethelwald av William H. Monk, 1880. 6.6.8.6
 
 # 1.
 Igenom storm och moln
@@ -8008,37 +7508,27 @@ Styr allt och gör allt väl.
 
 ## Sång 224
 
-> Text: Efter Femte Moseboken 33:27, Psaltaren 89:16 & Psaltaren 84:8. Musik: Anonym, 1928. 9.9.11.10.11.10
-
 # 1.
 En tillflyktsort är urtidens Gud
 Och nedåt sträcka sig hans armar.
-Han har lovat och sagt, att Han med sin makt
-Skall bevara sitt återlösta folk.
-Han har lovat och sagt, att Han med sin makt
-Skall bevara sitt återlösta folk.
+|: Han har lovat och sagt, att Han med sin makt
+Skall bevara sitt återlösta folk. :|
 
 # 2.
 Sällt det folk, som jubel klangen förstår,
 I Guds ansiktes ljus de skola vandra.
-De gå från kraft till kraft och från fröjd till fröjd,
-Tills de stå inför Gud på Sions höjd.
-De gå från kraft till kraft och från fröjd till fröjd,
-Tills de stå inför Gud på Sions höjd.
+|: De gå från kraft till kraft och från fröjd till fröjd,
+Tills de stå inför Gud på Sions höjd. :|
 
 # 3.
 Deras kraft och prydnad är du, o Gud,
 I ditt heliga namn de skola fröjdas.
-Du har hjälpen nedlagt hos en Hjälte med makt,
-Och din eviga arm är deras sköld.
-Du har hjälpen nedlagt hos en Hjälte med makt,
-Och din eviga arm är deras sköld.
+|: Du har hjälpen nedlagt hos en Hjälte med makt,
+Och din eviga arm är deras sköld. :|
 
 ---
 
 ## Sång 225
-
-> Text: Efter *Our God is Light* av Mary Peters, 1856. Musik: Martyrdom av Hugh Wilson, 1800, arr. Robert A. Smith, 1825, adap. från Helen of Kirkconnel, anonym, 1700-talet. 8.6.8.6
 
 # 1.
 Vår Gud är ljus. När här vi gå
@@ -8073,8 +7563,6 @@ Det land, där sällhet är.
 ---
 
 ## Sång 226
-
-> Text: Anonym, 1916. Musik: Ack, salig den själen, som tror av Andreas P. Berggreen, 1880. 5.7.5.7
 
 # 1.
 Helige Fader!
@@ -8122,8 +7610,6 @@ Alltmer Du skriver på den.
 
 ## Sång 227
 
-> Text: Anonym, 1916. Musik: Only a step to Jesus av William H. Doane, 1901, arr. M. B. 2025. 7.6.7.6.4.4.7.6.7.6
-
 # 1.
 För Israel Du fordom
 Själv kallat Dig: ”Jag är”,
@@ -8152,8 +7638,6 @@ Hem till din härlighet.
 
 ## Sång 228
 
-> Text: Anonym, 1916. Musik: Retreat av Thomas Hastings, 1842. 8.8.8.8
-
 # 1.
 Om svår och törnig blir vår stig
 Och om Du synes dölja Dig,
@@ -8176,8 +7660,6 @@ Se’n vårt begär vi kungjort Dig.
 
 ## Sång 229
 
-> Text: Efter *May the grace of Christ our Savior* av John Newton, 1779. Musik: Vesper Hymn av Dmitri S. Bortniansky, 1818. 8.7.8.7 D
-
 # 1.
 Må vår Herres nåd och kärlek
 Fylla hjärtat natt och dag
@@ -8191,8 +7673,6 @@ Tills med fröjd vi Honom se!
 ---
 
 ## Sång 230
-
-> Text: Anonym, 1916. Musik: Beneath the cross of Jesus av Ira D. Sankey, 1875. 7.6.7.6 D
 
 # 1.
 Säll den Dig Herre känner,
@@ -8238,8 +7718,6 @@ Uti din härlighet.
 
 ## Sång 231
 
-> Text: Anonym, 1916, bearb. 2025. Musik: Llanthony Abbey av John H. Lester, 1900. 8.6.8.6
-
 # 1.
 Gud, giv oss nåd i tron att stå,
 Trots varje oväns hot,
@@ -8274,8 +7752,6 @@ Rättfärdighetens krona skön
 
 ## Sång 232
 
-> Text: Lina Sandell, 1889. Musik: Anonym, 1800-talet. 6.8.9.6
-
 # 1.
 Jesus kär, var mig när
 Och livets väg mitt hjärta lär,
@@ -8291,8 +7767,6 @@ Håll Du mig tätt vid Dig!
 ---
 
 ## Sång 233
-
-> Text: Maria Carlsson, 1916, bearb. 2025. Musik: Trench av Mrs. J. C. Trench, 1880. 13.13.13.13
 
 # 1.
 O dyre Herre Jesus! På ökenstigen här
@@ -8321,8 +7795,6 @@ Vi tacka Dig, som lär oss att känna Fadrens namn.
 ---
 
 ## Sång 234
-
-> Text: Efter *Abide with me* av Henry F. Lyte, 1847. Övers. Carl O. Mannströms, 1920. Musik: Eventide av William H. Monk, 1861. 10.10.10.10
 
 # 1.
 Bliv kvar hos mig, se, dagens slut är när.
@@ -8370,8 +7842,6 @@ I liv, i död bliv, Herre, hos mig kvar!
 
 ## Sång 235
 
-> Text: Efter *Jesu, meine Freude* av Johann Franck, 1655. Övers. Johan Schmedeman, 1694, bearb. Johan O. Wallin, 1816, anonym, 1916. Musik: Här en källa rinner, anonym, 1854. 6.6.5.5
-
 # 1.
 Jesus, Du min hägnad
 Och mitt hjärtas fägnad,
@@ -8412,8 +7882,6 @@ Herre, nu från Dig.
 
 ## Sång 236
 
-> Text och musik: Tillskr. Oscar Ahnfelt, 1882. 10.9.10.9
-
 # 1.
 Ljuva stund, då vi få sitta neder
 Här vid dina fötter, Herre kär!
@@ -8442,8 +7910,6 @@ Giv en var en rik välsignelse!
 
 ## Sång 237
 
-> Text: Anonym, 1916. Musik: Traveler, whither art thou going av William B. Bradbury, 1868. 8.7.8.7.8.8.8.7
-
 # 1.
 Herre, nu vi samlas alla
 Kring ditt dyra nådesord;
@@ -8467,8 +7933,6 @@ Till all sanning i ditt ord.
 ---
 
 ## Sång 238
-
-> Text: Anonym, 1916. Musik: Epiphany av Joseph F. Thrupp, 1848. 11.10.11.10
 
 # 1.
 Som ett banér Gud sin sanning oss givit,
@@ -8497,8 +7961,6 @@ Evig den fröjden, som väntar oss där!
 ---
 
 ## Sång 239
-
-> Text: Efter *Unchanging Love* av John N. Darby, 1845. Musik: Anonym, 1928. 7.6.7.6
 
 # 1.
 O Herre, hur omätlig
@@ -8546,8 +8008,6 @@ Ditt folk Du ställa skall.
 
 ## Sång 240
 
-> Text: Anonym, 1916. Musik: G. G. & S. E., 1928. 8.4.8.4 D
-
 # 1.
 Till Dig, o Jesus, vill jag fly,
 Du känner mig;
@@ -8581,8 +8041,6 @@ Du själv är när.
 ---
 
 ## Sång 241
-
-> Text: Lina Sandell, 1868, bearb. 1916, 2025. Musik: Stephen Glover, 1876. 8.7.8.7.8.7 D
 
 # 1.
 Alla Herrens vägar äro
@@ -8636,8 +8094,6 @@ Större sällhet aldrig fanns. :|
 
 ## Sång 242
 
-> Text: Josef Grytzell, 1900. Musik: Jeg har Gud av Theodor Söderberg, 1878. 7.8.7.8.7.7.8
-
 # 1.
 Gud är trofast, o min själ,
 Gläds, att Han dig aldrig sviker!
@@ -8678,8 +8134,6 @@ Där jag sjunga skall Hans ära.
 
 ## Sång 243
 
-> Text: Efter *How good is the God we adore* av Joseph Hart, 1768. Musik: Celeste, anonym, 1857. 8.8.8.8
-
 # 1.
 Hur god är vår trofaste Gud,
 Vår ende och evige vän.
@@ -8695,8 +8149,6 @@ Som frälst oss och frälsa oss skall.
 ---
 
 ## Sång 244
-
-> Text: Anonym, 1916. Musik: Se, Jesus af Nazaret, anonym, 1906. 11.8.11.8
 
 # 1.
 Vi hava i himlen en Överstepräst,
@@ -8719,8 +8171,6 @@ Där alltid vi tillbedja få.
 ---
 
 ## Sång 245
-
-> Text: Anonym, 1916. Musik: Missionary Hymn av Lowell Mason, 1823. 7.6.7.6 D
 
 # 1.
 Hur mäktig och hur tålig
@@ -8755,8 +8205,6 @@ Vår Förespråkare!
 ---
 
 ## Sång 246
-
-> Text och musik: Efter *The higher Rock* av Lewis Hartsough, 1874. 8.7.8.7 (8.7.8.7)
 
 # 1.
 Tryggt vi vila på den klippan,
@@ -8798,8 +8246,6 @@ Till de sälla rymder opp.
 
 ## Sång 247
 
-> Text: Lina Sandell, 1859, bearb. 1916. Musik: Härliga lott, anonym, 1901. 11.10.11.10
-
 # 1.
 Herre, med kraft genom Anden bekläd mig,
 Jag är så kraftlös och svag i mig själv.
@@ -8827,8 +8273,6 @@ Kristus, min Frälsare, endast i Dig!
 ---
 
 ## Sång 248
-
-> Text: Susan C. Hedman, 1916. Musik: Near the cross av William H. Doane, 1869. 7.6.7.6 (6.6.7.6)
 
 # 1.
 Herre, Du vår starkhet är,
@@ -8864,8 +8308,6 @@ Du ditt folk vill draga.
 
 ## Sång 249
 
-> Text: Efter *Jesus ist gar ein süsser Nam* av Basilius Förtsch, 1609. Övers. Håkan M. Ausius, 1641, bearb. 1695, 1819, 1916. Musik: Fransk Koral, anonym, 1542. 8.8.8.8
-
 # 1.
 Se, Jesus är ett tröstrikt namn
 Och i all nöd vår säkra hamn;
@@ -8893,8 +8335,6 @@ Du, som oss givit evigt liv!
 ---
 
 ## Sång 250
-
-> Text: Efter *How sweet the name of Jesus sounds* av John Newton, 1779. Musik: Manoah av Henry W. Greatorex, 1851. 8.6.8.6
 
 # 1.
 Hur ljuvt ditt namn, o Jesus, är
@@ -8930,8 +8370,6 @@ I evighetens dag.
 
 ## Sång 251
 
-> Text: Lina Sandell, 1858. Musik: Anonym, 1928. 12.11.12.11
-
 # 1.
 O Jesus, ditt namn är ett fäste i nöden,
 Vår käpp och vår stav och vårt bergfasta slott,
@@ -8966,8 +8404,6 @@ Förkunna hur stort och hur lovvärt det är.
 
 ## Sång 252
 
-> Text: Efter *Jesus! The very thought of Thee* av Edward Caswall, 1849, övers. från *Jesu, dulcis memoria,* tillskr. Bernhard de Clairvaux, 1200-talet. Musik: Men hvorfor ver græde av W. Theodor Söderberg, 1906. 11.8.11.8
-
 # 1.
 O Jesus, så ljuvligt uppfylles vårt bröst
 Vid tanken på Dig och ditt namn!
@@ -9001,8 +8437,6 @@ Och sedan i evighet all!
 ---
 
 ## Sång 253
-
-> Text: Efter *Jesus! That name is Love* av James G. Deck, 1842. Musik: Bethany av Lowell Mason, 1856. 6.4.6.4.6.6.6.4
 
 # 1.
 Jesus, vår Frälsare,
@@ -9048,8 +8482,6 @@ Jesus, Guds Son!
 
 ## Sång 254
 
-> Text: Efter *Sing aloud to God our strength* tillskr. Thomas Kelly, 1854. Musik: Karibien, anonym, arr. M. B., 2025. 7.7.7.7.8.8
-
 # 1.
 Sjungen till vår starkhets Gud,
 Som oss hittils burit har!
@@ -9078,8 +8510,6 @@ Och vår resas mål vi hinna.
 
 ## Sång 255
 
-> Text: Anonym, 1916. Musik: Fanny Ekberg, 1928. 9.4.9.9.4.9
-
 # 1.
 Tack, att Du möter mig, Herre kär,
 Just där jag är,
@@ -9107,8 +8537,6 @@ Du själv är det eviga livet.
 ---
 
 ## Sång 256
-
-> Text: Efter *Rise, my soul, Thy God directs thee* av John N. Darby, 1837. Musik: Beecher av John Zundel, 1870. 8.7.8.7 D
 
 # 1.
 Upp, min själ, din Gud dig leder,
@@ -9164,8 +8592,6 @@ Med en välkänd kärlek där.
 
 ## Sång 257
 
-> Text: Efter *Whom have we, Lord, but Thee* av Mary Peters, 1856. Musik: Moreland, anonym, 1904. 6.6.8.6
-
 # 1.
 Vem ha vi utom Dig
 Vår törst att släcka här?
@@ -9200,8 +8626,6 @@ Så rik, så stor, så god.
 
 ## Sång 258
 
-> Text: Efter *From scenes of conflict, burden, grief and care* av W. Lawrence, 1932. Musik: Langran av James Langran, 1862. 10.10.10.10
-
 # 1.
 Din närhet, Herre, söka vi, ditt stöd,
 Till Dig vi fly från strider, omsorg, nöd.
@@ -9224,8 +8648,6 @@ Och bida stilla med tacksägelse.
 
 ## Sång 259
 
-> Text: Efter *All the way my Saviour leads me* av Fanny J. Crosby, 1875. Övers. Erik Nyström, 1878. Musik: All the way av Robert Lowry, 1875. 8.7.8.7.8.7.8.7.8.7
-
 # 1.
 Hela vägen går Han med mig,
 O, vad kan jag önska mer?
@@ -9233,10 +8655,8 @@ Kan jag tvivla på hans godhet
 När jag på hans ledning ser?
 Himmelsk frid, gudomlig trygghet
 Uti Honom har min själ,
-Ty jag vet, vad helst mig möter,
-Jesus gör dock allting väl.
-Ty jag vet, vad helst mig möter,
-Jesus gör dock allting väl.
+|: Ty jag vet, vad helst mig möter,
+Jesus gör dock allting väl. :|
 
 # 2.
 Hela vägen går Han med mig,
@@ -9245,10 +8665,8 @@ Ger mig nåd i varje prövning,
 Styrker mig med livets bröd.
 Och om hjärtat ville törsta,
 Vägen kännes tung och lång,
-Fröjdekällor strax ur klippan
-Springa fram som förr en gång,
-Fröjdekällor strax ur klippan
-Springa fram som förr en gång.
+|: Fröjdekällor strax ur klippan
+Springa fram som förr en gång. :|
 
 # 3.
 Hela vägen går Han med mig.
@@ -9257,16 +8675,12 @@ Och till sist en evig vila
 Skänkes mig i himmelrik.
 När jag där får fri, förklarad,
 Kasta mig för tronen ned,
-Skall jag ej den sången glömma:
-Hela vägen gick Han med!
-Skall jag ej den sången glömma:
-Hela vägen gick Han med!
+|: Skall jag ej den sången glömma:
+Hela vägen gick Han med! :|
 
 ---
 
 ## Sång 260
-
-> Text: Efter *Lord, Thou hast drawn us after Thee,* övers. John Wesley, 1739, bearb. 1856, 1881 från *O Jesu Christ, mein schönstes Licht* av Paul Gerhardt, 1653. Musik: Mir ist erbarmung av Johann L. Hainlin, 1819. 8.8.8.8.8.8.8
 
 # 1.
 O, drag mig, Herre, efter Dig,
@@ -9274,8 +8688,7 @@ Så skall jag löpa glad din väg;
 Med nådens ord hugsvala mig
 Och om din kärlek städs’ tillsäg.
 På Dig jag lägger bördan min
-Och vet, Du bär den såsom din,
-Och vet, Du bär den såsom din.
+|: Och vet, Du bär den såsom din. :|
 
 # 2.
 Vad har jag icke fått i Dig:
@@ -9283,8 +8696,7 @@ Mitt ljus om natt, min sol om dag,
 Min källa på min ökenstig,
 Mitt bröd, min kraft, när jag är svag,
 Min frid, min fröjd, min härlighet,
-Min sköld och min rättfärdighet!
-Min sköld och min rättfärdighet!
+|: Min sköld och min rättfärdighet! :|
 
 # 3.
 Din kärlek oföränderlig
@@ -9292,22 +8704,18 @@ Mig städs’ med nåd omgivit har,
 Och innan hjärtat slog i mig,
 Din ömma tanke på mig var;
 Ack, må den tid, jag vandrar här,
-Jag följa Dig, min Herre kär!
-Jag följa Dig, min Herre kär!
+|: Jag följa Dig, min Herre kär! :|
 
 ---
 
 ## Sång 261
-
-> Text: Anonym, 1916. Musik: Triumph av Henry J. Gauntlett, 1852. 8.7.8.7.4.4.7
 
 # 1.
 Trogne Frälsare, nu led oss
 Genom detta torra land!
 Vi är’ svaga, Du är mäktig,
 Uppehåll oss med din hand.
-Bröd från himlen,
-Bröd från himlen,
+|: Bröd från himlen, :|
 Föd oss på vår ökenstig!
 
 # 2.
@@ -9315,8 +8723,7 @@ Föd oss på vår ökenstig!
 Hälsans ström där väller ut.
 Såsom med den molnstod höga
 Led Du oss till resans slut!
-Stark och mäktig
-Stark och mäktig
+|: Stark och mäktig :|
 Du är själv vår kraft och sköld.
 
 # 3.
@@ -9324,15 +8731,12 @@ Medan vi i öknen vandra,
 Håll oss ständigt nära Dig,
 Du som är vår frälsningsklippa
 Och vår borg evinnerlig!
-Trofast är Du,
-Trofast är Du,
+|: Trofast är Du, :|
 Tålig, oföränderlig.
 
 ---
 
 ## Sång 262
-
-> Text: Anonym, 1916. Musik: Guds trofasthet, anonym, 1880. 4.4.7 D
 
 # 1.
 Är du i nöd,
@@ -9386,43 +8790,33 @@ Ljuset ännu vid griften.
 
 ## Sång 263
 
-> Text: Anonym, 1916. Musik: Jesus of Nazareth passeth by av Theodore E. Perkins, 1871. 8.8.8.8 D
-
 # 1.
 Vår Fader, hur omätligt stor
 Din kärlek till oss alla är!
 Vad tanke mäktar den förstå,
 Vad tunga den förklara här?
-Din Son, som all din glädje var,
-Till offer Du utgivit har.
-Din Son, som all din glädje var,
-Till offer Du utgivit har.
+|: Din Son, som all din glädje var,
+Till offer Du utgivit har. :|
 
 # 2.
 Hur ljuvlig Herre är din väg;
 Du nådigt i ditt rike styr,
 Sorg, ängslan, omsorg vika bort,
 Och fruktan i din närhet flyr.
-Du rikligt mättar ock vår själ,
-Du själv, o Herre, är vår del.
-Du rikligt mättar ock vår själ,
-Du själv, o Herre, är vår del.
+|: Du rikligt mättar ock vår själ,
+Du själv, o Herre, är vår del. :|
 
 # 3.
 I striden är Du städs’ vår frid,
 I svagheten vårt stöd, vår makt,
 Vår starkhet intill färdens slut,
 Och när Du kommer, som Du sagt,
-Du evigt skall i himlens höjd,
-O Jesus, vara all vår fröjd.
-Du evigt skall i himlens höjd,
-O Jesus, vara all vår fröjd.
+|: Du evigt skall i himlens höjd,
+O Jesus, vara all vår fröjd. :|
 
 ---
 
 ## Sång 264
-
-> Text: Efter *A holy Father’s constant care* av John N. Darby, 1882. Musik: The shadow of his wings av Charles Leflaive, 1938. 10.10.10.10
 
 # 1.
 En helig Fader i sin omsorg här
@@ -9452,8 +8846,6 @@ Tills de med Honom i hans himmel bor.
 
 ## Sång 265
 
-> Text: Anonym, 1916. Musik: Treue Liebe, anonym, 1780. 8.8.8 D
-
 # 1.
 Fast i en värld av synd och strid,
 Vi njuta få en salig frid.
@@ -9481,8 +8873,6 @@ Och vi få evigt hos Dig bo.
 ---
 
 ## Sång 266
-
-> Text: Efter *Dans ce désert aride* av William-Joseph Lowe, 1927. Musik: Jerusalem the Golden av Alexander Ewing, 1853. 6.6.8.6 D
 
 # 1.
 I denna öde värld
@@ -9528,8 +8918,6 @@ Och når din härlighet.
 
 ## Sång 267
 
-> Text: Lina Sandell, 1875, bearb. 1916. Musik: Var jag går, anonym, 1868. 10.9.10.9 D
-
 # 1.
 Som Guds Israel i forna dagar
 Må vi ledas blott av Herrens ord!
@@ -9574,8 +8962,6 @@ Och Han själv oss bli allt mera kär!
 
 ## Sång 268
 
-> Text: Efter *Our times are in Thy hand* av William F. Lloyd, 1824. Musik: Ferguson av George Kingsley, 1843. 6.6.8.6
-
 # 1.
 Vår tid är i din hand,
 Hur skönt det, Fader, är,
@@ -9616,8 +9002,6 @@ Och se din härlighet.
 
 ## Sång 269
 
-> Text: Efter *Saviour, I follow on* av Charles S. Robinson, 1862. Övers. Fredrik Engelke, 1883. Musik: Bethany av Lowell Mason, 1856. 6.4.6.4.6.6.6.4
-
 # 1.
 Frälsare, tag min hand,
 Fostra mig så,
@@ -9652,8 +9036,6 @@ Mera därtill!
 
 ## Sång 270
 
-> Text: Efter *Giv mig den frid som du, o Jesus, giver* av Lina Sandell, 1879, bearb. 1916, insp. från *A Little While* av Jane Crewdson, 1860. Musik: O For The Peace That Floweth As A River av Ira D. Sankey, 1876. 11.10.11.10
-
 # 1.
 Hur djup den frid, som Du, o Jesus, giver,
 Den frid, som ljuvligt stillar varje strid,
@@ -9681,8 +9063,6 @@ Att hava makt och ära, endast Du!”
 ---
 
 ## Sång 271
-
-> Text: Efter *Peace, perfect peace, in this dark world of sin?* av Edward H. Bickersteth, 1875. Musik: Pax Tecum av George T. Caldbeck, 1878. 10.10
 
 # 1.
 Frid, verklig frid, bland jordens synd och strid?
@@ -9716,8 +9096,6 @@ Och Jesus kallar oss till evig frid.
 
 ## Sång 272
 
-> Text: Efter *There is rest for the weary soul* av John N. Darby, 1882. Musik: There is rest av C. T. Lambert, 1925. 8.8.11.8
-
 # 1.
 Det finns ro i den kärlek öm,
 Som har vandrat vår ökenstig,
@@ -9745,8 +9123,6 @@ Där vårt saliga mål vi nå.
 ---
 
 ## Sång 273
-
-> Text: Efter *I heard the voice of Jesus say* av Horatius Bonar, 1846. Musik: Day of Rest av James W. Elliott, 1875. 7.6.7.6 D
 
 # 1.
 Jag hörde Jesus säga:
@@ -9781,8 +9157,6 @@ Lik middagssolen klar.
 ---
 
 ## Sång 274
-
-> Text: Efter *What cheering words are these!* av John Kent, 1810. Musik: Rhodes av Charles W. Jordan, 1875. 6.6.8.6
 
 # 1.
 Vad tröst det ger var själ,
@@ -9830,8 +9204,6 @@ De Honom möta få!
 
 ## Sång 275
 
-> Text: Anonym, 1916. Musik: Wie groß ist des Allmächt’gen Güte! av Johann A. Freylinghausen, 1704. 9.8.9.8 D
-
 # 1.
 O Du, som gav ditt liv för fåren,
 Om nåd och kraft vi bedja Dig
@@ -9846,8 +9218,6 @@ Till härlighet i Fadrens hus!
 
 ## Sång 276
 
-> Text: Anonym, 1916. Musik: Ack, Saliga Stunder av Oscar Ahnfelt, 1851. 11.11.11.12.11
-
 # 1.
 O Jesus, vår Herre, bliv när oss allt fort,
 Och sköt oss och bär oss, som alltid Du gjort!
@@ -9858,8 +9228,6 @@ Lov, pris, tack och ära Guds heliga Lamm!
 ---
 
 ## Sång 277
-
-> Text: Efter *It is not with uncertain step* av John N. Darby, 1881. Musik: Crediton av Thomas Clark, 1810. 8.6.8.6
 
 # 1.
 Det är ej med osäkra steg
@@ -9895,8 +9263,6 @@ Som giver hjärtat ro.
 
 ## Sång 278
 
-> Text: Anonym, 1916, insp. av *The glory shines before me!* av Hannah K. Burlingham, 1901. Musik: The glory shines av S. M. W., 1920. 7.6.7.6.8.6.7.6
-
 # 1.
 Se, härligheten strålar
 Ned på min vandringsstig,
@@ -9930,8 +9296,6 @@ Från fadershuset klart.
 ---
 
 ## Sång 279
-
-> Text: Efter *O Lord, how blest our journey* av Mary Peters, 1856. Musik: Confidence, anonym, 1903. 7.6.7.6 D
 
 # 1.
 Hur sällt det är, o Herre,
@@ -9977,8 +9341,6 @@ Och att hos Dig få vara
 
 ## Sång 280
 
-> Text: Susan C. Hedman, 1916. Musik: Beneath the cross of Jesus av Ira D. Sankey, 1875. 7.6.7.6.8.6.7.6
-
 # 1.
 Ej se vi allting ännu
 Vår Herre underlagt,
@@ -10023,8 +9385,6 @@ Din glädje redan här.
 
 ## Sång 281
 
-> Text: Anonym, 1916. Musik: Beautiful valley of Eden av William F. Sherwin, 1878. 8.6.8.6 (8.6.9.7)
-
 # 1.
 Vila i hemmet hos Herren,
 Fjärran från kamp och strid,
@@ -10065,8 +9425,6 @@ Dagligen mer och mer.
 
 ## Sång 282
 
-> Text och musik: Efter *Lieblich ist’s, bei Dir zu wohnen* av Wilhelm Brockhaus, 1888. 8.7.8.7.8.8.7.7
-
 # 1.
 Ljuvligt blir hos Dig att vara,
 Herre, i din Faders hus,
@@ -10074,8 +9432,7 @@ Där Du re’n bland änglars skara
 Tronar uti himlens ljus.
 Snart Du kommer att oss föra
 Hem till Dig och lyckliggöra.
-O vad fröjd det bliva skall!
-O vad fröjd det bliva skall!
+|: O vad fröjd det bliva skall! :|
 
 # 2.
 Vad ej öra har förnummit,
@@ -10084,8 +9441,7 @@ Vad ej mänskohjärta funnit,
 Gud de sina har berett.
 Anden det för oss förklarar,
 Och för tron Han uppenbarar,
-Vad i Kristus oss är skänkt.
-Vad i Kristus oss är skänkt.
+|: Vad i Kristus oss är skänkt. :|
 
 # 3.
 Genom nåd en pilgrimsskara,
@@ -10094,8 +9450,7 @@ Men hos Dig vi snart få vara,
 Se Dig, Jesus, som Du är.
 Du hos Gud för oss framträder,
 Medan Anden här oss leder
-Hemåt till vårt fadersland.
-Hemåt till vårt fadersland.
+|: Hemåt till vårt fadersland. :|
 
 # 4.
 Snart, o Herre, skall Du komma,
@@ -10104,14 +9459,11 @@ Där med alla dina fromma,
 Vi få skåda glansen din
 Och med glad och ledig tunga
 Evigt pris och ära sjunga
-Dig, som så oss älskat har.
-Dig, som så oss älskat har.
+|: Dig, som så oss älskat har. :|
 
 ---
 
 ## Sång 283
-
-> Text: Efter *This world is a wilderness wide* av John N. Darby, 1849. Musik: Adelaide av George C. Stebbins, 1907. 9.9.9.9
 
 # 1.
 Denna värld är en ödemark vid,
@@ -10159,8 +9511,6 @@ Till Dig själv i ditt himmelska hem.
 
 ## Sång 284
 
-> Text: Johan Olof Wallin, 1816, bearb. 1916. Musik: Eisenach av Bartholomäus Gesius, 1605, arr. Johann H. Schein, 1628. 8.7.8.7.8.8
-
 # 1.
 Till härlighetens land igen
 Vi sett Dig, Jesus, fara;
@@ -10189,8 +9539,6 @@ I detta hoppet glädjas vi!
 
 ## Sång 285
 
-> Text: Maria Carlsson, 1939. Musik: Milites av William H. Monk, 1889. 12.9.12.9
-
 # 1.
 De rättfärdigas stig är lik gryningens ljus,
 Vilket växer i klarhet allt mer,
@@ -10212,8 +9560,6 @@ Då hans ansikte skåda vi få.
 ---
 
 ## Sång 286
-
-> Text: Anonym, 1916. Musik: Welwyn av Alfred Scott-Gatty, 1902. 11.10.11.10
 
 # 1.
 Snart skola jordens alla strider sluta,
@@ -10242,8 +9588,6 @@ Och giva jordens folk sin frid och ro.
 ---
 
 ## Sång 287
-
-> Text: Efter *One sweetly solemn thought* av Phoebe Cary, 1852. Övers. anonym, 1903, bearb. 1916. Musik: One sweetly solemn thought av Philip Phillips, 1876. 6.6.8.6 (9.9.6)
 
 # 1.
 Hur ljuvligt mången gång
@@ -10277,8 +9621,6 @@ Sin återlösta brud.
 ---
 
 ## Sång 288
-
-> Text: Anonym, 1916. Musik: In the Presence of the King, anonym, 1875. 7.6.8.7.8.8.7.7
 
 # 1.
 O, att lik Kristus vara
@@ -10324,8 +9666,6 @@ Under färden hem till Gud.
 
 ## Sång 289
 
-> Text: H. Malmberg, 1916. Musik: A. S-g., 1928. 8.8.7 D
-
 # 1.
 Vilket djup av evig rikdom
 I Guds kunskap, kraft och visdom,
@@ -10370,8 +9710,6 @@ Dig att skåda som Du är!
 
 ## Sång 290
 
-> Text: Anonym, 1916, bearb. 2025. Musik: Intercessor av C. Hubert H. Parry, 1918. 11.11.11.10
-
 # 1.
 Du, som av nåd kunnat kalla oss vänner,
 Är mitt ibland oss, vart hjärta Du känner.
@@ -10399,8 +9737,6 @@ Känna mer din nåd, allt ditt kärleksråd.
 ---
 
 ## Sång 291
-
-> Text: Anonym, 1916. Musik: Dursley, anonym, 1929. 8.8.8.8
 
 # 1.
 Vår Herre, fast fjärran, dock när,
@@ -10436,8 +9772,6 @@ Som själv är vårt liv och vårt hopp.
 
 ## Sång 292
 
-> Text: Anonym, 1916. Musik: Silchester av César Malan, 1864. 6.6.8.6
-
 # 1.
 Snart få vi bo hos Dig,
 Vår Jesus, där Du är;
@@ -10459,8 +9793,6 @@ En outsäglig ro.
 ---
 
 ## Sång 293
-
-> Text: Efter *Sel’ge Hoffnung! Du kommst wieder* av Carl Brockhaus, 1899. Musik: Sel'ge Hoffnung! Du kommst wieder av Johann G. Bässler, 1806. 8.7.8.7.7.7
 
 # 1.
 Sälla hopp, Du kommer åter,
@@ -10498,8 +9830,6 @@ Tills vi livets krona få!
 
 ## Sång 294
 
-> Text: Efter *A little while, our Lord shall come* av James G. Deck, 1841. Musik: He leadeth me av William B. Bradbury, 1864. 8.8.8 D
-
 # 1.
 En liten tid! Så kommer Han,
 Som komma skall, och för oss hem
@@ -10536,8 +9866,6 @@ Och skåda städs’ ditt ansikte.
 
 ## Sång 295
 
-> Text: Efter *’Tis not far off* av Hannah K. Burlingham, 1881. Musik: Solyma av George Tredcroft, 1903. 6.6.8.6
-
 # 1.
 Ej fjärran är den stund,
 När Herren komma skall
@@ -10572,8 +9900,6 @@ Må Dig till mötes gå!
 
 ## Sång 296
 
-> Text: Anonym, 1916. Musik: Se ej till skummande vinet i bägarn, anonym, 1914. 11.11 (12.5.5)
-
 # 1.
 Herre, ditt anlet’ Du döljer ej för mig,
 Om än ej klart genom molnen jag ser Dig.
@@ -10594,8 +9920,6 @@ Nöjd med att äga Dig Herre allena.
 ---
 
 ## Sång 297
-
-> Text: Maria Carlsson, 1939. Musik: St Magnus av Jeremiah Clarke, 1707. 8.6.8.6
 
 # 1.
 Vi längta, Herre, se Dig snart
@@ -10624,8 +9948,6 @@ Blir varje själs åtrå.
 ---
 
 ## Sång 298
-
-> Text: Efter *Lord Jesus, come, and take Thy rightful place* av Caroline Dent, 1854. Musik: Schlaf, Kindlein, Schlaf av Louise Reichardt, 1826. 4.6.8.8.4
 
 # 1.
 O Herre, kom
@@ -10658,8 +9980,6 @@ Ja, Herre, kom!
 ---
 
 ## Sång 299
-
-> Text och musik: Gustaf Gustafsson, 1916. 8.5.8.5 D
 
 # 1.
 Herren kommer! Helgon höjen
@@ -10705,15 +10025,12 @@ Genom skyarne.
 
 ## Sång 300
 
-> Text: Anonym, 1916. Musik: O, put on thy beautiful garments av Clarence E. Hunter, 1900. 9.8.9.8.9.9.9.8
-
 # 1.
 Snart Jesus, vår Herre, skall komma
 Att hämta till himlen sin brud;
 Då skola med alla hans fromma
 Vi evigt få vara hos Gud
-Och där med en jublande tunga
-Och där med en jublande tunga
+|: Och där med en jublande tunga :|
 Hans kärlek och trohet besjunga,
 Som troget ledsagat oss hem.
 
@@ -10722,8 +10039,7 @@ Hur sällt uti skyn att få möta
 Vår Herre och Brudgum så kär,
 Som lovat omhulda och sköta
 Och helga församlingen här.
-Med Lammet skall bröllopet firas
-Med Lammet skall bröllopet firas
+|: Med Lammet skall bröllopet firas :|
 Och bruden av Herren utsiras
 I snövit rättfärdighetsskrud.
 
@@ -10732,16 +10048,13 @@ Ack saliga dag, snart du komme
 Och lyse var längtande själ!
 I hoppet nu fröjdens i fromme,
 Ty Herren skall göra allt väl!
-Till hemmet Han säkert oss förer,
-Till hemmet Han säkert oss förer,
+|: Till hemmet Han säkert oss förer, :|
 Och snart bland de heligas körer
 Vi evigt få sjunga hans pris.
 
 ---
 
 ## Sång 301
-
-> Text: Anonym, 1916. Musik: Wie Schön Leuchtet av Philipp Nicolai, 1599. 8.8.7.8.8.7.8.4.4.8
 
 # 1.
 Snart morgonstjärnan skall gå opp,
@@ -10783,8 +10096,6 @@ Och med tack och lov framträda.
 
 ## Sång 302
 
-> Text: M. F. Lindberg, 1916 (v. 1 till 3) och efter *O kindle within us holy desire* av Thomas Kelly, 1855 (v. 4). Musik: O Sälla Land av Oscar Ahnfelt, 1882. 11.10.11.10
-
 # 1.
 Lyft blicken upp och skåda emot höjden,
 Snart uppgår morgonstjärnan ljus och klar!
@@ -10813,15 +10124,12 @@ Din kärlek klart i deras hjärtan brann!
 
 ## Sång 303
 
-> Text: Efter *Lo! He comes with clouds descending* av Charles Wesley, 1788. Musik: Regent Square av Henry T. Smart, 1866. 8.7.8.7.4.4.7
-
 # 1.
 Se, med skyar Han nedstiger,
 Han som korsfäst blev en gång!
 Frälsta skaror Honom följa,
 Ära ge med segersång,
-Halleluja!
-Halleluja!
+|: Halleluja! :|
 Jubla evigheten lång.
 
 # 2.
@@ -10829,8 +10137,7 @@ Israel skall Honom skåda
 Full av nåd och majestät,
 Se Guds Son, som de förkastat
 Hånat, slagit, hängt på trät
-Sin Messias
-Sin Messias
+|: Sin Messias :|
 De i ärans glans nu se.
 
 # 3.
@@ -10838,8 +10145,7 @@ Se, de märken efter spikar
 Han i härligheten bär;
 Ämnet för en full tillbedjan
 Återlösningsverket är,
-Halleluja!
-Halleluja!
+|: Halleluja! :|
 Gud åt Lammet lön beskär.
 
 # 4.
@@ -10847,15 +10153,12 @@ Gud åt Lammet lön beskär.
 ”Kom”, så säger ock din brud.
 Komma skall Du, Herre Jesus,
 Klädd i härlighetens skrud,
-Du har vunnit
-Du har vunnit
+|: Du har vunnit :|
 Evig ära åt din Gud.
 
 ---
 
 ## Sång 304
-
-> Text: Efter *In hope we lift our wishful, longing eyes* av James G. Deck, 1881. Musik: Ellers av Edward J. Hopkins, 1869. 10.10.10.10
 
 # 1.
 I hoppet längtans blickar lyfta vi,
@@ -10885,8 +10188,6 @@ En djup enstämmig hyllning åt Guds Lamm!
 
 ## Sång 305
 
-> Text: Efter *I’m waiting for Thee, Lord* av John N. Darby, 1881. Musik: Waiting, anonym, 1903. 13.11.13.11
-
 # 1.
 O Herre, att vara hos Dig, för alltid Dig lik,
 Så nära Dig själv, när Du kommer igen!
@@ -10908,8 +10209,6 @@ Ty, Herre, Du själv har då kommit igen.
 ---
 
 ## Sång 306
-
-> Text: Efter *Hail to the Lord’s Anointed* av James Montgomery, 1821. Musik: Lymington av Robert Jackson, 1882. 7.6.7.6 D
 
 # 1.
 Hell vare Herrens Smorde,
@@ -10965,8 +10264,6 @@ Vars namn förutan ända
 
 ## Sång 307
 
-> Text: Anonym, 1916, bearb. 2025. Musik: Beverkey av William H. Monk, 1875. 8.7.8.8.7.7.7.7.7
-
 # 1.
 Du skall komma, och vi hasta
 Till ditt möte, Herre kär,
@@ -11004,8 +10301,6 @@ Skall i Dig sin konung se!
 
 ## Sång 308
 
-> Text: Anonym, 1916. Musik: Laus patri av Arthur Wells, 1900. 11.10.11.10
-
 # 1.
 Du kommer snart, vår store Frälsningshövding,
 Du som till härlighet en skara för;
@@ -11034,8 +10329,6 @@ Det fröjdar Dig vårt hjärtas svar att höra:
 
 ## Sång 309
 
-> Text: Efter *What will it be to dwell above* av Joseph Swain, 1796. Musik: Melita av John B. Dykes, 1861. 8.8.8 D
-
 # 1.
 Vad skall det bli, o Herre kär,
 Med Dig regera, hos Dig bo,
@@ -11063,8 +10356,6 @@ Dig ansikte mot ansikte.
 ---
 
 ## Sång 310
-
-> Text: Efter *Hark! Ten thousand voices crying* av John N. Darby, 1835. Musik: Stuttgart av Christian F. Witt, 1715. 8.7.8.7
 
 # 1.
 Hör, millioners sälla skara
@@ -11106,8 +10397,6 @@ Huru de lovsjunga där!
 
 ## Sång 311
 
-> Text: Laurentius Laurinus, 1622 och anonym, 1651, bearb. 1695, bearb. Johan Åström, 1816, bearb. 1916. Musik: Skattungbyn, anonym, 1914, arr. T. B., 2024. 8.6.8.6.8.8.6
-
 # 1.
 I himmelen, i himmelen,
 Där Gud vår Fader bor,
@@ -11148,8 +10437,6 @@ Vår Herre Jesus Krist!
 
 ## Sång 312
 
-> Text: Efter *Rest of the saints above* av John N. Darby, 1845. Musik: Trentham av Robert Jackson, 1878. 6.6.8.6
-
 # 1.
 Jerusalem, Guds stad,
 I tron vi skåda dig.
@@ -11189,8 +10476,6 @@ Guds hemlighet däri.
 ---
 
 ## Sång 313
-
-> Text: Efter *O bright and blessed scenes* av John N. Darby, 1867. Musik: Summerfield, anonym, 1929. 6.6.8.6
 
 # 1.
 O vilken salig värld,
@@ -11244,8 +10529,6 @@ Det, som blir snart vår del.
 
 ## Sång 314
 
-> Text: Efter *En morgon utan synd jag vakna får* av Charlotte Tibell, 1862, bearb. Erik Nyström, 1894. Musik: En morgon utan synd av Gustaf G. Lewenhaupt, 1862. 10.11.10.11
-
 # 1.
 En morgon skön och härlig vänta vi,
 En morgon glad hos Frälsaren där hemma,
@@ -11280,49 +10563,33 @@ En evig ro oss Herren Jesus vunnit.
 
 ## Sång 315
 
-> Text: Efter *What rich eternal bursts of praise* av George W. Frazer, 1896. Musik: Come, comrades dear, anonym, 1880. 8.8.6.6.8.8.6.6.8.6
-
 # 1.
 O vilket mäktigt lov en gång
 Skall fylla himlens salar mång,
-När tiden är förbi!
-När tiden är förbi!
+|: När tiden är förbi! :|
 När alla frälsta, en och var,
-Tar del i sången underbar
-Om Jesu kärlek fri,
-Om Jesu kärlek fri.
-Tar del i sången underbar
-Om Jesu kärlek fri.
+|: Tar del i sången underbar
+|: Om Jesu kärlek fri. :|:|
 
 # 2.
 Envar lik Frälsaren då är,
 Envar då kunglig krona bär
-Och vit, otadlig skrud.
-Och vit, otadlig skrud.
+|: Och vit, otadlig skrud. :|
 En evig sång då höjer sig
-Till Dig, Guds dyra Lamm, till Dig,
-I ljusets värld hos Gud.
-I ljusets värld hos Gud.
-Till Dig, Guds dyra Lamm, till Dig,
-I ljusets värld hos Gud.
+|: Till Dig, Guds dyra Lamm, till Dig,
+|: I ljusets värld hos Gud. :|:|
 
 # 3.
 Hos Dig vår fröjd ej hindras mer,
 Din härlighet vi klart då ser
-Och hyllning Dig hembär.
-Och hyllning Dig hembär.
+|: Och hyllning Dig hembär. :|
 Den ljusa dag vi vänta nu,
-Då vi av hjärtat sjunga: Du,
-O Herre, värdig är!
-O Herre, värdig är!
-Då vi av hjärtat sjunga: Du,
-O Herre, värdig är!
+|: Då vi av hjärtat sjunga: Du,
+|: O Herre, värdig är! :|:|
 
 ---
 
 ## Sång 316
-
-> Text: Maria Carlsson, 1916. Musik: St. Crispin av George J. Elvey, 1862. 8.8.8.8
 
 # 1.
 Vad skall det bli hos Gud en dag
@@ -11358,34 +10625,27 @@ Med blicken riktad på Guds Lamm.
 
 ## Sång 317
 
-> Text: Efter *High In The Father's House Above* av John G. Deck, 1856. Musik: Rest av Frederick C. Maker, 1887. 8.6.8.8.6
-
 # 1.
 Högt ovan i vår Faders hus
 Vår boning tillredd är;
-Där är vårt hem, vår stora lön,
-Där är vårt hem, vår stora lön,
+|: Där är vårt hem, vår stora lön, :|
 Vår Jesus Han är där.
 
 # 2.
 Hos Honom snart vi skina få
 Uti vår vita skrud;
-Hans närhet ständigt hugna skall
-Hans närhet ständigt hugna skall
+|: Hans närhet ständigt hugna skall :|
 Hans dyrt förvärvda brud.
 
 # 3.
 Vart spår av synd då borta är
 Med allt som stört vår ro,
-Och hemma hos Guds älskade
-Och hemma hos Guds älskade
+|: Och hemma hos Guds älskade :|
 Vi skola evigt bo.
 
 ---
 
 ## Sång 318
-
-> Text: Efter *How blest a home, the Father’s house* av Janetta W. Trench, 1881. Musik: The Home av Miss S. M. Walker, 1918. 8.6.8.6 D
 
 # 1.
 O vilket hem, vår Faders hus,
@@ -11420,8 +10680,6 @@ I kärlek utan mått.
 ---
 
 ## Sång 319
-
-> Text: Anonym, 1916. Musik: Vassar av George C. Gow, 1891. 8.8.7.8.8.8.7
 
 # 1.
 O, huru ljuv den tanken är
@@ -11463,8 +10721,6 @@ Lov, härlighet och ära!
 
 ## Sång 320
 
-> Text: Anonym, 1916. Musik: St Magnus av Jeremiah Clarke, 1707. 8.6.8.6
-
 # 1.
 Vår Jesus, Du som själv är Gud,
 Är makt och ära värd,
@@ -11493,8 +10749,6 @@ Men glädjen är blott en.
 
 ## Sång 321
 
-> Text: Efter *Come, Thou long expected Jesus!* av Charles Wesley, 1744. Musik: We are watching, we are waiting av George F. Root, 1895. 8.7.8.7 D
-
 # 1.
 Kom! Så höres Anden säga,
 Kom! Så säger ock din brud.
@@ -11508,8 +10762,6 @@ Halleluja, Herre, kom!
 ---
 
 ## Sång 322
-
-> Text: Efter en tysk hymn av Daniel Otsing, 1917. Musik: Staples av Robert G. Staples, 1880. 9.7.9.7 D
 
 # 1.
 O kom, Herre Jesus, vi vänta

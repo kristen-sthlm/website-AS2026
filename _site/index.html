@@ -19,7 +19,10 @@
     
 <div class="index-page">
   <header class="index-masthead">
-    <a href="/website-AS2026/" class="index-masthead-title">Andliga Sånger</a>
+    <a href="/website-AS2026/" class="index-masthead-title">
+      <span class="masthead-title-main">Andliga Sånger</span>
+      <span class="masthead-title-sub">Den digitala utgåvan</span>
+    </a>
 
     <details class="menu" id="index-menu">
       <summary class="menu-trigger" aria-label="Mer information">
@@ -54,18 +57,17 @@
     </details>
   </header>
 
-  <p class="intro">Den digitala utgåvan av sångboken <em>Andliga Sånger</em>, utgiven av Kristen Vandring.</p>
-
   <blockquote class="epigraph">
     <p>Är någon glad, skall han sjunga lovsånger.</p>
     <cite>Jakobs brev 5:13</cite>
   </blockquote>
 
-  <div class="search-wrapper">
-    <input type="search" id="search" placeholder="Sök…" autocomplete="off" inputmode="search">
-  </div>
+  <div class="index-toolbar">
+    <div class="search-wrapper">
+      <input type="search" id="search" placeholder="Sök…" autocomplete="off" inputmode="search">
+    </div>
 
-  <div class="controls">
+    <div class="controls">
     <div class="segmented" data-control="sort" role="group" aria-label="Sortera">
       <button type="button" class="seg-btn is-active" data-value="number" aria-label="Sortera efter nummer" title="Sortera efter nummer">#</button>
       <button type="button" class="seg-btn" data-value="alpha" aria-label="Sortera alfabetiskt" title="Sortera alfabetiskt">A–Ö</button>
@@ -85,6 +87,7 @@
         </svg>
       </button>
     </div>
+  </div>
   </div>
 
   <table class="hymn-index" id="hymn-index">
@@ -93166,13 +93169,24 @@
   
 
   <footer class="site-footer">
-    <nav class="footer-links" aria-label="Webbplatsinformation">
-      <a href="/website-AS2026/about/">Om</a>
-      <a href="/website-AS2026/license/">Licens</a>
-      <a href="/website-AS2026/privacy/">Integritet</a>
-      <a href="/website-AS2026/legal/">Rättsligt</a>
-      <a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Kontakt ↗</a>
-    </nav>
+    <div class="footer-columns">
+      <div class="footer-col">
+        <h2 class="footer-col-title">Om sångboken</h2>
+        <ul class="footer-list">
+          <li><a href="/website-AS2026/about/">Om projektet</a></li>
+          <li><a href="/website-AS2026/license/">Licens</a></li>
+          <li><a href="/website-AS2026/privacy/">Integritet</a></li>
+          <li><a href="/website-AS2026/legal/">Rättsligt</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2 class="footer-col-title">Kontakt</h2>
+        <ul class="footer-list">
+          <li><a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Kontaktformulär ↗</a></li>
+          <li><a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Rapportera fel ↗</a></li>
+        </ul>
+      </div>
+    </div>
     <p class="footer-meta">
       <span>Andliga Sånger</span>
       <span class="footer-sep">·</span>

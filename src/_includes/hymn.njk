@@ -47,7 +47,18 @@ layout: base.njk
         </span>
       {% endif %}
 
-      <div class="hymn-number-large">{{ hymnnumber }}</div>
+      <input
+        type="number"
+        class="hymn-number-large"
+        value="{{ hymnnumber }}"
+        min="1"
+        max="{{ collections.hymns.length }}"
+        inputmode="numeric"
+        pattern="[0-9]*"
+        aria-label="Gå till sång"
+        data-target="text"
+        data-lang="{{ lang }}"
+      >
 
       {% if nextHymn and nextHymn.languages[lang] %}
         <a href="{{ nextHymn.languages[lang].url | url }}" class="nav-arrow" aria-label="Nästa sång ({{ nextHymn.number }})" title="Nästa">
@@ -143,7 +154,4 @@ layout: base.njk
     <p class="hymn-footnote">{{ svData.footnote | inlineMarkdown | safe }}</p>
   {% endif %}
 
-  <p class="hymn-report">
-    <a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">{{ t.reportProblem or 'Rapportera ett problem' }} ↗</a>
-  </p>
 </article>

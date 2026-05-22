@@ -1661,7 +1661,18 @@
         </a>
       
 
-      <div class="hymn-number-large">14</div>
+      <input
+        type="number"
+        class="hymn-number-large"
+        value="14"
+        min="1"
+        max="322"
+        inputmode="numeric"
+        pattern="[0-9]*"
+        aria-label="Gå till sång"
+        data-target="text"
+        data-lang="ar"
+      >
 
       
         <a href="/website-AS2026/hymns/015-ar/" class="nav-arrow" aria-label="Nästa sång (15)" title="Nästa">
@@ -3058,25 +3069,34 @@
     <p class="hymn-footnote">Text: Efter <em>Brightness of the eternal glory</em> av Robert Robinson, 1790. Musik: Bartimeus av Stephen Jenks, 1799. 8.7.8.7</p>
   
 
-  <p class="hymn-report">
-    <a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">الإبلاغ عن مشكلة ↗</a>
-  </p>
 </article>
 
   </main>
 
   
     <script type="module" src="/website-AS2026/assets/player.js"></script>
+    <script type="module" src="/website-AS2026/assets/hymn-jump.js"></script>
   
 
   <footer class="site-footer">
-    <nav class="footer-links" aria-label="Webbplatsinformation">
-      <a href="/website-AS2026/about/">Om</a>
-      <a href="/website-AS2026/license/">Licens</a>
-      <a href="/website-AS2026/privacy/">Integritet</a>
-      <a href="/website-AS2026/legal/">Rättsligt</a>
-      <a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Kontakt ↗</a>
-    </nav>
+    <div class="footer-columns">
+      <div class="footer-col">
+        <h2 class="footer-col-title">Om sångboken</h2>
+        <ul class="footer-list">
+          <li><a href="/website-AS2026/about/">Om projektet</a></li>
+          <li><a href="/website-AS2026/license/">Licens</a></li>
+          <li><a href="/website-AS2026/privacy/">Integritet</a></li>
+          <li><a href="/website-AS2026/legal/">Rättsligt</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2 class="footer-col-title">Kontakt</h2>
+        <ul class="footer-list">
+          <li><a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Kontaktformulär ↗</a></li>
+          <li><a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Rapportera fel ↗</a></li>
+        </ul>
+      </div>
+    </div>
     <p class="footer-meta">
       <span>Andliga Sånger</span>
       <span class="footer-sep">·</span>

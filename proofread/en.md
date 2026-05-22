@@ -1,6 +1,6 @@
 # Andliga Sånger — English translation
 
-*Genererat 2026-05-04 från 322 sånger.*
+*Genererat 2026-05-22 från 322 sånger.*
 
 ---
 
@@ -266,8 +266,7 @@ That moved Thee freely to give
 Thy Son for us,
 To bear all our judgment?
 Only love prompted Thee to give
-For us Thy Son, Thy Beloved.
-For us Thy Son, Thy Beloved.
+|: For us Thy Son, Thy Beloved. :|
 
 # 2.
 Why did Thy Son come
@@ -275,8 +274,7 @@ From heaven down and take
 Upon Him all our sin,
 And patiently suffer and die?
 Infinite love constrained Him,
-When He was crucified here for us.
-When He was crucified here for us.
+|: When He was crucified here for us. :|
 
 # 3.
 What love, thanks and praise,
@@ -284,8 +282,7 @@ O God, Thou art worthy of
 For all the rich grace
 Thou hast shown us here!
 Teach us to know more of Thy grace,
-Thy love’s wondrous counsel.
-Thy love’s wondrous counsel.
+|: Thy love’s wondrous counsel. :|
 
 ---
 
@@ -1166,14 +1163,10 @@ Lord, behold Thy little company,
 Gathered to break bread!
 Help us to be still before Thee,
 As we here remember Thy death.
-Help us to be still before Thee,
-As we here remember Thy death.
 
 # 2.
 This death, which has revealed
 The Father’s love in its height,
-Who spared not His only Son,
-That we might share His joy,
 Who spared not His only Son,
 That we might share His joy.
 
@@ -1182,14 +1175,10 @@ Share the Father’s joy in the Son,
 Now exalted and richly rewarded.
 Lord Jesus, we behold Thee
 With all power and glory crowned.
-Lord Jesus, we behold Thee
-With all power and glory crowned.
 
 # 4.
 Yet Thou art not ashamed to call us
 Thy brethren before God,
-And in our weak hearts
-Thou Thyself dost raise the sound of praise,
 And in our weak hearts
 Thou Thyself dost raise the sound of praise.
 
@@ -2196,9 +2185,7 @@ The heart’s homage to Thee we bear,
 God’s only begotten, precious Son.
 Thee we praise,
 Thee we worship,
-Laud Thee in united tone,
-(united tone)
-Laud Thee in united tone.
+|: Laud Thee in united tone. :|
 
 # 2.
 Lord of life! Unto death obedient
@@ -2207,9 +2194,7 @@ Thou, who to Thy Father’s heart
 Wast a perfect joy.
 Thee we revere,
 Thee we remember,
-Thou, who wast the Offering Lamb,
-(Offering Lamb)
-Thou, who wast the Offering Lamb.
+|: Thou, who wast the Offering Lamb. :|
 
 # 3.
 Anointed King, crowned with glory,
@@ -2218,9 +2203,7 @@ Once smitten and despised,
 Now richly rewarded by the Father,
 Thee we behold
 And admire,
-Thou joy of heaven’s spring!
-(Heaven’s joy)
-Thou joy of heaven’s spring!
+|: Thou joy of heaven’s spring! :|
 
 # 4.
 Royal robe shall soon adorn Thee,
@@ -2229,9 +2212,7 @@ Thou God’s Anointed, the heart’s obedience
 Gratefully we give Thee here;
 Thee we adore,
 Thee we hymn,
-Lord Christ, where Thou art,
-(where Thou art)
-Lord Christ, where Thou art.
+|: Lord Christ, where Thou art. :|
 
 ---
 
@@ -2710,8 +2691,7 @@ Glory, glory, eternal glory
 Be to Him who bore the cross;
 He who offered Himself in death
 And was a sweet savour to God;
-Sing His glory,
-Sing His glory,
+|: Sing His glory, :|
 The Lord’s, who has saved us!
 
 # 2.
@@ -2719,8 +2699,7 @@ The Lord’s love is infinite,
 Inexpressible, without measure;
 That its height and depth should be estimated
 Men have not been given the ability.
-Praise the Lord,
-Praise the Lord,
+|: Praise the Lord, :|
 Who in death went for us.
 
 # 3.
@@ -2728,8 +2707,7 @@ While we here recount the wonder
 Of His death on the cross’s tree,
 We sing our song of praise already
 And worship now the Lamb of God.
-Hail Thee, Jesus!
-Hail Thee, Jesus!
+|: Hail Thee, Jesus! :|
 Glory be to Thy name now!
 
 ---
@@ -2908,40 +2886,32 @@ Eternal life is to know
 Thee, the only true God,
 And Thy Son, who here fulfilled
 All Thy will, all Thy command.
-God our Father, God our Father,
-Thee we raise the sound of praise.
-God our Father, God our Father,
-Thee we raise the sound of praise.
+|: God our Father, God our Father,
+Thee we raise the sound of praise. :|
 
 # 2.
 Behold the Stone, so rejected
 By the builders here,
 But in heaven highly esteemed,
 Dear to Jehovah’s heart.
-Precious, chosen, Precious, chosen,
-Living is the Stone.
-Precious, chosen, Precious, chosen,
-Living is the Stone.
+|: Precious, chosen, Precious, chosen,
+Living is the Stone. :|
 
 # 3.
 Lord Christ, now we come,
 Through Thee worshipping
 By the way Thou hast consecrated for us
 In the giving of Thy body.
-Thou art the way, Thou art the way,
-The way, new and living.
-Thou art the way, Thou art the way,
-The way, new and living.
+|: Thou art the way, Thou art the way,
+The way, new and living. :|
 
 # 4.
 Thou, the First and the Last,
 Origin of all blessedness,
 Dead wast Thou, but behold, Thou livest,
 Livest in all eternity.
-Raised wast Thou, Raised wast Thou
-By the Father’s glory.
-Raised wast Thou, Raised wast Thou
-By the Father’s glory.
+|: Raised wast Thou, Raised wast Thou
+By the Father’s glory. :|
 
 ---
 
@@ -3106,14 +3076,10 @@ But say, who is sufficient for this?
 Alas, no words here suffice.
 
 # C.
-Praise and honour we sing
+|: Praise and honour we sing
 To the Lord Jesus, who has redeemed us,
 Hosanna, Hosanna,
-Hosanna we sing to the Lamb of God.
-Praise and honour we sing
-To the Lord Jesus, who has redeemed us,
-Hosanna, Hosanna,
-Hosanna we sing to the Lamb of God.
+Hosanna we sing to the Lamb of God. :|
 
 # 2.
 Behold Jesus, crowned in heaven’s height!
@@ -3617,8 +3583,7 @@ In the world sought and found us.
 Thy Son, the Righteous One, died for us here
 To bring us, redeemed, unto Thee;
 He teaches us as sons to sing with joy
-That love which sacrificed itself,
-That love which sacrificed itself.
+|: That love which sacrificed itself. :|
 
 # 2.
 No song arises from the sorrowful earth,
@@ -3628,8 +3593,7 @@ Pleasing to Thee is its sound.
 For Thou wilt that all who honour Thee here,
 Thy Son should honour also;
 For they who see Jesus, the Father also see,
-In Him Thy heart we reach,
-In Him Thy heart we reach.
+|: In Him Thy heart we reach. :|
 
 # 3.
 Highly praised Lord, how richly upon Thee
@@ -3639,8 +3603,7 @@ And heaven renders Thee homage.
 Far fairer art Thou than the sons of men,
 God’s Anointed, with glory crowned.
 We see Thee in radiant eternal glory,
-For Golgotha’s anguish rewarded,
-For Golgotha’s anguish rewarded.
+|: For Golgotha’s anguish rewarded. :|
 
 ---
 
@@ -4008,40 +3971,32 @@ Unfathomable love,
 Manifest in Jesus,
 In His suffering and reproach,
 Which for us He has endured!
-Praise the Lord, Praise the Lord,
-The Lord, who here bore our sin!
-(bore our sin!)
-The Lord, who here bore our sin!
+|: Praise the Lord, :|
+|: The Lord, who here bore our sin! :|
 
 # 2.
 Praise Him, who suffered death
 Upon Golgotha for us,
 To save us from that distress,
 In which we otherwise must perish!
-Praise the Lord, Praise the Lord,
-The Lord, who here died for us!
-(died for us!)
-The Lord, who here died for us!
+|: Praise the Lord, :|
+|: The Lord, who here died for us! :|
 
 # 3.
 Now risen, crowned with glory,
 High on the throne of majesty,
 To Thee we ever bring praise,
 Jesus, Saviour, Son of God!
-Praise the Lord, Praise the Lord,
-The Lord upon His heavenly throne!
-(heavenly throne!)
-The Lord upon His heavenly throne!
+|: Praise the Lord, :|
+|: The Lord upon His heavenly throne! :|
 
 # 4.
 Praise the Father, who raised
 Christ with His great power,
 As Head for that race,
 Which He had in His counsel!
-Praise the Father, Praise the Father,
-For His love, grace, and power!
-(grace and power!)
-For His love, grace, and power!
+|: Praise the Father, :|
+|: For His love, grace, and power! :|
 
 ---
 
@@ -4090,40 +4045,40 @@ Teaches us to count the reproach of Christ
 > Text: Efter *O Blessed Saviour, is Thy love* av Joseph Stennett, 1716. Musik: St. Peter av Alexander R. Reinagle, 1836. 8.6.8.6
 
 # 1.
-O Lord, when Thy love is
+O Lord, since Your love is
 So great, so rich, so free,
-May our hearts, our lives,
-Be wholly filled with Thee.
+May our hearts and may our lives
+Be filled entirely with You.
 
 # 2.
-We love Thee for what Thou art,
-For all we in Thee see,
-We love Thee for the cross’s death,
-Our Redeemer,
+We love You for what You are,
+For all we see in You,
+We love You for the death of the cross,
+Our Redeemer true.
 
 # 3.
-Though Thou wast equal with the Father
-And in God’s creation,
-Thou didst humble Thyself to earth
-And becamest a servant.
+Though You were equal with the Father
+And in the form of God,
+You humbled Yourself to the earth
+And became a servant.
 
 # 4.
-Thou wouldest become like men
-And give Thyself here,
-That like Thee we might become
-And see Thee as Thou art.
+You were made in the likeness of men
+And gave Yourself up here below,
+That we might be made like to You
+And see You as You are.
 
 # 5.
-O Jesus Christ, Thou to Thy God
-Art a sweet savour;
-Thy great love new strength, new courage,
-And joy to us imparts.
+O Jesus Christ, to Your God
+A sweet and fragrant offering;
+Your great love gives our hearts
+New strength, new courage, and new joy.
 
 # 6.
-Grant that in love, meekness, faith,
-Like Thee we may become,
-Till face to face
-We see Thee Thyself.
+Grant that in love, in gentleness, in faith
+We may be made like to You,
+Until face to face
+We behold You.
 
 ---
 
@@ -4267,8 +4222,7 @@ Of love and perfection,
 In Thee a sweet rest for souls
 God hath prepared from eternity,
 In Thee our heart reposes
-And ever finds its joy in Thee,
-And ever finds its joy in Thee.
+|: And ever finds its joy in Thee. :|
 
 # 2.
 Thou art God’s “Amen” for ever,
@@ -4276,8 +4230,7 @@ And the beginning of His creation;
 God’s faithful Witness, the beloved Son,
 All Thy being is delight,
 And the Father sees us only in Thee,
-In Thee He ever rejoices,
-In Thee He ever rejoices.
+|: In Thee He ever rejoices. :|
 
 ---
 
@@ -5943,8 +5896,7 @@ Complete before God in Christ I stand.
 
 # C.
 O, sing of His great grace,
-Sing of His great grace,
-Sing of His great grace,
+|: Sing of His great grace, :|
 Sing of His grace!
 
 # 2.
@@ -5978,10 +5930,8 @@ Blessed assurance, all is now well!
 Jesus has redeemed my body and my soul.
 
 # C.
-He is my joy, He is my song,
-Him I praise all the day long.
-He is my joy, He is my song,
-Him I praise all the day long.
+|: He is my joy, He is my song,
+Him I praise all the day long. :|
 
 # 2.
 All I surrendered, all I have gained,
@@ -7844,10 +7794,8 @@ That nothing may mislead us
 From heeding Thy counsel.
 Help us to do Thy will,
 As we walk here,
-And with an obedient mind to hear
-All that Thou dost teach in the word.
-And with an obedient mind to hear
-All that Thou dost teach in the word.
+|: And with an obedient mind to hear
+All that Thou dost teach in the word. :|
 
 # 2.
 Thanks that the Spirit can explain
@@ -7856,10 +7804,8 @@ And to the heart reveal
 Christ and His great power,
 As He was on this earth,
 Walking the path of Thy will,
-As He now is, having been exalted,
-Crowned with glory by Thee.
-As He now is, having been exalted,
-Crowned with glory by Thee.
+|: As He now is, having been exalted,
+Crowned with glory by Thee. :|
 
 # 3.
 When we thus behold Him
@@ -7868,10 +7814,8 @@ Then in us He begins to rule
 As a master in His house;
 All must bow before Him,
 “All is subjected to Him,”
-Every hindrance is removed,
-All is conquered by His power.
-Every hindrance is removed,
-All is conquered by His power.
+|: Every hindrance is removed,
+All is conquered by His power. :|
 
 # 4.
 O God, our Father, Thee we praise,
@@ -7880,10 +7824,8 @@ Wilt lead us forward and display
 Through us Thy love now.
 Teach us therefore to be still,
 Ever heeding Thy counsel,
-Until Thou shalt fully reveal
-The glory of Thy grace.
-Until Thou shalt fully reveal
-The glory of Thy grace.
+|: Until Thou shalt fully reveal
+The glory of Thy grace. :|
 
 ---
 
@@ -7954,10 +7896,8 @@ Never shall he come to shame
 Who in faith to Him goes.
 
 # C.
-I trust, fully trust,
-Yes, I rely on His word.
-I trust, fully trust,
-Yes, I rely on His word.
+|: I trust, fully trust,
+Yes, I rely on His word. :|
 
 # 2.
 Bring all your sin to Jesus,
@@ -8127,32 +8067,20 @@ Rules all and makes all well.
 # 1.
 A refuge is the God of ancient days,
 And downward stretch His arms.
-He has promised and said,
-That He with His power
-Shall preserve His ransomed people.
-He has promised and said,
-That He with His power
-Shall preserve His ransomed people.
+|: He has promised and said, that He with His power
+Shall preserve His ransomed people. :|
 
 # 2.
 Blessed the people who understand the sound of joy,
 In the light of God’s countenance they shall walk.
-They go from strength to strength,
-And from joy to joy,
-Until they stand before God on Zion’s height.
-They go from strength to strength,
-And from joy to joy,
-Until they stand before God on Zion’s height.
+|: They go from strength to strength, and from joy to joy,
+Until they stand before God on Zion’s height. :|
 
 # 3.
 Their strength and ornament art Thou, O God,
 In Thy holy name they shall rejoice.
-Thou hast laid the help
-In a Mighty One with power,
-And Thine eternal arm is their shield.
-Thou hast laid the help
-In a Mighty One with power,
-And Thine eternal arm is their shield.
+|: Thou hast laid the help in a Mighty One with power,
+And Thine eternal arm is their shield. :|
 
 ---
 
@@ -9353,10 +9281,8 @@ Can I doubt His goodness
 When I see His leading?
 Heavenly peace, divine security
 In Him my soul has,
-For I know, whatever meets me,
-Jesus yet makes all things well.
-For I know, whatever meets me,
-Jesus yet makes all things well.
+|: For I know, whatever meets me,
+Jesus yet makes all things well. :|
 
 # 2.
 All the way He goes with me,
@@ -9365,10 +9291,8 @@ Gives me grace in every trial,
 Strengthens me with the bread of life.
 And if the heart would thirst,
 The way seems heavy and long,
-Joy-springs at once from the rock
-Flow forth as once before,
-Joy-springs at once from the rock
-Flow forth as once before.
+|: Joy-springs at once from the rock
+Flow forth as once before. :|
 
 # 3.
 All the way He goes with me.
@@ -9377,10 +9301,8 @@ And at last an eternal rest
 Is granted me in the kingdom of heaven.
 When there I am set free, glorified,
 Cast myself before the throne down,
-Shall I not that song forget:
-All the way He went with me!
-Shall I not that song forget:
-All the way He went with me!
+|: Shall I not that song forget:
+All the way He went with me! :|
 
 ---
 
@@ -9394,8 +9316,7 @@ So shall I run gladly Thy way;
 With the word of grace comfort me,
 And of Thy love ever remind.
 Upon Thee I lay my burden,
-And know Thou bearest it as Thine own,
-And know Thou bearest it as Thine own.
+|: And know Thou bearest it as Thine own. :|
 
 # 2.
 What have I not received in Thee:
@@ -9403,8 +9324,7 @@ My light by night, my sun by day,
 My fountain on my desert path,
 My bread, my strength when I am weak,
 My peace, my joy, my glory,
-My shield and my righteousness!
-My shield and my righteousness!
+|: My shield and my righteousness! :|
 
 # 3.
 Thy love unchanging
@@ -9412,8 +9332,7 @@ Hath ever with grace encompassed me,
 And ere my heart in me beat,
 Thy tender thought was toward me;
 Oh, may the time I walk here,
-I follow Thee, my beloved Lord!
-I follow Thee, my beloved Lord!
+|: I follow Thee, my beloved Lord! :|
 
 ---
 
@@ -9426,11 +9345,7 @@ Faithful Saviour, now lead us
 Through this barren land!
 We are weak, Thou art mighty,
 Sustain us with Thy hand.
-Bread from heaven,
-Bread from heaven,
-Feed us on our desert path!
-Bread from heaven,
-Bread from heaven,
+|: Bread from heaven, :|
 Feed us on our desert path!
 
 # 2.
@@ -9438,8 +9353,7 @@ Opened now is the fountain of life,
 The stream of health there flows forth.
 As with the lofty pillar of cloud
 Thou didst lead us to the journey’s end!
-Strong and mighty,
-Strong and mighty,
+|: Strong and mighty, :|
 Thou Thyself art our strength and shield.
 
 # 3.
@@ -9447,8 +9361,7 @@ While we wander in the wilderness,
 Keep us ever near to Thee,
 Thou who art our salvation’s rock
 And our fortress evermore!
-Faithful art Thou,
-Faithful art Thou,
+|: Faithful art Thou, :|
 Patient, unchanging.
 
 ---
@@ -9516,30 +9429,24 @@ Our Father, how immeasurably great
 Thy love to us all is!
 What thought is able to comprehend it,
 What tongue to declare it here?
-Thy Son, who was all Thy joy,
-Thou hast given as an offering.
-Thy Son, who was all Thy joy,
-Thou hast given as an offering.
+|: Thy Son, who was all Thy joy,
+Thou hast given as an offering. :|
 
 # 2.
 How sweet, Lord, is Thy way;
 Thou rulest graciously in Thy kingdom,
 Sorrow, anxiety, care depart,
 And fear flees in Thy presence.
-Thou dost richly satisfy our soul,
-Thou Thyself, O Lord, art our portion.
-Thou dost richly satisfy our soul,
-Thou Thyself, O Lord, art our portion.
+|: Thou dost richly satisfy our soul,
+Thou Thyself, O Lord, art our portion. :|
 
 # 3.
 In the conflict Thou art ever our peace,
 In weakness our support, our strength,
 Our strength until the journey’s end,
 And when Thou comest, as Thou hast said,
-Thou shalt eternally in heaven’s height,
-O Jesus, be all our joy.
-Thou shalt eternally in heaven’s height,
-O Jesus, be all our joy.
+|: Thou shalt eternally in heaven’s height,
+O Jesus, be all our joy. :|
 
 ---
 
@@ -10201,8 +10108,7 @@ Where Thou already among the angel throng
 Dost reign in heaven’s light.
 Soon Thou wilt come to lead us
 Home to Thee and make us blessed.
-O what joy it shall be!
-O what joy it shall be!
+|: O what joy it shall be! :|
 
 # 2.
 What no ear has heard,
@@ -10211,8 +10117,7 @@ What no human heart has found,
 God has prepared for His own.
 The Spirit makes it clear to us,
 And to faith He reveals it,
-What in Christ is given to us.
-What in Christ is given to us.
+|: What in Christ is given to us. :|
 
 # 3.
 By grace a pilgrim throng,
@@ -10221,8 +10126,7 @@ But soon with Thee we shall be,
 See Thee, Jesus, as Thou art.
 Thou dost appear before God for us,
 While the Spirit here leads us
-Homeward to our fatherland.
-Homeward to our fatherland.
+|: Homeward to our fatherland. :|
 
 # 4.
 Soon, O Lord, Thou wilt come,
@@ -10231,8 +10135,7 @@ Where with all Thy godly ones,
 We shall behold Thy glory
 And with glad and free tongue
 Ever sing praise and honour
-To Thee, who hast so loved us.
-To Thee, who hast so loved us.
+|: To Thee, who hast so loved us. :|
 
 ---
 
@@ -10842,8 +10745,7 @@ Soon Jesus, our Lord, shall come
 To fetch His bride to heaven;
 Then with all His godly ones
 We shall eternally be with God.
-And there with a jubilant tongue,
-And there with a jubilant tongue,
+|: And there with a jubilant tongue, :|
 Sing of His love and faithfulness,
 Which faithfully has led us home.
 
@@ -10852,8 +10754,7 @@ How blessed in the clouds to meet
 Our Lord and Bridegroom so dear,
 Who has promised to cherish and tend
 And sanctify the gathering here.
-With the Lamb the wedding shall be celebrated,
-With the Lamb the wedding shall be celebrated,
+|: With the Lamb the wedding shall be celebrated, :|
 And the bride by the Lord adorned
 In a snow-white robe of righteousness.
 
@@ -10862,8 +10763,7 @@ O blessed day, soon may you come
 And shine for each longing soul!
 In hope now joyful in godliness,
 For the Lord shall make all well!
-To the home He surely leads us,
-To the home He surely leads us,
+|: To the home He surely leads us, :|
 And soon among the choir of the saints
 We shall eternally sing His praise.
 
@@ -10950,8 +10850,7 @@ Behold, with clouds He descends,
 He who once was crucified!
 Ransomed hosts follow Him,
 Give glory with a song of victory,
-Hallelujah!
-Hallelujah!
+|: Hallelujah! :|
 Rejoice throughout eternity long.
 
 # 2.
@@ -10959,8 +10858,7 @@ Israel shall behold Him
 Full of grace and majesty,
 See the Son of God, whom they rejected,
 Mocked, smote, hanged upon the tree,
-Their Messiah,
-Their Messiah,
+|: Their Messiah, :|
 They in glory’s splendor now see.
 
 # 3.
@@ -10968,8 +10866,7 @@ Behold, the marks of the nails
 He bears in glory;
 The theme for full worship
 The redemption work is,
-Hallelujah!
-Hallelujah!
+|: Hallelujah! :|
 God renders reward to the Lamb.
 
 # 4.
@@ -10977,8 +10874,7 @@ God renders reward to the Lamb.
 “Come,” thus also says thy bride.
 Come shalt Thou, Lord Jesus,
 Clad in glory’s robe,
-Thou hast won
-Thou hast won
+|: Thou hast won :|
 Eternal glory for thy God.
 
 ---
@@ -11421,38 +11317,26 @@ An eternal rest the Lord Jesus has won for us.
 # 1.
 O what mighty praise once
 Shall fill the many halls of heaven,
-When time is past!
-When time is past!
+|: When time is past! :|
 When all the redeemed, each and all,
-Take part in the wondrous song
-Of Jesus’ free love,
-Of Jesus’ free love.
-Take part in the wondrous song
-Of Jesus’ free love.
+|: Take part in the wondrous song
+|: Of Jesus’ free love. :|:|
 
 # 2.
 Each one then like the Saviour is,
 Each one then a royal crown bears
-And white, spotless robe.
-And white, spotless robe.
+|: And white, spotless robe. :|
 An eternal song then rises up
-To Thee, God’s precious Lamb, to Thee,
-In the world of light with God.
-In the world of light with God.
-To Thee, God’s precious Lamb, to Thee,
-In the world of light with God.
+|: To Thee, God’s precious Lamb, to Thee,
+|: In the world of light with God. :|:|
 
 # 3.
 With Thee our joy no more is hindered,
 Thy glory we then clearly see
-And homage to Thee bring.
-And homage to Thee bring.
+|: And homage to Thee bring. :|
 The bright day we now await,
-When we from the heart shall sing: Thou,
-O Lord, art worthy!
-O Lord, art worthy!
-When we from the heart shall sing: Thou,
-O Lord, art worthy!
+|: When we from the heart shall sing: Thou,
+|: O Lord, art worthy! :|:|
 
 ---
 
@@ -11499,22 +11383,19 @@ With our gaze fixed on the Lamb of God.
 # 1.
 High above in our Father’s house
 Our dwelling is prepared;
-There is our home, our great reward,
-There is our home, our great reward,
+|: There is our home, our great reward, :|
 Our Jesus, He is there.
 
 # 2.
 With Him soon we shall shine
 In our white robe;
-His presence ever shall delight
-His presence ever shall delight
+|: His presence ever shall delight :|
 His dearly purchased bride.
 
 # 3.
 Every trace of sin then gone is
 With all that disturbed our peace,
-And at home with God’s beloved
-And at home with God’s beloved
+|: And at home with God’s beloved :|
 We shall dwell eternally.
 
 ---

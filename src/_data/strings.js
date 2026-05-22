@@ -13,7 +13,6 @@ export default {
     backToHymn: "Tillbaka till sången",
     showScore: "Visa noter",
     translationNotice: "",
-    reportProblem: "Rapportera ett problem",
   },
   en: {
     music: "Music",
@@ -29,7 +28,6 @@ export default {
     backToHymn: "Back to hymn",
     showScore: "Show score",
     translationNotice: "This is a translation of the Swedish lyrics and cannot be sung.",
-    reportProblem: "Report a problem",
   },
   fr: {
     music: "Musique",
@@ -45,7 +43,6 @@ export default {
     backToHymn: "Retour au cantique",
     showScore: "Voir la partition",
     translationNotice: "Ceci est une traduction des paroles suédoises et ne peut pas être chantée.",
-    reportProblem: "Signaler un problème",
   },
   ar: {
     music: "الموسيقى",
@@ -62,6 +59,5 @@ export default {
     showScore: "عرض النوتة",
     translationNotice: "هذه ترجمة للنص السويدي ولا يمكن غناؤها.",
     translationNoticeMachine: "الترجمة مولَّدة آلياً وقد تحتوي على أخطاء.",
-    reportProblem: "الإبلاغ عن مشكلة",
   },
 };

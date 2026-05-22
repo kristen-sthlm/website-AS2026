@@ -2,7 +2,7 @@
 // Used on both the hymn (lyrics) page and the score page.
 // Supports an optional loop with a 3-second gap between repeats.
 
-const LOOP_GAP_MS = 1500;
+const LOOP_GAP_MS = 100;
 
 const player = document.querySelector(".player");
 if (player) {

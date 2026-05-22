@@ -6,7 +6,10 @@ permalink: /
 
 <div class="index-page">
   <header class="index-masthead">
-    <a href="{{ '/' | url }}" class="index-masthead-title">{{ site.title }}</a>
+    <a href="{{ '/' | url }}" class="index-masthead-title">
+      <span class="masthead-title-main">{{ site.title }}</span>
+      <span class="masthead-title-sub">Den digitala utgåvan</span>
+    </a>
 
     <details class="menu" id="index-menu">
       <summary class="menu-trigger" aria-label="Mer information">
@@ -41,18 +44,17 @@ permalink: /
     </details>
   </header>
 
-  <p class="intro">Den digitala utgåvan av sångboken <em>Andliga Sånger</em>, utgiven av Kristen Vandring.</p>
-
   <blockquote class="epigraph">
     <p>Är någon glad, skall han sjunga lovsånger.</p>
     <cite>Jakobs brev 5:13</cite>
   </blockquote>
 
-  <div class="search-wrapper">
-    <input type="search" id="search" placeholder="Sök…" autocomplete="off" inputmode="search">
-  </div>
+  <div class="index-toolbar">
+    <div class="search-wrapper">
+      <input type="search" id="search" placeholder="Sök…" autocomplete="off" inputmode="search">
+    </div>
 
-  <div class="controls">
+    <div class="controls">
     <div class="segmented" data-control="sort" role="group" aria-label="Sortera">
       <button type="button" class="seg-btn is-active" data-value="number" aria-label="Sortera efter nummer" title="Sortera efter nummer">#</button>
       <button type="button" class="seg-btn" data-value="alpha" aria-label="Sortera alfabetiskt" title="Sortera alfabetiskt">A–Ö</button>
@@ -72,6 +74,7 @@ permalink: /
         </svg>
       </button>
     </div>
+  </div>
   </div>
 
   <table class="hymn-index" id="hymn-index">

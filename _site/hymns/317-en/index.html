@@ -1661,7 +1661,18 @@
         </a>
       
 
-      <div class="hymn-number-large">317</div>
+      <input
+        type="number"
+        class="hymn-number-large"
+        value="317"
+        min="1"
+        max="322"
+        inputmode="numeric"
+        pattern="[0-9]*"
+        aria-label="Gå till sång"
+        data-target="text"
+        data-lang="en"
+      >
 
       
         <a href="/website-AS2026/hymns/318-en/" class="nav-arrow" aria-label="Nästa sång (318)" title="Nästa">
@@ -3048,25 +3059,34 @@ We shall dwell eternally.</p>
     <p class="hymn-footnote">Text: Efter <em>High In The Father's House Above</em> av John G. Deck, 1856. Musik: Rest av Frederick C. Maker, 1887. 8.6.8.8.6</p>
   
 
-  <p class="hymn-report">
-    <a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Report a problem ↗</a>
-  </p>
 </article>
 
   </main>
 
   
     <script type="module" src="/website-AS2026/assets/player.js"></script>
+    <script type="module" src="/website-AS2026/assets/hymn-jump.js"></script>
   
 
   <footer class="site-footer">
-    <nav class="footer-links" aria-label="Webbplatsinformation">
-      <a href="/website-AS2026/about/">Om</a>
-      <a href="/website-AS2026/license/">Licens</a>
-      <a href="/website-AS2026/privacy/">Integritet</a>
-      <a href="/website-AS2026/legal/">Rättsligt</a>
-      <a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Kontakt ↗</a>
-    </nav>
+    <div class="footer-columns">
+      <div class="footer-col">
+        <h2 class="footer-col-title">Om sångboken</h2>
+        <ul class="footer-list">
+          <li><a href="/website-AS2026/about/">Om projektet</a></li>
+          <li><a href="/website-AS2026/license/">Licens</a></li>
+          <li><a href="/website-AS2026/privacy/">Integritet</a></li>
+          <li><a href="/website-AS2026/legal/">Rättsligt</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2 class="footer-col-title">Kontakt</h2>
+        <ul class="footer-list">
+          <li><a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Kontaktformulär ↗</a></li>
+          <li><a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Rapportera fel ↗</a></li>
+        </ul>
+      </div>
+    </div>
     <p class="footer-meta">
       <span>Andliga Sånger</span>
       <span class="footer-sep">·</span>

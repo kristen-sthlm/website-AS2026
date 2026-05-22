@@ -21,16 +21,28 @@
 
   {% if isHymnPage %}
     <script type="module" src="{{ '/assets/player.js' | url }}"></script>
+    <script type="module" src="{{ '/assets/hymn-jump.js' | url }}"></script>
   {% endif %}
 
   <footer class="site-footer">
-    <nav class="footer-links" aria-label="Webbplatsinformation">
-      <a href="{{ '/about/' | url }}">Om</a>
-      <a href="{{ '/license/' | url }}">Licens</a>
-      <a href="{{ '/privacy/' | url }}">Integritet</a>
-      <a href="{{ '/legal/' | url }}">Rättsligt</a>
-      <a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Kontakt ↗</a>
-    </nav>
+    <div class="footer-columns">
+      <div class="footer-col">
+        <h2 class="footer-col-title">Om sångboken</h2>
+        <ul class="footer-list">
+          <li><a href="{{ '/about/' | url }}">Om projektet</a></li>
+          <li><a href="{{ '/license/' | url }}">Licens</a></li>
+          <li><a href="{{ '/privacy/' | url }}">Integritet</a></li>
+          <li><a href="{{ '/legal/' | url }}">Rättsligt</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2 class="footer-col-title">Kontakt</h2>
+        <ul class="footer-list">
+          <li><a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Kontaktformulär ↗</a></li>
+          <li><a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Rapportera fel ↗</a></li>
+        </ul>
+      </div>
+    </div>
     <p class="footer-meta">
       <span>{{ site.title }}</span>
       <span class="footer-sep">·</span>

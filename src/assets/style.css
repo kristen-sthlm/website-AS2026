@@ -114,27 +114,43 @@ button { font-family: inherit; cursor: pointer; }
 /* ---------- Footer ---------- */
 .site-footer {
   margin-top: 4.5rem;
-  padding: 1.75rem 1.25rem 2.5rem;
-  text-align: center;
+  padding: 2rem 1.25rem 2.5rem;
   font-family: var(--f-sans);
   border-top: 1px solid var(--c-rule-soft);
 }
 
-.footer-links {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 1.4rem;
-  margin-bottom: 1rem;
+.footer-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem 2rem;
+  max-width: 36rem;
+  margin: 0 auto 1.75rem;
 }
-.footer-links a {
-  font-size: 0.78rem;
-  font-weight: 500;
+
+.footer-col-title {
+  font-family: var(--f-sans);
+  font-size: 0.68rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--c-muted);
+  margin: 0 0 0.6rem;
+}
+
+.footer-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+.footer-list a {
+  font-size: 0.85rem;
   color: var(--c-ink-soft);
-  letter-spacing: 0.02em;
   transition: color 0.15s ease;
 }
-.footer-links a:hover { color: var(--c-accent); }
+.footer-list a:hover { color: var(--c-accent); }
 
 .footer-meta {
   font-size: 0.7rem;
@@ -142,6 +158,12 @@ button { font-family: inherit; cursor: pointer; }
   letter-spacing: 0.04em;
   margin: 0;
   line-height: 1.6;
+  text-align: center;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--c-rule-soft);
+  max-width: 36rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 .footer-sep {
   margin: 0 0.4rem;
@@ -263,29 +285,48 @@ button { font-family: inherit; cursor: pointer; }
 }
 
 .index-masthead-title {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.05rem;
+  text-decoration: none;
+  color: var(--c-ink);
+  line-height: 1;
+  transition: color 0.15s ease;
+}
+.index-masthead-title:hover { color: var(--c-accent); }
+.masthead-title-main {
   font-family: var(--f-serif);
   font-size: 0.92rem;
   font-weight: 500;
   font-variant: small-caps;
   letter-spacing: 0.08em;
-  color: var(--c-ink);
-  text-decoration: none;
-  transition: color 0.15s ease;
+  line-height: 1.1;
 }
-.index-masthead-title:hover { color: var(--c-accent); }
-
-/* Intro paragraph */
-.index-page .intro {
+.masthead-title-sub {
   font-family: var(--f-sans);
-  font-size: 0.85rem;
-  line-height: 1.5;
-  color: var(--c-ink-soft);
-  margin: 0.5rem 0 1.5rem;
-  max-width: 32rem;
-}
-.index-page .intro em {
+  font-size: 0.65rem;
   font-style: italic;
+  color: var(--c-muted);
+  letter-spacing: 0.02em;
+  line-height: 1;
 }
+
+/* Sticky toolbar: search bar + sort/verse controls.
+   Stacks below the sticky masthead and stays visible while scrolling. */
+.index-toolbar {
+  position: sticky;
+  top: 3.4rem;   /* tight against masthead bottom — no visual gap */
+  z-index: 15;
+  background: color-mix(in srgb, var(--c-bg) 92%, transparent);
+  -webkit-backdrop-filter: saturate(140%) blur(8px);
+  backdrop-filter: saturate(140%) blur(8px);
+  margin: 0 -1.25rem;
+  padding: 0.6rem 1.25rem 0.5rem;
+  border-bottom: 1px solid var(--c-rule-soft);
+}
+.index-toolbar .search-wrapper { margin-bottom: 0.4rem; }
+.index-toolbar .controls { margin: 0; }
 
 /* Dropdown menu using <details>/<summary> */
 .menu {
@@ -372,7 +413,7 @@ button { font-family: inherit; cursor: pointer; }
 }
 
 .index-page .epigraph {
-  margin: 0 0 2.25rem;
+  margin: 0 0 1rem;
   padding: 0.5rem 0 0.5rem 1rem;
   border-left: 2px solid var(--c-accent);
   font-family: var(--f-serif);
@@ -572,11 +613,35 @@ body:not(.show-all-verses-search) .hymn-row td.verse { display: none; }
   text-align: center;
   font-variant-numeric: lining-nums tabular-nums;
   letter-spacing: 0.01em;
-  min-width: 2ch;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   height: 36px;
+  box-sizing: border-box;
+  /* Input-specific resets */
+  border: 0;
+  background: transparent;
+  padding: 0 0.4rem;
+  border-radius: var(--radius);
+  appearance: textfield;
+  -webkit-appearance: none;
+  -moz-appearance: textfield;
+  width: 4.5ch;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+.hymn-number-large::-webkit-outer-spin-button,
+.hymn-number-large::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.hymn-number-large:hover {
+  background: var(--c-hover);
+}
+.hymn-number-large:focus {
+  outline: none;
+  background: var(--c-accent-bg);
+  cursor: text;
 }
 
 .icon-btn {
@@ -614,29 +679,6 @@ body:not(.show-all-verses-search) .hymn-row td.verse { display: none; }
 }
 .hymn-footnote strong {
   font-weight: 600;
-}
-
-.hymn-report {
-  margin: 1.25rem 0 0;
-  text-align: left;
-}
-.hymn-report a {
-  display: inline-block;
-  font-family: var(--f-sans);
-  font-size: 0.72rem;
-  font-weight: 500;
-  letter-spacing: 0.04em;
-  color: var(--c-muted);
-  padding: 0.4rem 0.85rem;
-  border: 1px solid var(--c-rule);
-  border-radius: var(--radius);
-  background: var(--c-surface);
-  transition: all 0.15s ease;
-}
-.hymn-report a:hover {
-  color: var(--c-accent);
-  border-color: var(--c-accent);
-  background: var(--c-accent-bg);
 }
 
 .hymn-number-group .nav-arrow {

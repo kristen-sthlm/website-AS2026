@@ -52,7 +52,17 @@ layout: base.njk
         </span>
       {% endif %}
 
-      <div class="hymn-number-large">{{ hymn.number }}</div>
+      <input
+        type="number"
+        class="hymn-number-large"
+        value="{{ hymn.number }}"
+        min="1"
+        max="{{ collections.hymns.length }}"
+        inputmode="numeric"
+        pattern="[0-9]*"
+        aria-label="Gå till noter"
+        data-target="score"
+      >
 
       {% if nextHymn %}
         {% set nextPadded = nextHymn.number | pad3 %}

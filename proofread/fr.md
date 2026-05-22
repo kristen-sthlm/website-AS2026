@@ -1,6 +1,6 @@
 # Andliga Sånger — Traduction française
 
-*Genererat 2026-05-04 från 322 sånger.*
+*Genererat 2026-05-22 från 322 sånger.*
 
 ---
 
@@ -101,14 +101,14 @@ Saint, saint, Seigneur Dieu !
 > Text: Carl Boberg, 1885. Musik: Anonym, 1890. 11.10.11.10.10.8.10.8
 
 # 1.
-Ô grand Dieu, quand je contemple ce monde
-Que Tu as créé par ta parole toute-puissante,
+Dieu Tout-Puissant, quand je considère ce monde
+Que Tu as créé par Ta Parole toute-puissante,
 Comment ta sagesse conduit les destins de la vie,
 Et toutes les créatures trouvent leur nourriture à ta table ;
 
 # C.
 |: Alors mon âme éclate en chants de louange :
-Ô grand Dieu ! Ô grand Dieu ! :|
+Dieu Tout-Puissant ! Dieu Tout-Puissant ! :|
 
 # 2.
 Quand je considère les merveilles des cieux,
@@ -134,7 +134,7 @@ Et que ma foi se changera en vision,
 Quand les claires cloches de l’éternité m’appelleront
 À reposer en ta paix mon âme rachetée ;
 |: Alors mon âme éclate en chants de louange :
-Merci, bon Dieu ! Merci, bon Dieu ! :|
+Merci, mon Dieu ! Merci, mon Dieu ! :|
 
 ---
 
@@ -257,17 +257,17 @@ Seul l’amour T’a inspiré à nous donner
 
 # 2.
 Pourquoi ton Fils est-Il descendu
-Du ciel et a pris sur Lui
+Du ciel pour prendre sur lui
 Tout notre péché,
-Endurant et mourant avec patience ?
-Un amour infini L’a conduit,
-|: Quand Il fut crucifié pour nous ici. :|
+Et souffrir patiemment jusqu’à la mort ?
+C’est un amour infini qui l’a poussé,
+|: Quand Il fut crucifié pour nous. :|
 
 # 3.
 Quelle amour, actions de grâces et louange,
 Ô Dieu, Tu es digne de recevoir
 Pour toute cette abondante grâce
-Que Tu nous as manifestée ici-bas !
+Que Tu as manifestée envers nous !
 Apprends-nous à mieux connaître ta grâce,
 |: Les desseins merveilleux de ton amour. :|
 
@@ -282,7 +282,7 @@ Dieu fit une promesse en Éden :
 Le salut par la postérité de la femme ;
 Quatre mille ans passèrent,
 Et le Fils de Dieu Lui-même descendit ici.
-Le Seigneur est venu, le Seigneur est venu,
+|: Le Seigneur est venu, :|
 Il nous a sauvés de la mort,
 Il s’est livré, nous a donné la vie,
 Nous a ouvert le ciel.
@@ -292,7 +292,7 @@ La première fois qu’Il vint sur la terre,
 On entendit les anges louer Dieu,
 Car son Fils s’était fait homme
 Pour accomplir toute sa volonté.
-Le Seigneur est venu, le Seigneur est venu,
+|: Le Seigneur est venu, :|
 Il nous a sauvés de la mort,
 Il s’est livré Lui-même, nous a donné la vie,
 Nous a ouvert les cieux.
@@ -302,7 +302,7 @@ Jésus fut pauvre sur la terre,
 La richesse des cieux est notre part,
 Il porta la peine du péché sur la croix,
 Nous avons reçu la justice de Dieu.
-Le Seigneur est venu, le Seigneur est venu,
+|: Le Seigneur est venu, :|
 Il nous a sauvés de la mort,
 Il s’est livré Lui-même, nous a donné la vie,
 Nous a ouvert les cieux.
@@ -312,7 +312,7 @@ Après avoir accompli l’œuvre du salut,
 Il remonta au ciel ;
 Mais Il nous a fait cette promesse :
 « Bientôt, Je vous prendrai auprès de Moi. »
-Le Seigneur vient, le Seigneur vient !
+|: Le Seigneur vient ! :|
 Les combats de la terre prendront fin ;
 L’Épouse sera parée, les noces célébrées
 Dans une gloire éternelle.
@@ -322,7 +322,7 @@ Alors l’Époux présentera
 À Lui-même son Épouse rachetée,
 Sans tache ni ride,
 Vêtue d’une robe glorieuse.
-Le Seigneur vient, le Seigneur vient !
+|: Le Seigneur vient ! :|
 Les combats de la terre prendront fin ;
 L’Épouse sera parée, les noces célébrées
 Dans une gloire éternelle.
@@ -343,12 +343,12 @@ Bien avant la chute d’Adam, Tu m’as choisi.
 # 2.
 Jésus, Rédempteur ! Tu es mort pour moi,
 Grand Libérateur, Tu m’as affranchi.
-Tu as posée sur moi ta main,
+Tu as posée ta main sur moi,
 M’arrachant au pouvoir de Satan,
 Tu as dit doucement à mon cœur : « Je t’aime. ».
 
 # 3.
-Promis des cieux, Bien-aimé du Père !
+Promesse du Ciel, Bien-aimé du Père !
 Il nous accorde maintenant une part de ta plénitude.
 Tout est parfait en Toi,
 Notre âme peut exulter,
@@ -405,7 +405,7 @@ Lui rendront hommage,
 Et les rois de toutes les nations
 Plieront le genou devant Christ.
 Sa gloire sera alors largement répandue
-Parmi les enfants des hommes sur cette terre.
+Parmi les fils des hommes sur cette terre.
 
 ---
 
@@ -491,7 +491,7 @@ Il est ressuscité du tombeau !
 Chante son ascension glorieuse,
 Triomphante et merveilleuse,
 Chante sa majesté sur le trône,
-Lui qui fut si humilié.
+Lui qui fut tant humilié.
 
 # 5.
 Chante son retour avec les nuées
@@ -543,7 +543,7 @@ Les pécheurs perdus dans la vallée de la mort.
 Là-haut, auprès de la Majesté,
 Il pensait pourtant à nous ici-bas,
 Et le profond désir de son cœur
-Était de nous avoir avec Lui là-haut.
+Était de nous avoir auprès de Lui là-haut.
 
 # 3.
 Tremblants, nous cherchions seulement un endroit
@@ -1122,26 +1122,26 @@ Dans la gloire de ton Père.
 # 1.
 Seigneur, regarde ton petit troupeau,
 Rassemblé pour rompre le pain !
-|: Aide-nous à être silencieux devant Toi,
-Alors que nous commémorons ici ta mort. :|
+Aide-nous à être silencieux devant Toi,
+Alors que nous commémorons ici ta mort.
 
 # 2.
 Cette mort, qui a révélé
 L’amour du Père dans toute sa hauteur,
-|: Lui qui n’a pas épargné son Fils unique,
-Afin que nous partagions sa joie. :|
+Lui qui n’a pas épargné son Fils unique,
+Afin que nous partagions sa joie.
 
 # 3.
 Partager la joie du Père dans le Fils,
 Maintenant élevé et richement récompensé.
-|: Seigneur Jésus, nous Te contemplons
-Couronné de toute puissance et de gloire. :|
+Seigneur Jésus, nous Te contemplons
+Couronné de toute puissance et de gloire.
 
 # 4.
 Pourtant, Tu n’as pas honte de nous appeler
 Tes frères devant Dieu,
-|: Et dans nos cœurs faibles,
-Toi-même Tu élèves le chant de louange. :|
+Et dans nos cœurs faibles,
+Toi-même Tu élèves le chant de louange.
 
 ---
 
@@ -2641,8 +2641,7 @@ Gloire, gloire, gloire éternelle
 À Celui qui porta la croix ;
 Lui qui s’est offert en sacrifice dans la mort
 Et fut pour Dieu un parfum de bonne odeur ;
-Chantez sa gloire,
-Chantez sa gloire,
+|: Chantez sa gloire, :|
 Au Seigneur qui nous a rachetés !
 
 # 2.
@@ -2650,8 +2649,7 @@ L’amour du Seigneur est infini,
 Inexprimable, sans mesure ;
 Estimer sa hauteur et sa profondeur,
 Les hommes n’en ont pas reçu la capacité.
-Louez le Seigneur,
-Louez le Seigneur,
+|: Louez le Seigneur, :|
 Lui qui est allé à la mort pour nous.
 
 # 3.
@@ -2659,8 +2657,7 @@ Tandis que nous racontons ici le miracle
 De sa mort sur le bois de la croix,
 Nous chantons déjà notre cantique de louange
 Et nous adorons dès maintenant l’Agneau de Dieu.
-Salut à toi, Jésus !
-Salut à toi, Jésus !
+|: Salut à toi, Jésus ! :|
 Gloire soit à ton nom dès maintenant !
 
 ---
@@ -2839,40 +2836,32 @@ La vie éternelle, c’est de te connaître,
 Toi, le seul vrai Dieu,
 Et ton Fils, qui a accompli ici
 Toute ta volonté, tout ton commandement.
-Dieu notre Père, Dieu notre Père,
-Nous élevons vers toi le son de nos chants de louange.
-Dieu notre Père, Dieu notre Père,
-Nous élevons vers toi le son de nos chants de louange.
+|: Dieu notre Père, Dieu notre Père,
+Nous élevons vers toi le son de nos chants de louange. :|
 
 # 2.
 Voici la Pierre, si rejetée
 Par les bâtisseurs ici-bas,
 Mais hautement estimée dans les cieux,
 Chère au cœur de Jéhovah.
-Précieuse, élue, Précieuse, élue,
-Vivante est cette Pierre.
-Précieuse, élue, Précieuse, élue,
-Vivante est cette Pierre.
+|: Précieuse, élue, Précieuse, élue,
+Vivante est cette Pierre. :|
 
 # 3.
 Seigneur Christ, maintenant nous venons,
 Par toi, en adorant,
 Sur le chemin que tu as consacré pour nous
 Par le don de ton corps.
-Tu es le chemin, Tu es le chemin,
-Le chemin, nouveau et vivant.
-Tu es le chemin, Tu es le chemin,
-Le chemin, nouveau et vivant.
+|: Tu es le chemin, Tu es le chemin,
+Le chemin, nouveau et vivant. :|
 
 # 4.
 Toi, le premier et le dernier,
 Source de toute félicité,
 Tu étais mort, mais voici, tu vis,
 Tu vis pour toute éternité.
-Tu as été ressuscité, Tu as été ressuscité
-Par la gloire du Père.
-Tu as été ressuscité, Tu as été ressuscité
-Par la gloire du Père.
+|: Tu as été ressuscité, Tu as été ressuscité
+Par la gloire du Père. :|
 
 ---
 
@@ -3038,14 +3027,10 @@ Mais dis, qui en est capable ?
 Hélas, aucune parole ne suffit ici.
 
 # C.
-Louange et gloire, nous te chantons,
+|: Louange et gloire, nous te chantons,
 Seigneur Jésus, toi qui nous as rachetés,
 Hosanna, Hosanna,
-Hosanna, nous chantons à l’Agneau de Dieu.
-Louange et gloire, nous te chantons,
-Seigneur Jésus, toi qui nous as rachetés,
-Hosanna, Hosanna,
-Hosanna, nous chantons à l’Agneau de Dieu.
+Hosanna, nous chantons à l’Agneau de Dieu. :|
 
 # 2.
 Vois Jésus, couronné dans les hauteurs des cieux !
@@ -3549,8 +3534,7 @@ Nous a cherchés et trouvés dans le monde.
 Ton Fils, le Juste, est mort pour nous ici
 Pour nous amener, sauvés, à Toi ;
 Il nous enseigne, comme des fils, à chanter avec joie
-Cet amour qui s’est offert,
-Cet amour qui s’est offert.
+|: Cet amour qui s’est offert. :|
 
 # 2.
 Aucun chant ne s’élève de la terre affligée,
@@ -3560,8 +3544,7 @@ Dont le son t’est agréable.
 Car Tu veux que tous ceux qui t’honorent ici
 Honorent aussi ton Fils ;
 Car ceux qui voient Jésus voient aussi le Père,
-En Lui nous atteignons ton cœur,
-En Lui nous atteignons ton cœur.
+|: En Lui nous atteignons ton cœur. :|
 
 # 3.
 Seigneur hautement loué, combien abondamment
@@ -3571,8 +3554,7 @@ Et le ciel te rend hommage.
 Tu es bien plus beau que les fils des hommes,
 Ô Christ de Dieu, couronné de gloire.
 Nous te voyons dans l’éclat resplendissant de l’éternité,
-Récompensé pour l’angoisse du Calvaire,
-Récompensé pour l’angoisse du Calvaire.
+|: Récompensé pour l’angoisse du Calvaire. :|
 
 ---
 
@@ -3724,8 +3706,8 @@ Le ciel ne voit pas de plus grand don
 Que le précieux sang de Christ.
 
 # 2.
-Et c’est ce même amour qui nous fait croire
-Que nous pouvons nous fier à ce sang,
+Et ce même amour nous donne la foi
+De nous fier à ce sang,
 Car sans lui, chercher le repos
 Serait vain.
 
@@ -3940,40 +3922,32 @@ Amour infini,
 Manifesté en Jésus,
 Dans ses souffrances et son opprobre,
 Qu’il a endurés pour nous !
-Louez l’Éternel, louez l’Éternel,
-L’Éternel, qui a porté ici notre péché !
-(a porté ici notre péché !)
-L’Éternel, qui a porté ici notre péché !
+|: Louez l’Éternel, :|
+|: L’Éternel, qui a porté ici notre péché ! :|
 
 # 2.
 Louez-le, lui qui a souffert la mort
 Sur le Golgotha pour nous,
 Pour nous sauver de cette détresse
 Où nous aurions dû périr !
-Louez l’Éternel, louez l’Éternel,
-L’Éternel, qui est mort ici pour nous !
-(est mort ici pour nous !)
-L’Éternel, qui est mort ici pour nous !
+|: Louez l’Éternel, :|
+|: L’Éternel, qui est mort ici pour nous ! :|
 
 # 3.
 Maintenant ressuscité, couronné de gloire,
 Haut sur le trône de majesté,
 À toi nous rendons éternellement louange,
 Jésus, Sauveur, Fils de Dieu !
-Louez l’Éternel, louez l’Éternel,
-L’Éternel sur son trône céleste !
-(trône céleste !)
-L’Éternel sur son trône céleste !
+|: Louez l’Éternel, :|
+|: L’Éternel sur son trône céleste ! :|
 
 # 4.
 Louez le Père, qui a ressuscité
 Le Christ par sa grande puissance,
 Comme tête de la race
 Qu’il a eue dans son conseil !
-Louez le Père, louez le Père,
-Pour son amour, sa grâce et sa puissance !
-(sa grâce et sa puissance !)
-Pour son amour, sa grâce et sa puissance !
+|: Louez le Père, :|
+|: Pour son amour, sa grâce et sa puissance ! :|
 
 ---
 
@@ -4022,34 +3996,34 @@ Nous apprend à compter l’opprobre de Christ
 > Text: Efter *O Blessed Saviour, is Thy love* av Joseph Stennett, 1716. Musik: St. Peter av Alexander R. Reinagle, 1836. 8.6.8.6
 
 # 1.
-Ô Seigneur, puisque ton amour est
-Si grand, si riche, si libre,
-Que nos cœurs, nos vies,
-Soient entièrement remplis de Toi.
+Ô Seigneur, puisque ton amour
+Est si grand, si riche, si libre,
+Que nos cœurs et que nos vies
+Soient remplis entièrement de Toi.
 
 # 2.
-Nous T’aimons pour ce que Tu es,
+Nous T'aimons pour ce que Tu es,
 Pour tout ce que nous voyons en Toi,
-Nous T’aimons pour la mort de la croix,
-Notre Rédempteur,
+Nous T'aimons pour la mort de la croix,
+Ô notre Rédempteur.
 
 # 3.
 Bien que Tu fusses égal au Père
-Et dans la création de Dieu,
-Tu T’es abaissé jusqu’à la terre
-Et es devenu serviteur.
+Et en forme de Dieu,
+Tu T'es abaissé jusqu'à la terre
+Et Tu es devenu serviteur.
 
 # 4.
 Tu as voulu devenir semblable aux hommes
-Et Te donner ici-bas,
-Afin que nous puissions devenir semblables à Toi
-Et Te voir tel que Tu es.
+Et Te livrer Toi-même ici-bas,
+Afin que nous devenions semblables à Toi
+Et que nous Te voyions tel que Tu es.
 
 # 5.
 Ô Jésus-Christ, Tu es pour ton Dieu
 Un parfum de bonne odeur ;
-Ton grand amour nous accorde une force nouvelle, un nouveau courage
-Et de la joie.
+Ton grand amour accorde à nos cœurs
+Force nouvelle, courage et joie.
 
 # 6.
 Accorde-nous, dans l’amour, la douceur et la foi,
@@ -4199,8 +4173,7 @@ D’amour et de perfection ;
 En Toi, un doux repos pour l’âme
 A été préparé par Dieu de toute éternité.
 En Toi, notre cœur se repose
-Et trouve toujours sa joie en Toi,
-Et trouve toujours sa joie en Toi.
+|: Et trouve toujours sa joie en Toi. :|
 
 # 2.
 Tu es l’« Amen » de Dieu pour l’éternité,
@@ -4208,8 +4181,7 @@ Et le commencement de sa création ;
 Témoin fidèle de Dieu, Fils bien-aimé,
 Ton être tout entier est son bon plaisir.
 Et le Père ne nous voit qu’en Toi,
-En Toi Il Se réjouit sans cesse,
-En Toi Il Se réjouit sans cesse.
+|: En Toi Il Se réjouit sans cesse. :|
 
 ---
 
@@ -5334,8 +5306,6 @@ Pourquoi hésites-tu encore à chercher
 Ta joie auprès du Sauveur bien-aimé ?
 Lui seul peut te donner le bonheur
 Qui demeure pour l’éternité.
-Lève-toi, sois libre,
-etc.
 
 ---
 
@@ -5870,8 +5840,7 @@ Parfait devant Dieu en Christ je me tiens.
 
 # C.
 Oh, chantez sa grande grâce,
-Chantez sa grande grâce,
-Chantez sa grande grâce,
+|: Chantez sa grande grâce, :|
 Chantez sa grâce !
 
 # 2.
@@ -7762,10 +7731,8 @@ Enseigne-nous, ô Dieu, à demeurer dans le calme,
 De l’attention à ton conseil.
 Aide-nous à accomplir ta volonté,
 Pendant que nous marchons ici-bas,
-Et avec un esprit obéissant, à écouter
-Tout ce que Tu enseignes dans ta parole.
-Et avec un esprit obéissant, à écouter
-Tout ce que Tu enseignes dans ta parole.
+|: Et avec un esprit obéissant, à écouter
+Tout ce que Tu enseignes dans ta parole. :|
 
 # 2.
 Nous te rendons grâce que l’Esprit puisse expliquer
@@ -7774,10 +7741,8 @@ Et révéler au cœur
 Christ et sa grande puissance,
 Lui qui, sur cette terre,
 Marchait dans le sentier de ta volonté,
-Lui qui maintenant, élevé en gloire,
-Est couronné de gloire par Toi.
-Lui qui maintenant, élevé en gloire,
-Est couronné de gloire par Toi.
+|: Lui qui maintenant, élevé en gloire,
+Est couronné de gloire par Toi. :|
 
 # 3.
 Quand nous Le contemplons ainsi
@@ -7786,10 +7751,8 @@ Alors en nous Il commence à régner
 Comme un maître dans sa maison ;
 Tout doit plier devant Lui,
 « Tout Lui est assujetti »,
-Chaque obstacle est écarté,
-Tout est vaincu par sa puissance.
-Chaque obstacle est écarté,
-Tout est vaincu par sa puissance.
+|: Chaque obstacle est écarté,
+Tout est vaincu par sa puissance. :|
 
 # 4.
 Ô Dieu, notre Père, nous Te louons
@@ -7798,10 +7761,8 @@ Tu nous feras avancer et manifester
 Par nous ton amour dès maintenant.
 Enseigne-nous donc à demeurer dans le calme,
 À prêter constamment attention à ton conseil,
-Jusqu’à ce que Tu révèles pleinement
-La gloire de ta grâce.
-Jusqu’à ce que Tu révèles pleinement
-La gloire de ta grâce.
+|: Jusqu’à ce que Tu révèles pleinement
+La gloire de ta grâce. :|
 
 ---
 
@@ -7872,10 +7833,8 @@ Jamais ne sera confondu
 Celui qui vient à lui par la foi.
 
 # C.
-Je me confie, entièrement je me confie,
-Oui, je m’appuie sur sa parole.
-Je me confie, entièrement je me confie,
-Oui, je m’appuie sur sa parole.
+|: Je me confie, entièrement je me confie,
+Oui, je m’appuie sur sa parole. :|
 
 # 2.
 Porte tout ton péché à Jésus,
@@ -8045,32 +8004,20 @@ Dirige tout et fait tout pour le bien.
 # 1.
 Dieu est un refuge, le Dieu d’éternité,
 Et ses bras s’étendent vers le bas.
-Il a promis et dit
-Qu’il préservera par sa puissance
-Son peuple racheté.
-Il a promis et dit
-Qu’il préservera par sa puissance
-Son peuple racheté.
+|: Il a promis et dit qu’il préservera par sa puissance
+Son peuple racheté. :|
 
 # 2.
 Heureux ce peuple qui comprend le son de l’allégresse,
 Ils marcheront dans la lumière de la face de Dieu.
-Ils vont de force en force
-Et de joie en joie,
-Jusqu’à ce qu’ils se tiennent devant Dieu sur la hauteur de Sion.
-Ils vont de force en force
-Et de joie en joie,
-Jusqu’à ce qu’ils se tiennent devant Dieu sur la hauteur de Sion.
+|: Ils vont de force en force et de joie en joie,
+Jusqu’à ce qu’ils se tiennent devant Dieu sur la hauteur de Sion. :|
 
 # 3.
 Leur force et leur parure, c’est toi, ô Dieu,
 Ils se réjouiront en ton saint nom.
-Tu as placé le secours
-En un Héros puissant,
-Et ton bras éternel est leur bouclier.
-Tu as placé le secours
-En un Héros puissant,
-Et ton bras éternel est leur bouclier.
+|: Tu as placé le secours en un Héros puissant,
+Et ton bras éternel est leur bouclier. :|
 
 ---
 
@@ -9264,10 +9211,8 @@ Puis-je douter de sa bonté
 Quand je vois sa direction ?
 Paix céleste, sécurité divine
 En Lui mon âme les trouve,
-Car je sais, quoi qu’il m’arrive,
-Jésus fait pourtant tout pour le bien.
-Car je sais, quoi qu’il m’arrive,
-Jésus fait pourtant tout pour le bien.
+|: Car je sais, quoi qu’il m’arrive,
+Jésus fait pourtant tout pour le bien. :|
 
 # 2.
 Il marche avec moi tout le long du chemin,
@@ -9276,10 +9221,8 @@ Me donne sa grâce dans chaque épreuve,
 Me fortifie par le pain de vie.
 Et si mon cœur venait à avoir soif,
 Que le chemin semble lourd et long,
-Des sources de joie jaillissent aussitôt du rocher,
-Comme elles l’ont fait autrefois.
-Des sources de joie jaillissent aussitôt du rocher,
-Comme elles l’ont fait autrefois.
+|: Des sources de joie jaillissent aussitôt du rocher,
+Comme elles l’ont fait autrefois. :|
 
 # 3.
 Il marche avec moi tout le long du chemin.
@@ -9288,10 +9231,8 @@ Et enfin, un repos éternel
 Me sera donné dans le royaume des cieux.
 Quand là-bas, libéré, glorifié,
 Je me prosternerai devant le trône,
-Je n’oublierai pas ce cantique :
-Il a marché avec moi tout le long du chemin !
-Je n’oublierai pas ce cantique :
-Il a marché avec moi tout le long du chemin !
+|: Je n’oublierai pas ce cantique :
+Il a marché avec moi tout le long du chemin ! :|
 
 ---
 
@@ -9305,8 +9246,7 @@ Et je courrai avec joie dans ta voie ;
 Par ta parole de grâce, réconforte-moi
 Et rappelle-moi sans cesse ton amour.
 Je dépose mon fardeau sur toi
-Et je sais que tu le portes comme tien,
-Et je sais que tu le portes comme tien.
+|: Et je sais que tu le portes comme tien. :|
 
 # 2.
 Qu’ai-je donc reçu en toi :
@@ -9314,8 +9254,7 @@ Ma lumière dans la nuit, mon soleil le jour,
 Ma source sur mon chemin désertique,
 Mon pain, ma force lorsque je suis faible,
 Ma paix, ma joie, ma gloire,
-Mon bouclier et ma justice !
-Mon bouclier et ma justice !
+|: Mon bouclier et ma justice ! :|
 
 # 3.
 Ton amour immuable
@@ -9323,8 +9262,7 @@ M’a toujours entouré de grâce,
 Et avant même que mon cœur ne batte en moi,
 Ta tendre pensée était pour moi ;
 Ah, que le temps que je parcours ici-bas,
-Je te suive, mon cher Seigneur !
-Je te suive, mon cher Seigneur !
+|: Je te suive, mon cher Seigneur ! :|
 
 ---
 
@@ -9337,11 +9275,7 @@ Sauveur fidèle, conduis-nous maintenant
 À travers ce pays aride !
 Nous sommes faibles, Tu es puissant,
 Soutiens-nous de ta main.
-Pain du ciel,
-Pain du ciel,
-Nourris-nous sur notre chemin du désert !
-Pain du ciel,
-Pain du ciel,
+|: Pain du ciel, :|
 Nourris-nous sur notre chemin du désert !
 
 # 2.
@@ -9349,8 +9283,7 @@ Maintenant, la source de vie est ouverte,
 Le fleuve de la santé en jaillit.
 Comme avec la colonne de nuée élevée,
 Conduis-nous jusqu’au terme du voyage !
-Fort et puissant,
-Fort et puissant,
+|: Fort et puissant, :|
 Tu es toi-même notre force et notre bouclier.
 
 # 3.
@@ -9358,8 +9291,7 @@ Tandis que nous marchons dans le désert,
 Garde-nous constamment près de Toi,
 Toi qui es notre rocher de salut
 Et notre forteresse éternelle !
-Tu es fidèle,
-Tu es fidèle,
+|: Tu es fidèle, :|
 Patient, immuable.
 
 ---
@@ -9427,30 +9359,24 @@ Lumière encore auprès du tombeau.
 Est ton amour pour nous tous !
 Quelle pensée peut le saisir,
 Quelle langue l’expliquer ici ?
-Ton Fils, qui était toute ta joie,
-Tu l’as livré en sacrifice.
-Ton Fils, qui était toute ta joie,
-Tu l’as livré en sacrifice.
+|: Ton Fils, qui était toute ta joie,
+Tu l’as livré en sacrifice. :|
 
 # 2.
 Seigneur, combien douce est ta voie ;
 Tu gouvernes ton royaume avec grâce,
 Le chagrin, l’angoisse, le souci s’éloignent,
 Et la crainte fuit en ta présence.
-Tu rassasies aussi richement notre âme,
-Toi-même, Seigneur, tu es notre part.
-Tu rassasies aussi richement notre âme,
-Toi-même, Seigneur, tu es notre part.
+|: Tu rassasies aussi richement notre âme,
+Toi-même, Seigneur, tu es notre part. :|
 
 # 3.
 Dans le combat, tu es toujours notre paix,
 Dans la faiblesse, notre soutien, notre force,
 Notre vigueur jusqu’à la fin du voyage,
 Et quand tu viendras, comme tu l’as dit,
-Tu seras éternellement, dans les hauteurs des cieux,
-Ô Jésus, toute notre joie.
-Tu seras éternellement, dans les hauteurs des cieux,
-Ô Jésus, toute notre joie.
+|: Tu seras éternellement, dans les hauteurs des cieux,
+Ô Jésus, toute notre joie. :|
 
 ---
 
@@ -10110,8 +10036,7 @@ Où Tu sièges déjà parmi la foule des anges,
 Trônant dans la lumière des cieux.
 Bientôt Tu viendras nous conduire
 Chez Toi et nous rendre heureux.
-Oh, quelle joie ce sera !
-Oh, quelle joie ce sera !
+|: Oh, quelle joie ce sera ! :|
 
 # 2.
 Ce que l’oreille n’a pas entendu,
@@ -10120,8 +10045,7 @@ Ce que le cœur de l’homme n’a pas trouvé,
 Dieu l’a préparé pour les siens.
 L’Esprit nous le révèle,
 Et par la foi Il le manifeste,
-Ce qui nous est donné en Christ.
-Ce qui nous est donné en Christ.
+|: Ce qui nous est donné en Christ. :|
 
 # 3.
 Par grâce, une troupe de pèlerins,
@@ -10130,8 +10054,7 @@ Mais bientôt nous serons auprès de Toi,
 Pour Te voir, Jésus, tel que Tu es.
 Tu Te tiens devant Dieu pour nous,
 Tandis que l’Esprit nous conduit ici
-Vers notre patrie.
-Vers notre patrie.
+|: Vers notre patrie. :|
 
 # 4.
 Bientôt, Seigneur, Tu viendras,
@@ -10140,8 +10063,7 @@ Où, avec tous tes fidèles,
 Nous contemplerons ta gloire,
 Et d’une langue joyeuse et libre,
 Nous chanterons éternellement louange et honneur
-À Toi, qui nous as tant aimés.
-À Toi, qui nous as tant aimés.
+|: À Toi, qui nous as tant aimés. :|
 
 ---
 
@@ -11297,31 +11219,24 @@ Un repos éternel nous a acquis le Seigneur Jésus.
 Remplira les salles des cieux en foule,
 |: Quand le temps sera achevé ! :|
 Quand tous les rachetés, chacun et tous,
-Prendront part au chant merveilleux
-De l’amour libre de Jésus,
-De l’amour libre de Jésus.
-Prendront part au chant merveilleux
-De l’amour libre de Jésus.
+|: Prendront part au chant merveilleux
+|: De l’amour libre de Jésus. :|:|
 
 # 2.
 Chacun alors sera semblable au Sauveur,
 Chacun portera une couronne royale
 |: Et une robe blanche, immaculée. :|
 Un cantique éternel s’élèvera alors
-Vers Toi, Agneau précieux de Dieu, vers Toi,
-|: Dans le monde de lumière auprès de Dieu. :|
-Vers Toi, Agneau précieux de Dieu, vers Toi,
-Dans le monde de lumière auprès de Dieu.
+|: Vers Toi, Agneau précieux de Dieu, vers Toi,
+|: Dans le monde de lumière auprès de Dieu. :|:|
 
 # 3.
 Auprès de Toi, notre joie ne sera plus entravée,
 Ta gloire, nous la verrons clairement alors,
 |: Et nous T’apporterons notre hommage. :|
 Le jour lumineux, nous l’attendons maintenant,
-Où nous chanterons de tout cœur : Toi,
-|: Ô Seigneur, Tu es digne ! :|
-Où nous chanterons de tout cœur : Toi,
-Ô Seigneur, Tu es digne !
+|: Où nous chanterons de tout cœur : Toi,
+|: Ô Seigneur, Tu es digne ! :|:|
 
 ---
 
@@ -11368,22 +11283,19 @@ Le regard fixé sur l’Agneau de Dieu.
 # 1.
 Bien haut dans la maison de notre Père
 Notre demeure est préparée ;
-Là est notre foyer, notre grande récompense,
-Là est notre foyer, notre grande récompense,
+|: Là est notre foyer, notre grande récompense, :|
 Notre Jésus, Lui, y est.
 
 # 2.
 Auprès de Lui, bientôt nous brillerons
 Dans notre robe blanche ;
-Sa présence nous réjouira sans cesse,
-Sa présence nous réjouira sans cesse,
+|: Sa présence nous réjouira sans cesse, :|
 Son épouse chèrement acquise.
 
 # 3.
 Toute trace de péché aura alors disparu,
 Avec tout ce qui troublait notre paix,
-Et chez les bien-aimés de Dieu,
-Et chez les bien-aimés de Dieu,
+|: Et chez les bien-aimés de Dieu, :|
 Nous habiterons éternellement.
 
 ---
