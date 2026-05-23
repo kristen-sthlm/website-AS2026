@@ -124,17 +124,19 @@ layout: base.njk
   </section>
 
   <nav class="lang-toggle" aria-label="{{ t.languageLabel }}">
-    <a href="{{ ('/hymns/' + padded + '-sv/') | url }}" class="lang-btn{% if lang == 'sv' %} active{% endif %}">SV</a>
-    <a href="{{ ('/hymns/' + padded + '-en/') | url }}" class="lang-btn{% if lang == 'en' %} active{% endif %}">EN</a>
-    <a href="{{ ('/hymns/' + padded + '-fr/') | url }}" class="lang-btn{% if lang == 'fr' %} active{% endif %}">FR</a>
-    <a href="{{ ('/hymns/' + padded + '-ar/') | url }}" class="lang-btn{% if lang == 'ar' %} active{% endif %}">AR</a>
+    <a href="{{ ('/hymns/' + padded + '-sv/') | url }}" class="lang-btn lang-btn-primary{% if lang == 'sv' %} active{% endif %}">SV</a>
+    <span class="lang-divider" aria-hidden="true"></span>
+    <a href="{{ ('/hymns/' + padded + '-ar/') | url }}" class="lang-btn lang-btn-translation{% if lang == 'ar' %} active{% endif %}">AR</a>
+    <a href="{{ ('/hymns/' + padded + '-en/') | url }}" class="lang-btn lang-btn-translation{% if lang == 'en' %} active{% endif %}">EN</a>
+    <a href="{{ ('/hymns/' + padded + '-es/') | url }}" class="lang-btn lang-btn-translation{% if lang == 'es' %} active{% endif %}">ES</a>
+    <a href="{{ ('/hymns/' + padded + '-fr/') | url }}" class="lang-btn lang-btn-translation{% if lang == 'fr' %} active{% endif %}">FR</a>
   </nav>
 
   {% if lang != 'sv' and t.translationNotice %}
-    {% if lang == 'ar' and t.translationNoticeMachine %}
-      <p class="translation-notice" dir="rtl">{{ t.translationNotice }} {{ t.translationNoticeMachine }}</p>
+    {% if t.translationNoticeMachine %}
+      <p class="translation-notice"{% if lang == 'ar' %} dir="rtl"{% endif %}>{{ t.translationNotice }} {{ t.translationNoticeMachine }}</p>
     {% else %}
-      <p class="translation-notice"{% if lang == 'ar' %} dir="rtl"{% endif %}>{{ t.translationNotice }}</p>
+      <p class="translation-notice">{{ t.translationNotice }}</p>
     {% endif %}
   {% endif %}
 

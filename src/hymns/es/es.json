@@ -1,0 +1,5 @@
+{
+  "layout": "hymn.njk",
+  "permalink": "/hymns/{{ page.fileSlug }}-es/",
+  "tags": ["hymn"]
+}

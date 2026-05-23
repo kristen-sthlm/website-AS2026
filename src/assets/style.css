@@ -113,57 +113,52 @@ button { font-family: inherit; cursor: pointer; }
 
 /* ---------- Footer ---------- */
 .site-footer {
-  margin-top: 4.5rem;
-  padding: 2rem 1.25rem 2.5rem;
+  margin: 2rem auto 0;
+  padding: 1.25rem 1.25rem 1.25rem;
   font-family: var(--f-sans);
   border-top: 1px solid var(--c-rule-soft);
+  max-width: var(--max-w);
 }
 
 .footer-columns {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1.5rem 2rem;
-  max-width: 36rem;
-  margin: 0 auto 1.75rem;
-}
-
-.footer-col-title {
-  font-family: var(--f-sans);
-  font-size: 0.68rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--c-muted);
-  margin: 0 0 0.6rem;
+  grid-template-columns: auto auto;
+  justify-content: start;
+  column-gap: 3rem;
+  row-gap: 0;
+  margin: 0 0 1rem;
 }
 
 .footer-list {
   list-style: none;
   padding: 0;
   margin: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0.45rem;
+}
+.footer-list li {
+  line-height: 1.55;
 }
 .footer-list a {
-  font-size: 0.85rem;
+  font-size: 0.78rem;
   color: var(--c-ink-soft);
   transition: color 0.15s ease;
 }
 .footer-list a:hover { color: var(--c-accent); }
 
 .footer-meta {
-  font-size: 0.7rem;
+  font-size: 0.68rem;
   color: var(--c-muted);
-  letter-spacing: 0.04em;
+  letter-spacing: 0.03em;
   margin: 0;
-  line-height: 1.6;
-  text-align: center;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--c-rule-soft);
-  max-width: 36rem;
-  margin-left: auto;
-  margin-right: auto;
+  line-height: 1.55;
+  padding: 0;
+  border-top: 0;
+}
+.footer-meta a {
+  color: inherit;
+  transition: color 0.15s ease;
+}
+.footer-meta a:hover {
+  color: var(--c-accent);
 }
 .footer-sep {
   margin: 0 0.4rem;
@@ -706,27 +701,71 @@ body:not(.show-all-verses-search) .hymn-row td.verse { display: none; }
 /* Language toggle */
 .lang-toggle {
   display: flex;
+  align-items: center;
   justify-content: center;
+  gap: 0;
   margin: 1.25rem auto 1.5rem;
-  border: 1px solid var(--c-rule);
-  border-radius: var(--radius);
-  overflow: hidden;
-  background: var(--c-surface);
   width: fit-content;
 }
+
 .lang-btn {
-  padding: 0.45rem 1rem;
+  padding: 0.45rem 0.85rem;
   font-family: var(--f-sans);
   font-size: 0.7rem;
   font-weight: 500;
   letter-spacing: 0.12em;
   color: var(--c-muted);
-  border-right: 1px solid var(--c-rule);
+  background: var(--c-surface);
+  border: 1px solid var(--c-rule);
   transition: all 0.12s ease;
 }
-.lang-btn:last-child { border-right: 0; }
-.lang-btn:hover { background: var(--c-hover); color: var(--c-ink); }
-.lang-btn.active { background: var(--c-ink); color: var(--c-bg); }
+.lang-btn:hover {
+  background: var(--c-hover);
+  color: var(--c-ink);
+}
+.lang-btn.active {
+  background: var(--c-ink);
+  color: var(--c-bg);
+  border-color: var(--c-ink);
+}
+
+/* The original Swedish — standalone, fully rounded */
+.lang-btn-primary {
+  color: var(--c-ink);
+  border-radius: var(--radius);
+}
+
+/* Translations: olive-toned, grouped into one segmented control */
+.lang-btn-translation {
+  color: color-mix(in srgb, var(--c-accent) 60%, var(--c-muted));
+  background: color-mix(in srgb, var(--c-accent-bg) 50%, var(--c-surface));
+  border-right-width: 0;
+}
+.lang-divider + .lang-btn-translation {
+  border-radius: var(--radius) 0 0 var(--radius);
+}
+.lang-btn-translation:last-child {
+  border-right-width: 1px;
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+.lang-btn-translation:hover {
+  color: var(--c-accent);
+  background: var(--c-accent-bg);
+}
+.lang-btn-translation.active {
+  background: var(--c-accent);
+  color: var(--c-bg);
+  border-color: var(--c-accent);
+}
+
+/* Thin spacer between the original and the translation group */
+.lang-divider {
+  display: inline-block;
+  width: 1px;
+  height: 1.2rem;
+  background: var(--c-rule);
+  margin: 0 0.7rem;
+}
 
 /* Translation notice (EN/FR pages only) */
 .translation-notice {
@@ -920,7 +959,7 @@ body:not(.show-all-verses-search) .hymn-row td.verse { display: none; }
 /* Reserve space at the bottom of hymn/score pages so content does not
    hide behind the fixed player */
 body.is-hymn-page {
-  padding-bottom: 6rem;
+  padding-bottom: 5rem;
 }
 
 /* Lyrics — the heart of the page */

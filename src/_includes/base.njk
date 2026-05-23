@@ -27,28 +27,24 @@
   <footer class="site-footer">
     <div class="footer-columns">
       <div class="footer-col">
-        <h2 class="footer-col-title">Om sångboken</h2>
         <ul class="footer-list">
           <li><a href="{{ '/about/' | url }}">Om projektet</a></li>
+          <li><a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Kontakt ↗</a></li>
+          <li><a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Rapportera fel ↗</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <ul class="footer-list">
           <li><a href="{{ '/license/' | url }}">Licens</a></li>
           <li><a href="{{ '/privacy/' | url }}">Integritet</a></li>
           <li><a href="{{ '/legal/' | url }}">Rättsligt</a></li>
         </ul>
       </div>
-      <div class="footer-col">
-        <h2 class="footer-col-title">Kontakt</h2>
-        <ul class="footer-list">
-          <li><a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Kontaktformulär ↗</a></li>
-          <li><a href="https://tally.so/r/7R4MZz" target="_blank" rel="noopener">Rapportera fel ↗</a></li>
-        </ul>
-      </div>
     </div>
     <p class="footer-meta">
-      <span>{{ site.title }}</span>
+      <a href="{{ '/about/' | url }}">{{ site.title }}, {{ site.year }}</a>
       <span class="footer-sep">·</span>
-      <span>{{ site.publisher }}, {{ site.year }}</span>
-      <span class="footer-sep">·</span>
-      <span>{{ site.license }}</span>
+      <a href="{{ '/license/' | url }}">{{ site.license }}</a>
     </p>
   </footer>
 </body>
