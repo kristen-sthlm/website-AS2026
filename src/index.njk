@@ -44,9 +44,9 @@ permalink: /
     </details>
   </header>
 
-  <blockquote class="epigraph">
-    <p>Är någon glad, skall han sjunga lovsånger.</p>
-    <cite>Jakobs brev 5:13</cite>
+  <blockquote class="epigraph" id="epigraph" data-pool='{{ epigraphs | dump | safe }}'>
+    <p class="epigraph-text">{{ epigraphs[0].text }}</p>
+    <cite class="epigraph-ref">{{ epigraphs[0].ref }}</cite>
   </blockquote>
 
   <div class="index-toolbar">

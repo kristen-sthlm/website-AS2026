@@ -181,6 +181,21 @@ if (backToTop) {
   onScroll();
 }
 
+// --- Epigraph: pick a random verse from the pool on each page load -----
+const epigraphEl = document.getElementById("epigraph");
+if (epigraphEl) {
+  try {
+    const pool = JSON.parse(epigraphEl.dataset.pool || "[]");
+    if (pool.length > 1) {
+      const choice = pool[Math.floor(Math.random() * pool.length)];
+      epigraphEl.querySelector(".epigraph-text").textContent = choice.text;
+      epigraphEl.querySelector(".epigraph-ref").textContent = choice.ref;
+    }
+  } catch (err) {
+    // pool malformed — keep the server-rendered fallback
+  }
+}
+
 // Initial render
 applySort();
 applyFilter();
