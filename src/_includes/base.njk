@@ -11,10 +11,6 @@
 </head>
 {% set isHymnPage = page.url.indexOf('/hymns/') == 0 %}
 <body class="{% if isHymnPage %}is-hymn-page{% endif %}">
-  <div class="wip-banner" role="status">
-    Webbplatsen är under uppbyggnad — ändringar och förbättringar pågår.
-  </div>
-
   <main>
     {{ content | safe }}
   </main>
